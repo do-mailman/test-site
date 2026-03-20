@@ -3,6 +3,6 @@ layout: default
 title: ホーム
 ---
 
-# こんにちは
+### 夜ふかし郵便局(仮)のトップページです
 
-GitHub Pages のトップページです。
+工事中
