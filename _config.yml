@@ -1,3 +1,6 @@
-title: 未明郵便局（仮）
+title: 未明郵便局(仮)
 description: 思考とか日記とかについて考える
 theme: minima
+header_pages:
+  - index.md
+  - diary.md
