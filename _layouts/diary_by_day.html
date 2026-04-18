@@ -4,7 +4,7 @@ layout: default
 
 <div class="diary-by-day">
   <p>
-    <a href="{{ '/diary/by-day/' | relative_url }}">日付（%d）別一覧</a>
+    <a href="{{ '/diary/by-day/' | relative_url }}">日付別一覧</a>
     ·
     <a href="{{ '/diary/' | relative_url }}">Diary トップ</a>
   </p>
@@ -25,18 +25,28 @@ layout: default
   {% if n == 0 %}
   <p>この「日」（{{ page.day_of_month }}日）に該当する日記はまだありません。</p>
   {% else %}
-  <ul class="diary-by-day-list">
-    {% for p in sorted %}
+  {% assign chronological = site.pages | where: "category", "diary" | sort: "date" %}
+  <div class="diary-by-day-entries">
+    {% for p in chronological %}
       {% if p.date %}
         {% assign pd = p.date | date: "%d" %}
         {% if pd == page.day_of_month %}
-    <li>
-      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-      {% if p.date %} — {{ p.date | date: "%Y年%m月%d日" }}{% endif %}
-    </li>
+    <article class="diary-by-day-entry">
+      <h2 class="diary-by-day-heading" id="entry-{{ p.date | date: '%Y-%m-%d' }}">
+        <a href="{{ p.url | relative_url }}">{{ p.date | date: "%Y年%m月%d日" }}</a>
+      </h2>
+      <div class="diary-by-day-body post-content">
+        {% assign body = p.content | strip %}
+        {% if body == "" %}
+        <p>本文をまとめページに埋め込めませんでした（ビルド順の制限のことがあります）。<a href="{{ p.url | relative_url }}">個別ページで読む</a></p>
+        {% else %}
+        {{ p.content }}
+        {% endif %}
+      </div>
+    </article>
         {% endif %}
       {% endif %}
     {% endfor %}
-  </ul>
+  </div>
   {% endif %}
 </div>

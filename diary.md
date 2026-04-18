@@ -6,7 +6,7 @@ permalink: /diary/
 
 # Diary
 
-日付の「日」だけでまとめる（%d 統一）: [日付（%d）別一覧]({{ "/diary/by-day/" | relative_url }})
+日付の「日」だけでまとめる: [日付別一覧]({{ "/diary/by-day/" | relative_url }})
 
 ---
 
