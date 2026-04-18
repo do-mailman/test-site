@@ -6,6 +6,10 @@ permalink: /diary/
 
 # Diary
 
+日付の「日」だけでまとめる（%d 統一）: [日付（%d）別一覧]({{ "/diary/by-day/" | relative_url }})
+
+---
+
 {% assign diary_pages = site.pages | where: "category", "diary" | sort: "date" | reverse %}
 {% for p in diary_pages %}
 - [{{ p.title }}]({{ p.url | relative_url }}){% if p.date %} - {{ p.date | date: "%Y-%m-%d" }}{% endif %}

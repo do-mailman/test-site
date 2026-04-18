@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="diary-by-day">
+  <p>
+    <a href="{{ '/diary/by-day/' | relative_url }}">日付（%d）別一覧</a>
+    ·
+    <a href="{{ '/diary/' | relative_url }}">Diary トップ</a>
+  </p>
+
+  {{ content }}
+
+  {% assign sorted = site.pages | where: "category", "diary" | sort: "date" | reverse %}
+  {% assign n = 0 %}
+  {% for p in sorted %}
+    {% if p.date %}
+      {% assign pd = p.date | date: "%d" %}
+      {% if pd == page.day_of_month %}
+        {% assign n = n | plus: 1 %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% if n == 0 %}
+  <p>この「日」（{{ page.day_of_month }}日）に該当する日記はまだありません。</p>
+  {% else %}
+  <ul class="diary-by-day-list">
+    {% for p in sorted %}
+      {% if p.date %}
+        {% assign pd = p.date | date: "%d" %}
+        {% if pd == page.day_of_month %}
+    <li>
+      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+      {% if p.date %} — {{ p.date | date: "%Y年%m月%d日" }}{% endif %}
+    </li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
