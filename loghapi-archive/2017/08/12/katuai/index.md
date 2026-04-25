@@ -8,6 +8,8 @@ categories:
 coverImage: "IMARIC20160805472116_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 以前幸せとはお金や交友関係などに対する自分の期待をどれだけ満たしているかだということを書きました。そのためには自分の期待を正確に理解する必要があると。
 
 [https://log-is-fun.com/how-to-be-happy/](https://log-is-fun.com/how-to-be-happy/)

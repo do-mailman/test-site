@@ -9,6 +9,8 @@ categories:
 coverImage: "example1.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 年末ですね。
 
 というわけで毎年年末に本を出すようになって3年目となりました。

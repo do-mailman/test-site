@@ -8,6 +8,8 @@ categories:
 coverImage: "IMG_9008.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 前回どんなふうにバレットジャーナルを運用しているかご紹介しました。
 
 [https://log-is-fun.com/bullet-journal3/](https://log-is-fun.com/bullet-journal3/)

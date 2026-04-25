@@ -6,6 +6,8 @@ categories:
   - "scrapbox"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 最近「ほんぽっぷ」という本や映画、マンガの紹介ブログを始めています。
 
 [https://honpop.com/aitokaseigitoka/](https://honpop.com/aitokaseigitoka/)

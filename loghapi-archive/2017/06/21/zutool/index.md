@@ -8,6 +8,8 @@ categories:
 coverImage: "OZP73_atamagawareruyouniitai20130707_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 突然ですが頭痛もちです。
 
 頭痛には様々な原因がありますが、わたしの場合、体調不良からくるものと気圧の変化など環境の変化によるもの、この2つのパターンがありました。

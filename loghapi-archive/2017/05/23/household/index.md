@@ -7,6 +7,8 @@ categories:
 coverImage: "YUUKI150321020I9A4366_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 家計簿をつけていて気づいたことがあります。ひとは「浪費」なんてしないんだなと。
 
 ## 浪費などない？

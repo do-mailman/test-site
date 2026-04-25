@@ -9,6 +9,8 @@ categories:
 coverImage: "gori0I9A3099072103255_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 Evernoteは優れた日記ツールです。
 
 https://log-is-fun.com/evernote1/

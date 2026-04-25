@@ -7,6 +7,8 @@ categories:
   - "日記の効果"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 いまこの本を読んでいます。
 
 [![](images/519I7LKs5tL._SL160_.jpg)](//af.moshimo.com/af/c/click?a_id=765702&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4152095598)![](images/impression)

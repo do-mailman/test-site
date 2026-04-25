@@ -7,6 +7,8 @@ categories:
   - "本の紹介"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 [![](images/q)](https://www.amazon.co.jp/%E6%97%A5%E8%A8%98%E5%8A%9B%E2%80%95%E3%80%8E%E6%97%A5%E8%A8%98%E3%80%8F%E3%82%92%E6%9B%B8%E3%81%8F%E7%94%9F%E6%B4%BB%E3%81%AE%E3%81%99%E3%81%99%E3%82%81-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%83%97%E3%83%A9%E3%82%B9%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E6%96%B0%E6%9B%B8-%E9%98%BF%E4%B9%85-%E6%82%A0/dp/4062722011/ref=as_li_ss_il?ie=UTF8&qid=1549336205&sr=8-2&keywords=%E6%97%A5%E8%A8%98%E5%8A%9B%E3%80%80&linkCode=li3&tag=do0909-22&linkId=e57d44f23f4060917ddc693779e05346&language=ja_JP)
 
 ログハピ！！の方は久しぶりの更新となってしまいました。こんにちは、ゆうびんやです。

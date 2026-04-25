@@ -6,6 +6,8 @@ categories:
   - "workflowy"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 最近はDynalistとかWorkFlowy以外のアウトライナーが話題になっています。ただ私はWorkFlowyからはまだまだ乗り移れなそうです。
 
 WorkFlowyには使えるブックマークレットとかアドオンがいっぱいあるので、そこらへんを使っているとなかなか移りにくいんですよね。

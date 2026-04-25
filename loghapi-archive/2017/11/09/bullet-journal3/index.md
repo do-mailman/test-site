@@ -7,6 +7,8 @@ categories:
 coverImage: "IMG_9019.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 前回バレットジャーナルを始めるために5冊候補を選びました。
 
 [https://log-is-fun.com/bullet-journal2/](https://log-is-fun.com/bullet-journal2/)

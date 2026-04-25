@@ -7,6 +7,8 @@ categories:
 coverImage: "IMG_5904.png"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 日記の最後に
 
 「今日も一日お疲れ様でした」

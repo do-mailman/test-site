@@ -7,5 +7,6 @@ title: ホーム
 
 工事中
 
+カテゴリ一覧
 - [日記](diary/)
 - [ログハピ！アーカイブ](loghapi-archive/)

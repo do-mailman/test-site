@@ -9,6 +9,8 @@ categories:
 coverImage: "C789_yousyomihiraki_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 ## はじめに
 
 この記事はkindle出版を目指している「日記のすすめ（仮）」の一部です。

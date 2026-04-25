@@ -9,6 +9,8 @@ categories:
 coverImage: "thank-18624_640.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 以前感謝日記の効果について記事を書きました。
 
 [https://log-is-fun.com/thanksdiary/](https://log-is-fun.com/thanksdiary/)

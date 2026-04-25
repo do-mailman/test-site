@@ -8,6 +8,8 @@ categories:
 coverImage: "nikkinosusumehyousi-e1514381267351.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 Amazonで発売中の「日記のすすめ～日記で人生はもっと楽しくなる!～」のサンプルページです。
 
 本の中から「はじめに」と「休日終わりに憂鬱にならないための日記」の項目をご紹介します。

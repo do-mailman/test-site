@@ -9,6 +9,8 @@ categories:
 coverImage: "WorkFlowy例.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 前回、日記から大切なものを見つけると記事を書きました。
 
 [https://log-is-fun.com/world-last-day/](https://log-is-fun.com/world-last-day/)

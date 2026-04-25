@@ -9,6 +9,8 @@ categories:
 coverImage: "HIGA62_notepen_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 去年からiPad Proを手帳やノートとして活用するようになりました。
 
 https://log-is-fun.com/ipad-tetyou/

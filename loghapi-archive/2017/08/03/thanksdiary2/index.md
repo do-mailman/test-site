@@ -9,6 +9,8 @@ categories:
 coverImage: "XEN7615020_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 これまで感謝日記についていくつか記事を書いてきました
 
 [手軽に前向き。感謝日記の効果とは？](https://log-is-fun.com/thanksdiary/)  

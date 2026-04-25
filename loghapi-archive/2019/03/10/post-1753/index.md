@@ -9,6 +9,8 @@ categories:
 coverImage: "9C3C503B-66DB-4F6C-8A1A-DFB984E53A05.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 本読んでますか？
 
 ではどれほどの時間を本と過ごし、どれぐらいのページ数を読めているか分かりますか？

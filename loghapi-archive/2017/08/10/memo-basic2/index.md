@@ -7,6 +7,8 @@ categories:
 coverImage: "HIGA62_notepen_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 以前メモの基本ということで以下の3点を上げました
 
 1. メモ帳は常に開いておく

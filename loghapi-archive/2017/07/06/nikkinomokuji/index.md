@@ -10,6 +10,8 @@ categories:
 coverImage: "IMG_7331-e1499259487805.png"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 日記を始める方におすすめな日記の書き方が一行日記です。一行日記は手軽に日記の効果が分かる日記といえます。
 
 [https://log-is-fun.com/one-sentence-diary1/](https://log-is-fun.com/one-sentence-diary1/)

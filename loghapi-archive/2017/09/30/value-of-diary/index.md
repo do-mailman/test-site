@@ -6,6 +6,8 @@ categories:
   - "日記の効果"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 「ぞのドットコム」のぞのさんのおもしろそうな企画「寄せ書きブログ」に参加しました。
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="ja"><p dir="ltr" lang="ja">ブログを使って、面白そうな実験を始めてみました。<br>ブロガーさんなら誰でも参加できます。もしピーンと来たら、お気軽に参加してみてください。<br><br>「<a href="https://twitter.com/hashtag/%E5%AF%84%E3%81%9B%E6%9B%B8%E3%81%8D%E3%83%96%E3%83%AD%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#寄せ書きブログ</a>」って実験を始めます！ブロガーさん、集まれ！　<a href="https://twitter.com/hashtag/%E5%AF%84%E3%81%9B%E6%9B%B8%E3%81%8D%E3%83%96%E3%83%AD%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#寄せ書きブログ</a><a href="https://t.co/9Dmbw00acj">https://t.co/9Dmbw00acj</a></p><div></div>— ぞの (@z02n05) <a href="https://twitter.com/z02n05/status/910104730856067072?ref_src=twsrc%5Etfw">2017年9月19日</a></blockquote>

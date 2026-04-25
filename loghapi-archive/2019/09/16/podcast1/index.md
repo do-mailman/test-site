@@ -9,6 +9,8 @@ categories:
 coverImage: "logo-1.png"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 いま、ポッドキャストに少しハマっています。
 
 [https://anchor.fm/mailman](https://anchor.fm/mailman)

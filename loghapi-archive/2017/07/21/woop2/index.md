@@ -9,6 +9,8 @@ categories:
 coverImage: "IMG_7475.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 前回の記事でやりたいことを実行に移せるようにするテクニック「WOOP」を紹介しました
 
 [https://log-is-fun.com/woop1/](https://log-is-fun.com/woop1/)

@@ -7,6 +7,8 @@ categories:
 coverImage: "shindokodomoumi_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 夏休みですね。夏休みといえばよく宿題として出されるのが「夏休みの日記」です。
 
 夏休み最終日にまとめて書いたなんて経験のある方はけっこう多いのではないでしょうか。

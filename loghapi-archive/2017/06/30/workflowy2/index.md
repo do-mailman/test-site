@@ -9,6 +9,8 @@ categories:
 coverImage: "WorkFlowy二画面.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 前回の記事でWorkFlowyへ日記を書く方法を書きました。
 
 [https://log-is-fun.com/workflowy1/](https://log-is-fun.com/workflowy1/)

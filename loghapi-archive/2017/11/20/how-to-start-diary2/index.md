@@ -7,6 +7,8 @@ categories:
 coverImage: "HIGA62_notepen_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 日記を簡単に始めるなら手書きが一番だと思っています。
 
 そこで今回は手書き日記を始めるお手軽3ステップをご紹介します。

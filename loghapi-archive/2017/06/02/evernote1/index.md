@@ -8,6 +8,8 @@ categories:
 coverImage: "MIYADSC_4455_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 手書きとデジタルの特徴について以前ご紹介しました
 
 [https://log-is-fun.com/how-to-start-diary1/](https://log-is-fun.com/how-to-start-diary1/)

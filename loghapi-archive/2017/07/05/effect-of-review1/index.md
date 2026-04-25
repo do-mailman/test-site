@@ -7,6 +7,8 @@ categories:
 coverImage: "Photoelly014_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 日記などの記録はなぜ書くのでしょうか。
 
 大辞林で「記録」を調べてみると以下のように出ています。

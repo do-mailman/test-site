@@ -8,6 +8,8 @@ categories:
 coverImage: "sarandy-westfall-qqd8APhaOg4-unsplash-1.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 スマホで撮った写真を探すのってなかなか苦労する時ってありますよね。
 
 「あの時のあの写真がみたいんだけど、あの時っていつだっけ？」

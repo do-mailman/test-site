@@ -7,6 +7,8 @@ categories:
   - "幸せの踏み台"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 [![](images/41orB8c6fnL.jpg)](//af.moshimo.com/af/c/click?a_id=765702&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2FB07MK5Y84X)![](images/impression) 
 
 一年コツコツ書き上げた「あなたの幸せの踏み台になる本」が遂に発売となりました！

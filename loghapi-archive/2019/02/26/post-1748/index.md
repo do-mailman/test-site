@@ -7,6 +7,8 @@ categories:
 coverImage: "grandfather-2391461_1280.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 ミュージカルの映画を時々見ます。
 
 今まで聴いた中で、印象に残っている曲の１つがSeasons of Loveてす。

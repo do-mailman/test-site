@@ -10,6 +10,8 @@ categories:
 coverImage: "surprised-1184889_960_720.png"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 以前のWorkFlowyについての記事でじぶんの大切なものを見つけるプロセスをご紹介しました。
 
 * * *

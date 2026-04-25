@@ -7,6 +7,8 @@ categories:
   - "本の紹介"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 最近アイデア大全を読み返しています。アイディア発想法が42も載っている良書です。発想法の背景や実例も分かるので、読んでいてわくわくします。
 
 [![](images/51zYCSorjkL._SL75_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4894517450/do0909-22/)

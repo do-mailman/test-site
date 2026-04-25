@@ -7,6 +7,8 @@ categories:
 coverImage: "700A1914-C7D4-4140-BEE8-2903A65C20FC.jpeg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 こちらの記事にもあるように、懐中日記を買いました。大きさはB7です。
 
 [https://note.mu/mailman/n/ne3fad98f07aa](https://note.mu/mailman/n/ne3fad98f07aa)

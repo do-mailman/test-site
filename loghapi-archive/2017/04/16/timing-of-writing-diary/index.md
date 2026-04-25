@@ -7,6 +7,8 @@ categories:
 coverImage: "shared-img-thumb-PAK85_pentonote20140313000808_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 日記を続ける上でがっかりしてしまうのは白紙のページです。いろいろなことがあったはずなのになにもないことになってしまうのはとても残念です。
 
 ではどうすればいいのか？

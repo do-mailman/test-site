@@ -7,6 +7,8 @@ categories:
   - "本の紹介"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 堀さんがYoutubeでやっているライフハックライブショーを見ました。
 
 https://www.youtube.com/watch?v=4eQ41TciUu4

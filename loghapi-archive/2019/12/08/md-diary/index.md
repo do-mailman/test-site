@@ -8,6 +8,8 @@ categories:
 coverImage: "IMG_7828.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 来年の日記はお決まりでしょうか？
 
 私はこれ、ミドリの「MD Notebook Diary」に決めました。大きさは文庫版です。

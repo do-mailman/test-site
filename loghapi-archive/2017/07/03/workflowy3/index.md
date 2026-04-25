@@ -11,6 +11,8 @@ categories:
 coverImage: "ELL84_smoketreenoshinme_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 前回まででWorkFlowyへ書いた日記を振り返り、大切なものを抜き出しました。そのままでも大切なものが集まったリストです。しかしそのリストをさらに成長させるのが「シェイク」です。
 
 [https://log-is-fun.com/workflowy2/](https://log-is-fun.com/workflowy2/)

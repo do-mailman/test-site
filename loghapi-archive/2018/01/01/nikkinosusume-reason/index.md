@@ -8,6 +8,8 @@ categories:
 coverImage: "nikkinosusumehyousi-e1514381267351.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 「日記のすすめ」という本を書きました。
 
 前回はなんでセルフパブリッシングしてまで本を書いているのかについて書きました。

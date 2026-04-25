@@ -7,6 +7,8 @@ categories:
 coverImage: "IMARIP0I9A6997_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 職場にずっといるなら職場で日記を書けばいいじゃない。ということで前回は手書き編をお伝えしました
 
 [https://log-is-fun.com/working-with-diary1/](https://log-is-fun.com/working-with-diary1/)

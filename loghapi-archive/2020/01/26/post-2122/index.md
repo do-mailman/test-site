@@ -8,6 +8,8 @@ categories:
 coverImage: "success-4165306_640.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 個人的にSpotifyは最大規模のポッドキャストプラットフォームになるだろうと予想しています。
 
 noteにも少し書きましたが、投資やマネタイズの面を見ても、Spotifyが強そうです。

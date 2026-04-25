@@ -9,6 +9,8 @@ categories:
 coverImage: "XEN7615020_TP_V.jpg"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 今回ご紹介するのは3分間日記です。
 
 [![](images/511wZ8mU0AL._SL75_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4041005736/do0909-22/)

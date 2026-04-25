@@ -6,6 +6,8 @@ categories:
   - "セルフパブリッシング"
 ---
 
+投稿日: {{ page.date | date: '%Y-%m-%d' }}
+
 先日初めて本を出版しました。
 
 [https://log-is-fun.com/nikkinosusume/](https://log-is-fun.com/nikkinosusume/)
