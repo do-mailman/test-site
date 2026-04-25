@@ -6,7 +6,7 @@ permalink: /diary/
 
 # Diary
 
-日付の「日」だけでまとめる: [日付別一覧]({{ "/diary/by-day/" | relative_url }})
+毎月の同じ日付の日記を並べているページはこちら → [日付別一覧]({{ "/diary/by-day/" | relative_url }})
 
 ---
 
