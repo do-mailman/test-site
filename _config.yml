@@ -4,3 +4,4 @@ theme: minima
 header_pages:
   - index.md
   - diary.md
+  - loghapi-archive/index.md
