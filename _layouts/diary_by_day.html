@@ -40,7 +40,7 @@ layout: default
         {% if body == "" %}
         <p>本文をまとめページに埋め込めませんでした（ビルド順の制限のことがあります）。<a href="{{ p.url | relative_url }}">個別ページで読む</a></p>
         {% else %}
-        {{ p.content }}
+        {{ p.content | markdownify }}
         {% endif %}
       </div>
     </article>
