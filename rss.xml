@@ -3,7 +3,7 @@ layout: null
 permalink: /rss.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
@@ -22,7 +22,8 @@ permalink: /rss.xml
       <link>{{ site.url }}{{ site.baseurl }}{{ p.url }}</link>
       <guid>{{ site.url }}{{ site.baseurl }}{{ p.url }}</guid>
       <pubDate>{{ p.date | date_to_rfc822 }}</pubDate>
-      <description>{{ p.excerpt | strip_html | normalize_whitespace | xml_escape }}</description>
+      <description>{{ p.excerpt | default: p.content | strip_html | normalize_whitespace | xml_escape }}</description>
+      <content:encoded><![CDATA[{{ p.content | markdownify | replace: ']]>', ']]]]><![CDATA[>' }}]]></content:encoded>
     </item>
     {% endif %}
     {% endfor %}
