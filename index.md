@@ -9,4 +9,5 @@ title: ホーム
 
 カテゴリ一覧
 - [日記](diary/)
+    - [連用日記（毎月版）](diary/by-day/)
 - [ログハピ！アーカイブ](loghapi-archive/)
