@@ -3,12 +3,12 @@ layout: post
 title: AIというプリズムの向こう側
 subtitle: 『NEXUS 情報の人類史』と『CHANGE』を読みながら考えたこと
 date: 2026-05-01
-permalink: /nexus-review/
+permalink: /nexus-change-prism/
 rss: true
 description: 情報のネットワークとしてのNEXUSと、社会的ネットワークをプリズムとして論じる『CHANGE』の重なりについて。
 ---
 
-タイトルにある「NEXUS」とは何か？
+『NEXUS 情報の人類史』にある「NEXUS」とは何か？
 
 辞書を引いてみると以下のような定義である
 
@@ -43,12 +43,10 @@ description: 情報のネットワークとしてのNEXUSと、社会的ネッ�
 
 そのときAIというプリズムがどのような光景を私たちに見せるのか。その影響は計り知れないのではないだろうか。
 
-#### 書籍データ
-タイトル：
-著者：
-読み始めた日：
-読了日：
-読んだ回数：1回目
+#### 書籍ページ
+
+- [『NEXUS 情報の人類史』書籍ページ](/books/nexus/)
+- [『CHANGE』書籍ページ](/books/change/)
 
 ---
 
