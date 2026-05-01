@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 『NEXUS 情報の人類史』の感想
+title: AIというプリズムの向こう側
+subtitle: 『NEXUS 情報の人類史』と『CHANGE』を読みながら考えたこと
 date: 2026-05-01
 permalink: /nexus-review/
 rss: true
