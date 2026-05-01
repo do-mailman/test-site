@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 『NEXUS 情報の人類史』書籍ページ（下書き）
+title: 『NEXUS 情報の人類史』
 permalink: /books/nexus/
 description: 『NEXUS 情報の人類史』の基本情報と関連ページをまとめるためのページ。
 ---
