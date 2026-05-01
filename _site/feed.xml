@@ -1,1 +1,894 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-01T08:43:45+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">夜ふかし郵便局(仮)</title><subtitle>思考とか日記とかについて考える</subtitle></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="https://jekyllrb.com/">Jekyll</generator>
+  <link href="https://github.com/pages/do-mailman/Cursor/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://github.com/pages/do-mailman/Cursor/" rel="alternate" type="text/html"/>
+  <updated>2026-05-01T09:22:39+09:00</updated>
+  <id>https://github.com/pages/do-mailman/Cursor/feed.xml</id>
+  <title type="text">夜ふかし郵便局(仮)</title>
+  <subtitle type="text">思考とか日記とかについて考える</subtitle>
+
+  
+  
+  
+
+  
+  
+  <entry>
+    <title type="text">2026年04月29日（水）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-29_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-29_diary.html</id>
+    <published>2026-04-29T00:00:00+09:00</published>
+    <updated>2026-04-29T00:00:00+09:00</updated>
+    <summary type="text">ツバメが巣の回りを忙しく飛び回っている。 『中動態の世界』を読み進める。文法のところはなじみがなさ過ぎて理解というより、位置を把握するというか、こういうのもあるのかぐらいの感覚で読み進める。 図書館で『新版 「幸せをお金で買う」５つの授業』を読んでいると、最近は当たり前の言説となってきている「物よりも経験を買う方が幸福度が高い」という内容が眼に入ってくる。 経験はそもそも自分に直接かかわることなわけなので、物よりは人生に対する近接度は高いと思う。 ただ、モノだって何かを体験するためとか、それがあってこそできることとかもあるから、それも含めたらモノを買うことによる幸せだって当然あると思う - ソファーで家族で座れるようになった - 双眼鏡でバードウォッチング などなど。『新版 「幸せをお金で買う」５つの授業』中にもあったように、実際にモノに使ったのか、経験に使ったのかは簡単に分けられるものでもないと思う。 あと考えたいのは『暇と退屈の倫理学』に出てくる「浪費」はそこにどうかかわってくるだろうか。 「浪費」において「モノをモノとして受け取る」というのに、経験にはどう当てはまるのかなといったことを少し考える。 このサイトにも少しずつ慣れてきたので、内容のバリエーションを増やしていきたいな。</summary>
+    <content type="html"><![CDATA[<p>ツバメが巣の回りを忙しく飛び回っている。</p>
+
+<p>『中動態の世界』を読み進める。文法のところはなじみがなさ過ぎて理解というより、位置を把握するというか、こういうのもあるのかぐらいの感覚で読み進める。</p>
+
+<p>図書館で『新版 「幸せをお金で買う」５つの授業』を読んでいると、最近は当たり前の言説となってきている「物よりも経験を買う方が幸福度が高い」という内容が眼に入ってくる。</p>
+
+<p>経験はそもそも自分に直接かかわることなわけなので、物よりは人生に対する近接度は高いと思う。
+ただ、モノだって何かを体験するためとか、それがあってこそできることとかもあるから、それも含めたらモノを買うことによる幸せだって当然あると思う</p>
+
+<ul>
+  <li>ソファーで家族で座れるようになった</li>
+  <li>双眼鏡でバードウォッチング</li>
+</ul>
+
+<p>などなど。『新版 「幸せをお金で買う」５つの授業』中にもあったように、実際にモノに使ったのか、経験に使ったのかは簡単に分けられるものでもないと思う。</p>
+
+<p>あと考えたいのは『暇と退屈の倫理学』に出てくる「浪費」はそこにどうかかわってくるだろうか。
+「浪費」において「モノをモノとして受け取る」というのに、経験にはどう当てはまるのかなといったことを少し考える。</p>
+
+<p>このサイトにも少しずつ慣れてきたので、内容のバリエーションを増やしていきたいな。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月28日（火）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-28_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-28_diary.html</id>
+    <published>2026-04-28T00:00:00+09:00</published>
+    <updated>2026-04-28T00:00:00+09:00</updated>
+    <summary type="text">GW前最終日。 簡単な打ち合わせでも議事メモを書いておくのは大事。 特に連休後の自分への申し送りは大事になる。 実況メモ式感想法は、絵を描く練習のなかのスケッチに似ているのかもしれない。自分が見たものを再出力して、確認できる。</summary>
+    <content type="html"><![CDATA[<p>GW前最終日。
+簡単な打ち合わせでも議事メモを書いておくのは大事。
+特に連休後の自分への申し送りは大事になる。</p>
+
+<p>実況メモ式感想法は、絵を描く練習のなかのスケッチに似ているのかもしれない。自分が見たものを再出力して、確認できる。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月27日（月）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-27_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-27_diary.html</id>
+    <published>2026-04-27T00:00:00+09:00</published>
+    <updated>2026-04-27T00:00:00+09:00</updated>
+    <summary type="text">職場の近くできれいに鳴いている鳥はイソヒヨドリみたいだと分かる。 ずっときれい鳴き声だけ聞いて何かわからなかったので、仕事中にそわそわしてしまった。 『暇と退屈の倫理学』の再読が終わって、『生産性が高い人の8つの原則』を読んでいる。 心理的安全性など、個人だけでなく、組織としての生産性も視野に入れているのは良いと思う。</summary>
+    <content type="html"><![CDATA[<p>職場の近くできれいに鳴いている鳥はイソヒヨドリみたいだと分かる。
+ずっときれい鳴き声だけ聞いて何かわからなかったので、仕事中にそわそわしてしまった。</p>
+
+<p>『暇と退屈の倫理学』の再読が終わって、『生産性が高い人の8つの原則』を読んでいる。
+心理的安全性など、個人だけでなく、組織としての生産性も視野に入れているのは良いと思う。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月26日（日）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-26_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-26_diary.html</id>
+    <published>2026-04-26T00:00:00+09:00</published>
+    <updated>2026-04-26T00:00:00+09:00</updated>
+    <summary type="text">バードウォッチングをしにいったが、初の新緑の時期で見つけるのにとても苦戦した。 修業が必要。</summary>
+    <content type="html"><![CDATA[<p>バードウォッチングをしにいったが、初の新緑の時期で見つけるのにとても苦戦した。
+修業が必要。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月25日（土）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-25_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-25_diary.html</id>
+    <published>2026-04-25T00:00:00+09:00</published>
+    <updated>2026-04-25T00:00:00+09:00</updated>
+    <summary type="text">こちらの「夜ふかし郵便局(仮)」に過去書いてたブログ「ログハピ！」を持ってきてみた。 サイトのURLも独自ドメインに変更する。</summary>
+    <content type="html"><![CDATA[<p>こちらの「夜ふかし郵便局(仮)」に過去書いてたブログ「ログハピ！」を持ってきてみた。
+サイトのURLも独自ドメインに変更する。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月24日（金）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-24_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-24_diary.html</id>
+    <published>2026-04-24T00:00:00+09:00</published>
+    <updated>2026-04-24T00:00:00+09:00</updated>
+    <summary type="text">『暇と退屈の倫理学』が再読し終わったので、次は『生産性が高い人の8つの原則』を読もうと思う。</summary>
+    <content type="html"><![CDATA[<p>『暇と退屈の倫理学』が再読し終わったので、次は『生産性が高い人の8つの原則』を読もうと思う。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月23日（木）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-23_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-23_diary.html</id>
+    <published>2026-04-23T00:00:00+09:00</published>
+    <updated>2026-04-23T00:00:00+09:00</updated>
+    <summary type="text">仕事で久しぶりに力仕事をしたので疲れた。 ただデスクワークにはない充実感があるのも事実。</summary>
+    <content type="html"><![CDATA[<p>仕事で久しぶりに力仕事をしたので疲れた。
+ただデスクワークにはない充実感があるのも事実。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月22日（水）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-22_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-22_diary.html</id>
+    <published>2026-04-22T00:00:00+09:00</published>
+    <updated>2026-04-22T00:00:00+09:00</updated>
+    <summary type="text">NBAのプレイオフが熱い</summary>
+    <content type="html"><![CDATA[<p>NBAのプレイオフが熱い</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月21日（火）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-21_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-21_diary.html</id>
+    <published>2026-04-21T00:00:00+09:00</published>
+    <updated>2026-04-21T00:00:00+09:00</updated>
+    <summary type="text">『CHANGE』を読み終わった。これはまとめておきたい、と言いつつ『NEXUS』もまだまとめられていないので、どうなるか。</summary>
+    <content type="html"><![CDATA[<p>『CHANGE』を読み終わった。これはまとめておきたい、と言いつつ『NEXUS』もまだまとめられていないので、どうなるか。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月20日（月）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-20_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-20_diary.html</id>
+    <published>2026-04-20T00:00:00+09:00</published>
+    <updated>2026-04-20T00:00:00+09:00</updated>
+    <summary type="text">以下の記事を読んだ。 ソフトウェアや知能が安くなったときに起きること - 🐴 (馬) 光源が安価で普及することと、知能に関することがそのまま当てはまるかどうかは置いておいて、自分もブックマークレットを作ってみたりとかはできている。そういうすそ野は広がるだろうな。 以下上記記事から引用 このアナロジーをそのままソフトウェアに当てはめることはできませんが、それでもおそらく似たような構造的な変化は起こっていくでしょう。価格が下がると、人は同じものを安く使うだけでなく、これまでコスト的に見合わなかった場所で使い始める、ということです。 だから問うべきなのは、AIで何を自動化できるかではなく、安いソフトウェアや知能によって、どの問題が新たにソフトウェアで解決可能になり、そのとき何が起きて、何が新しい希少性になるのか、です。 短期的には、AIそのものや、AIを活用したソフトウェアの需要は高まるでしょう。しかしその先を見たとき、おそらくそれら以上に、もっと他の場所から価値が生まれてくるのではないかと思います。</summary>
+    <content type="html"><![CDATA[<p>以下の記事を読んだ。</p>
+
+<p><a href="https://blog.takaumada.com/entry/ai-and-deeptech?utm_content=buffer05307&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer">ソフトウェアや知能が安くなったときに起きること - 🐴 (馬)</a></p>
+
+<p>光源が安価で普及することと、知能に関することがそのまま当てはまるかどうかは置いておいて、自分もブックマークレットを作ってみたりとかはできている。そういうすそ野は広がるだろうな。</p>
+
+<p>以下上記記事から引用</p>
+
+<blockquote>
+  <p>このアナロジーをそのままソフトウェアに当てはめることはできませんが、それでもおそらく似たような構造的な変化は起こっていくでしょう。価格が下がると、人は同じものを安く使うだけでなく、これまでコスト的に見合わなかった場所で使い始める、ということです。</p>
+</blockquote>
+
+<blockquote>
+  <p>だから問うべきなのは、AIで何を自動化できるかではなく、安いソフトウェアや知能によって、どの問題が新たにソフトウェアで解決可能になり、そのとき何が起きて、何が新しい希少性になるのか、です。</p>
+
+  <p>短期的には、AIそのものや、AIを活用したソフトウェアの需要は高まるでしょう。しかしその先を見たとき、おそらくそれら以上に、もっと他の場所から価値が生まれてくるのではないかと思います。</p>
+</blockquote>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月19日（日）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-19_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-19_diary.html</id>
+    <published>2026-04-19T00:00:00+09:00</published>
+    <updated>2026-04-19T00:00:00+09:00</updated>
+    <summary type="text">ニュースレターをアップ。 英語で作業記録をつけると、一石二鳥になる 独学同好会通信 サイトとニュースレターとかnoteとか、アウトプット量が多くない中で、どうその先を振り分けていくのか。 とりあえず書く量をもう少し増やしたいところだ。</summary>
+    <content type="html"><![CDATA[<p>ニュースレターをアップ。</p>
+
+<p><a href="https://diarist.substack.com/p/e59">英語で作業記録をつけると、一石二鳥になる 独学同好会通信</a></p>
+
+<p>サイトとニュースレターとかnoteとか、アウトプット量が多くない中で、どうその先を振り分けていくのか。</p>
+
+<p>とりあえず書く量をもう少し増やしたいところだ。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月18日（土）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-18_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-18_diary.html</id>
+    <published>2026-04-18T00:00:00+09:00</published>
+    <updated>2026-04-18T00:00:00+09:00</updated>
+    <summary type="text">『暇と退屈の倫理学』と『CHANGE』を読み進める。あともう少しで両方とも読み終わりそうだ。 出かけた時に長時間おなかに何もいれないと、頭がぼんやりするということが何となくわかってきたので、出かけるときのうまい栄養補給方法を考えたい。できれば歯に悪影響がないものが良い。 いい天気だったので、散歩をした。</summary>
+    <content type="html"><![CDATA[<p>『暇と退屈の倫理学』と『CHANGE』を読み進める。あともう少しで両方とも読み終わりそうだ。</p>
+
+<p>出かけた時に長時間おなかに何もいれないと、頭がぼんやりするということが何となくわかってきたので、出かけるときのうまい栄養補給方法を考えたい。できれば歯に悪影響がないものが良い。</p>
+
+<p>いい天気だったので、散歩をした。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月17日（金）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-17_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-17_diary.html</id>
+    <published>2026-04-17T00:00:00+09:00</published>
+    <updated>2026-04-17T00:00:00+09:00</updated>
+    <summary type="text">初めてブックマークレットを作ってもらった。一度作って、ブックマークレットによる改良が選択肢に入ってくると、色々思いつく。 このブックマークレットについては別のページで書いておく。 サイト上にCraftみたいなカテゴリをつくってもいいかもしれない</summary>
+    <content type="html"><![CDATA[<p>初めてブックマークレットを作ってもらった。一度作って、ブックマークレットによる改良が選択肢に入ってくると、色々思いつく。</p>
+
+<p>このブックマークレットについては別のページで書いておく。</p>
+
+<p>サイト上にCraftみたいなカテゴリをつくってもいいかもしれない</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月16日（木）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-16_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-16_diary.html</id>
+    <published>2026-04-16T00:00:00+09:00</published>
+    <updated>2026-04-16T00:00:00+09:00</updated>
+    <summary type="text">『暇と退屈の倫理学』の最終章に来た。明日には読み終わるだろう。 『マネジメントは嫌いですけど』を読む。組織として学習などに配分できなければマネジメントとしての失敗というのは確かにそうだと思う。</summary>
+    <content type="html"><![CDATA[<p>『暇と退屈の倫理学』の最終章に来た。明日には読み終わるだろう。</p>
+
+<p>『マネジメントは嫌いですけど』を読む。組織として学習などに配分できなければマネジメントとしての失敗というのは確かにそうだと思う。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月15日（水）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-15_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-15_diary.html</id>
+    <published>2026-04-15T00:00:00+09:00</published>
+    <updated>2026-04-15T00:00:00+09:00</updated>
+    <summary type="text">今日はいつもポイントとしているルーティンが業務の都合上できずに、いつもより満足感が低い気がする。 『暇と退屈の倫理学』において、習慣とはダイナミックなものであるとあったが、いつものルーティンと外れることは変化を促すので、ひとまず良いことなのだと考えよう。</summary>
+    <content type="html"><![CDATA[<p>今日はいつもポイントとしているルーティンが業務の都合上できずに、いつもより満足感が低い気がする。</p>
+
+<p>『暇と退屈の倫理学』において、習慣とはダイナミックなものであるとあったが、いつものルーティンと外れることは変化を促すので、ひとまず良いことなのだと考えよう。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月14日（火）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-14_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-14_diary.html</id>
+    <published>2026-04-14T00:00:00+09:00</published>
+    <updated>2026-04-14T00:00:00+09:00</updated>
+    <summary type="text"></summary>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月13日（月）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-13_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-13_diary.html</id>
+    <published>2026-04-13T00:00:00+09:00</published>
+    <updated>2026-04-13T00:00:00+09:00</updated>
+    <summary type="text">スギよりもヒノキ花粉の方が自分にはきついかもしれない。</summary>
+    <content type="html"><![CDATA[<p>スギよりもヒノキ花粉の方が自分にはきついかもしれない。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月12日（日）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-12_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-12_diary.html</id>
+    <published>2026-04-12T00:00:00+09:00</published>
+    <updated>2026-04-12T00:00:00+09:00</updated>
+    <summary type="text">『CHANGE』を読む。 組織内での多様性を保つクラスタとクラスタ間をつなぐ広い橋が必要。クラスタ間の伝播は抑制されつつ、遅く伝わってくる。これがイノベーションへとつながる？ これは個人についても似たようなことが言えるのかもしれない。 多様性を保つとは、仕事と家庭とそれ以外の領域を持つことともいえるかもしれないし、他の領域での考え方を他の領域に持ってくるのを遅らせる必要がある。 他の領域での正解を、安易に適用しないともいえるかもしれない</summary>
+    <content type="html"><![CDATA[<p>『CHANGE』を読む。
+組織内での多様性を保つクラスタとクラスタ間をつなぐ広い橋が必要。クラスタ間の伝播は抑制されつつ、遅く伝わってくる。これがイノベーションへとつながる？</p>
+
+<p>これは個人についても似たようなことが言えるのかもしれない。</p>
+
+<p>多様性を保つとは、仕事と家庭とそれ以外の領域を持つことともいえるかもしれないし、他の領域での考え方を他の領域に持ってくるのを遅らせる必要がある。</p>
+
+<p>他の領域での正解を、安易に適用しないともいえるかもしれない</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月11日（土）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-11_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-11_diary.html</id>
+    <published>2026-04-11T00:00:00+09:00</published>
+    <updated>2026-04-11T00:00:00+09:00</updated>
+    <summary type="text">いきなり最高気温27℃はやめてほしい。27℃で花粉飛んでいるのはつらい。 今日は料理担当日なのでハンバーグを作った。料理はあまり得意ではないが、何回も作っているとさすがに手順は覚えてくる。 Microsoft PowerToysでAIの画面を常に最前面に配置して、記録をとるのを忘れないようにしてみた。</summary>
+    <content type="html"><![CDATA[<p>いきなり最高気温27℃はやめてほしい。27℃で花粉飛んでいるのはつらい。
+今日は料理担当日なのでハンバーグを作った。料理はあまり得意ではないが、何回も作っているとさすがに手順は覚えてくる。</p>
+
+<hr />
+
+<p>Microsoft PowerToysでAIの画面を常に最前面に配置して、記録をとるのを忘れないようにしてみた。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月10日（金）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-10_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-10_diary.html</id>
+    <published>2026-04-10T00:00:00+09:00</published>
+    <updated>2026-04-10T00:00:00+09:00</updated>
+    <summary type="text">Copilotで作業ログをとっているので、作業ログをとっている画面を常に最前面に出せないか調べてみる。 Microsoft PowerToysでできそうなので、試してみよう。</summary>
+    <content type="html"><![CDATA[<p>Copilotで作業ログをとっているので、作業ログをとっている画面を常に最前面に出せないか調べてみる。</p>
+
+<p>Microsoft PowerToysでできそうなので、試してみよう。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月09日（木）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-09_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-09_diary.html</id>
+    <published>2026-04-09T00:00:00+09:00</published>
+    <updated>2026-04-09T00:00:00+09:00</updated>
+    <summary type="text">Copilotに作業記録と同時に英語での表現を教えてもらったりするのはなかなかいい感じ。 業務終了の宣言と同時に英語の改善点をAnkiに追加できるよう形式でアウトプットしてもらえるようにもした。</summary>
+    <content type="html"><![CDATA[<p>Copilotに作業記録と同時に英語での表現を教えてもらったりするのはなかなかいい感じ。
+業務終了の宣言と同時に英語の改善点をAnkiに追加できるよう形式でアウトプットしてもらえるようにもした。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月08日（水）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-08_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-08_diary.html</id>
+    <published>2026-04-08T00:00:00+09:00</published>
+    <updated>2026-04-08T00:00:00+09:00</updated>
+    <summary type="text">『暇と退屈の倫理学』の再読を進める。ユクスキュルの環世界が出て来た。</summary>
+    <content type="html"><![CDATA[<p>『暇と退屈の倫理学』の再読を進める。ユクスキュルの環世界が出て来た。</p>
+
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月07日（火）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-07_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-07_diary.html</id>
+    <published>2026-04-07T00:00:00+09:00</published>
+    <updated>2026-04-07T00:00:00+09:00</updated>
+    <summary type="text">役職が少し上に上がると、実務が減って達成感というのが減る気がする。 短期的に達成するようなことが減ってくるのだと思う。 ということは、意識的に1週間のテーマという短期のテーマを設定するのはありかもしれない。</summary>
+    <content type="html"><![CDATA[<p>役職が少し上に上がると、実務が減って達成感というのが減る気がする。
+短期的に達成するようなことが減ってくるのだと思う。</p>
+
+<p>ということは、意識的に1週間のテーマという短期のテーマを設定するのはありかもしれない。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月06日（月）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-06_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-06_diary.html</id>
+    <published>2026-04-06T00:00:00+09:00</published>
+    <updated>2026-04-06T00:00:00+09:00</updated>
+    <summary type="text">土日の旅行で今日は体が重い。この日の日記は自分のものには書いたので、このサイト上ではひとまず省こうと思う。 マイペースに仕事ができれば良しとする。</summary>
+    <content type="html"><![CDATA[<p>土日の旅行で今日は体が重い。この日の日記は自分のものには書いたので、このサイト上ではひとまず省こうと思う。</p>
+
+<p>マイペースに仕事ができれば良しとする。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月05日（日）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-05_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-05_diary.html</id>
+    <published>2026-04-05T00:00:00+09:00</published>
+    <updated>2026-04-05T00:00:00+09:00</updated>
+    <summary type="text">（追記予定）</summary>
+    <content type="html"><![CDATA[<p>（追記予定）</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月04日（土）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-04_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-04_diary.html</id>
+    <published>2026-04-04T00:00:00+09:00</published>
+    <updated>2026-04-04T00:00:00+09:00</updated>
+    <summary type="text">（追記予定）</summary>
+    <content type="html"><![CDATA[<p>（追記予定）</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月03日（金）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-03_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-03_diary.html</id>
+    <published>2026-04-03T00:00:00+09:00</published>
+    <updated>2026-04-03T00:00:00+09:00</updated>
+    <summary type="text">（追記予定）</summary>
+    <content type="html"><![CDATA[<p>（追記予定）</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月02日（木）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-02_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-02_diary.html</id>
+    <published>2026-04-02T00:00:00+09:00</published>
+    <updated>2026-04-02T00:00:00+09:00</updated>
+    <summary type="text">正解と間違いのマトリクスについて最近少し考えている。 正解とは価値基準や優先度、意味の判断とも言い換えられるとすると、意味や価値から人間は逃れることはできないので、自然正解という価値からも逃れられないことになる。 しかし、正解というもの自体は設定しなおせるという視点は重要だと思う。 書いているうちに当たり前のことを書いているような気がしてきたが、再確認することは大事だと思う。 自分の指針の一つに「うれしい」という感情を原動力にしないというものがある。うれしいとは思いがけないことが起きた時に感じるものという前提があると思うからだ。 それはつまり、うれしいというアンコントローラブルな対象を正解の要素として加えないようにするということでもある。 この指針ももちろんグラデーションがあり、変えられるわけだが、そうした相対化が行き過ぎるのも問題だよなぁとは思う。</summary>
+    <content type="html"><![CDATA[<p>正解と間違いのマトリクスについて最近少し考えている。</p>
+
+<p>正解とは価値基準や優先度、意味の判断とも言い換えられるとすると、意味や価値から人間は逃れることはできないので、自然正解という価値からも逃れられないことになる。</p>
+
+<p>しかし、正解というもの自体は設定しなおせるという視点は重要だと思う。</p>
+
+<p>書いているうちに当たり前のことを書いているような気がしてきたが、再確認することは大事だと思う。</p>
+
+<p>自分の指針の一つに「うれしい」という感情を原動力にしないというものがある。うれしいとは思いがけないことが起きた時に感じるものという前提があると思うからだ。</p>
+
+<p>それはつまり、うれしいというアンコントローラブルな対象を正解の要素として加えないようにするということでもある。</p>
+
+<p>この指針ももちろんグラデーションがあり、変えられるわけだが、そうした相対化が行き過ぎるのも問題だよなぁとは思う。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年04月01日（水）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-04-01_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-04-01_diary.html</id>
+    <published>2026-04-01T00:00:00+09:00</published>
+    <updated>2026-04-01T00:00:00+09:00</updated>
+    <summary type="text">4月になる。年度が変わる。 『バーナード嬢曰く』を読んで紙の本が読みたくなったので、紙でしか読めない『十二国記』を読むことにした。 電子書籍とは違う何かがあるので、本当に読むという体験だけを重視するなら全部紙の本がいいと思う。 ただ私のような小市民にはスペースの問題というのがいつも付きまとうし、気に入った文章などをRoam Researchに移すには電子書籍がいい。 Kindleを使うのが結局はいいバランスになるのかもしれない。</summary>
+    <content type="html"><![CDATA[<p>4月になる。年度が変わる。</p>
+
+<p>『バーナード嬢曰く』を読んで紙の本が読みたくなったので、紙でしか読めない『十二国記』を読むことにした。</p>
+
+<p>電子書籍とは違う何かがあるので、本当に読むという体験だけを重視するなら全部紙の本がいいと思う。</p>
+
+<p>ただ私のような小市民にはスペースの問題というのがいつも付きまとうし、気に入った文章などをRoam Researchに移すには電子書籍がいい。</p>
+
+<p>Kindleを使うのが結局はいいバランスになるのかもしれない。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月31日（火）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-31_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-31_diary.html</id>
+    <published>2026-03-31T00:00:00+09:00</published>
+    <updated>2026-03-31T00:00:00+09:00</updated>
+    <summary type="text">『暇と退屈の倫理学』において、「本来性なき疎外」という言葉が出てくる。 疎外されているということを考えるとき、そこには疎外されていない本来の状態や環境があると考えてしまうが、本来というものを考えることなく、疎外というものを考えることもできるということだと理解している。 ここでいう本来という言葉は正解とも言い換えられないかと思っていて、間違いだと感じても、正解がない場合だってあるのではないかということだ。 「間違いなく正解」はあるが、「正解なく間違い」だってあるのではないだろうか。</summary>
+    <content type="html"><![CDATA[<p>『暇と退屈の倫理学』において、「本来性なき疎外」という言葉が出てくる。
+疎外されているということを考えるとき、そこには疎外されていない本来の状態や環境があると考えてしまうが、本来というものを考えることなく、疎外というものを考えることもできるということだと理解している。</p>
+
+<p>ここでいう本来という言葉は正解とも言い換えられないかと思っていて、間違いだと感じても、正解がない場合だってあるのではないかということだ。</p>
+
+<p>「間違いなく正解」はあるが、「正解なく間違い」だってあるのではないだろうか。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月30日（月）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-30_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-30_diary.html</id>
+    <published>2026-03-30T00:00:00+09:00</published>
+    <updated>2026-03-30T00:00:00+09:00</updated>
+    <summary type="text">久しぶりに映画を観終わることができた。 『世界一キライなあなたへ』 どこかの日記にも書いた通り、映画をしっかり見たいという気持ちがどこかにあるのだが、そこはひとつ妥協というか折り合いというか、観ないより観られた方がましだろうという考え方で映画を小分けでもいいので、スマホでもいいので見るようにした。 小分けで観られる時と、観られないときがあるので、なにかタイミングとか調子とかも関係しているのかもしれない。 この映画はポッドキャストで紹介されていて、それでなかったら見なかっただろうなという映画。 タイトルの通り、ジャンルとしては恋愛映画なのだが、障害を負った人物の話でもあり、 再読している『暇と退屈の倫理学』の中にちょうど出て来た「本来性なき疎外」とかともつながるのかなと思う。 何を本来だと思うのか、そもそも本来というものはあるのか。 観られてよかった映画。</summary>
+    <content type="html"><![CDATA[<p>久しぶりに映画を観終わることができた。</p>
+
+<p>『世界一キライなあなたへ』
+どこかの日記にも書いた通り、映画をしっかり見たいという気持ちがどこかにあるのだが、そこはひとつ妥協というか折り合いというか、観ないより観られた方がましだろうという考え方で映画を小分けでもいいので、スマホでもいいので見るようにした。</p>
+
+<p>小分けで観られる時と、観られないときがあるので、なにかタイミングとか調子とかも関係しているのかもしれない。</p>
+
+<p>この映画はポッドキャストで紹介されていて、それでなかったら見なかっただろうなという映画。</p>
+
+<p>タイトルの通り、ジャンルとしては恋愛映画なのだが、障害を負った人物の話でもあり、
+再読している『暇と退屈の倫理学』の中にちょうど出て来た「本来性なき疎外」とかともつながるのかなと思う。</p>
+
+<p>何を本来だと思うのか、そもそも本来というものはあるのか。</p>
+
+<p>観られてよかった映画。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月29日（日)の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-29_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-29_diary.html</id>
+    <published>2026-03-29T00:00:00+09:00</published>
+    <updated>2026-03-29T00:00:00+09:00</updated>
+    <summary type="text">始めて早朝のバードウォッチングをしてみた。 時間帯が違うだけで、こんなに鳥の活発度が違うのかとびっくりする。</summary>
+    <content type="html"><![CDATA[<p>始めて早朝のバードウォッチングをしてみた。
+時間帯が違うだけで、こんなに鳥の活発度が違うのかとびっくりする。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月28日（土）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-28_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-28_diary.html</id>
+    <published>2026-03-28T00:00:00+09:00</published>
+    <updated>2026-03-28T00:00:00+09:00</updated>
+    <summary type="text">桜が咲いたので、散歩がてら花見をする。 図書館で雑誌を眺めてみた。『日経TRENDY』とか『日経エンタテイメント』など普段手に取らない雑誌を手に取ってみる。 雑誌は、何かを始めるきっかけになることが多い。文房具とか手帳特集は結構好きで、特集をきっかけにして、試してみた方法とかもある。 今回は何か始めたわけではないが、Geminiをもう少し試してみようと思った。</summary>
+    <content type="html"><![CDATA[<p>桜が咲いたので、散歩がてら花見をする。
+図書館で雑誌を眺めてみた。『日経TRENDY』とか『日経エンタテイメント』など普段手に取らない雑誌を手に取ってみる。</p>
+
+<p>雑誌は、何かを始めるきっかけになることが多い。文房具とか手帳特集は結構好きで、特集をきっかけにして、試してみた方法とかもある。
+今回は何か始めたわけではないが、Geminiをもう少し試してみようと思った。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月27日（金）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-27_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-27_diary.html</id>
+    <published>2026-03-27T00:00:00+09:00</published>
+    <updated>2026-03-27T00:00:00+09:00</updated>
+    <summary type="text">『暇と退屈の倫理学』を読み進めている。 「浪費」と「消費」という概念が出てくる。簡単にまとめると以下のようなイメージ。 浪費:必要を超えてものをうけとること、吸収すること。そして受け取ることには限界があるので、どこかで満足する 消費:ものではなく、付与された観念や意味を消費している。満足できない。 何かを購入したとき、そこには消費と浪費が組み合わさっているだろうし、最初は浪費だったものが消費になるということもあるだろうな。 人間は意味から逃れられないので、何か買うときにそこに意味も付随してくるだろう。 職場で生成AIを使って個人の業務記録をとっているのだが、英語で書くようにすると英語の勉強ができそうだと思いつく。試してみるとなかなかいい感じ。</summary>
+    <content type="html"><![CDATA[<p>『暇と退屈の倫理学』を読み進めている。
+「浪費」と「消費」という概念が出てくる。簡単にまとめると以下のようなイメージ。</p>
+
+<ul>
+  <li>浪費:必要を超えてものをうけとること、吸収すること。そして受け取ることには限界があるので、どこかで満足する</li>
+  <li>消費:ものではなく、付与された観念や意味を消費している。満足できない。</li>
+</ul>
+
+<p>何かを購入したとき、そこには消費と浪費が組み合わさっているだろうし、最初は浪費だったものが消費になるということもあるだろうな。</p>
+
+<p>人間は意味から逃れられないので、何か買うときにそこに意味も付随してくるだろう。</p>
+
+<hr />
+
+<p>職場で生成AIを使って個人の業務記録をとっているのだが、英語で書くようにすると英語の勉強ができそうだと思いつく。試してみるとなかなかいい感じ。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月26日（木）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-26_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-26_diary.html</id>
+    <published>2026-03-26T00:00:00+09:00</published>
+    <updated>2026-03-26T00:00:00+09:00</updated>
+    <summary type="text">久しぶりにマンガを無心に読む時間が取れた。良い気分転換になった。</summary>
+    <content type="html"><![CDATA[<p>久しぶりにマンガを無心に読む時間が取れた。良い気分転換になった。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月25日（水）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-25_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-25_diary.html</id>
+    <published>2026-03-25T00:00:00+09:00</published>
+    <updated>2026-03-25T00:00:00+09:00</updated>
+    <summary type="text">食洗機が壊れたので新しいのを買い替える。 以前自分でセッティングできたのを記録で確認したので、設置依頼はしなくていいと判断できた。 こういうのも、記録が背中を後押しすることなんだろう。 今ある食洗機がどうやって設置されたのかが、ものすごい曖昧な状態でしか、覚えてなかったので、記録がなかったら設置できる自信は出なかったかもしれない</summary>
+    <content type="html"><![CDATA[<p>食洗機が壊れたので新しいのを買い替える。</p>
+
+<p>以前自分でセッティングできたのを記録で確認したので、設置依頼はしなくていいと判断できた。
+こういうのも、記録が背中を後押しすることなんだろう。</p>
+
+<p>今ある食洗機がどうやって設置されたのかが、ものすごい曖昧な状態でしか、覚えてなかったので、記録がなかったら設置できる自信は出なかったかもしれない</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月24日（火）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-24_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-24_diary.html</id>
+    <published>2026-03-24T00:00:00+09:00</published>
+    <updated>2026-03-24T00:00:00+09:00</updated>
+    <summary type="text">春のせいか、花粉のせいか、はたまた腰痛のせいなのかわからないけど、眠い。 『一度読んだら絶対に忘れない世界史の教科書』がやっと半分まで来た。だいぶ用語を把握できて来たので、歴史の動画などを見ていると知っている単語が出てくるのが地味にうれしい。 こういうのが、勉強の駆動力になったりするのだろう。</summary>
+    <content type="html"><![CDATA[<p>春のせいか、花粉のせいか、はたまた腰痛のせいなのかわからないけど、眠い。</p>
+
+<p>『一度読んだら絶対に忘れない世界史の教科書』がやっと半分まで来た。だいぶ用語を把握できて来たので、歴史の動画などを見ていると知っている単語が出てくるのが地味にうれしい。</p>
+
+<p>こういうのが、勉強の駆動力になったりするのだろう。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月23日（月）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-23_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-23_diary.html</id>
+    <published>2026-03-23T00:00:00+09:00</published>
+    <updated>2026-03-23T00:00:00+09:00</updated>
+    <summary type="text">最近正解のある領域とない領域、ないというよりは必要ない領域というものも持っていた方がいいのかなと思う。 例えば、旅行中のトラブルとかは正解ではないと思うけど、長期的にみればいい思い出になることはよくあるわけで。 そうすると正解というものは何を基準にするかによって変わるし、基準を複数持った時に正解というものはなくなるのかもしれない。 それはそうと、今日負傷したぎっくり腰は正解ではないと思う</summary>
+    <content type="html"><![CDATA[<p>最近正解のある領域とない領域、ないというよりは必要ない領域というものも持っていた方がいいのかなと思う。</p>
+
+<p>例えば、旅行中のトラブルとかは正解ではないと思うけど、長期的にみればいい思い出になることはよくあるわけで。</p>
+
+<p>そうすると正解というものは何を基準にするかによって変わるし、基準を複数持った時に正解というものはなくなるのかもしれない。</p>
+
+<p>それはそうと、今日負傷したぎっくり腰は正解ではないと思う</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月22日（日）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-22_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-22_diary.html</id>
+    <published>2026-03-22T00:00:00+09:00</published>
+    <updated>2026-03-22T00:00:00+09:00</updated>
+    <summary type="text">休日。博物館へ行く。</summary>
+    <content type="html"><![CDATA[<p>休日。博物館へ行く。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月21日（土）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-21_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-21_diary.html</id>
+    <published>2026-03-21T00:00:00+09:00</published>
+    <updated>2026-03-21T00:00:00+09:00</updated>
+    <summary type="text">『僕には鳥の言葉がわかる』を読了。『魚にも自分がわかる』とか、『ダーウィン事変』にダイレクトにつながる話だと思う。 動物たちを自分の世界観の中のどこに位置付けるのか？かなりバリエーションがあるのではないだろうか。 自分の研究心というのが刺激される中で、ふと日記の研究を論文にしてみたいというようなことを思いつく</summary>
+    <content type="html"><![CDATA[<p>『僕には鳥の言葉がわかる』を読了。『魚にも自分がわかる』とか、『ダーウィン事変』にダイレクトにつながる話だと思う。</p>
+
+<p>動物たちを自分の世界観の中のどこに位置付けるのか？かなりバリエーションがあるのではないだろうか。</p>
+
+<p>自分の研究心というのが刺激される中で、ふと日記の研究を論文にしてみたいというようなことを思いつく</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月20日（金）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-20_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-20_diary.html</id>
+    <published>2026-03-20T00:00:00+09:00</published>
+    <updated>2026-03-20T00:00:00+09:00</updated>
+    <summary type="text">朝から食洗器が壊れて、少し落ち込むが、皿をどう洗って、どの場所で乾かすかという見通しが立ってくると、気持ちが落ち着いた。 見通しさえ立てられれば気持ちは落ち着きやすいのかもしれない サイトの名前を少し変更。 とりあえずでつけていた「自分のサイト」という適当すぎるタイトルから「未明郵便局」を経て、「夜ふかし郵便局」となった。 自分が気に入ったのでとりあえず良しとする。 この見通しを立たせるということも、なんだろう、正解・納得・ベストを求める傾向とつながっているような気もする。 正解を求めたほうがいい領域と、求めない方がいい領域があるのではないだろうか。 それはいつかの日記で書いた『勉強の哲学』の中の、無理に納得せずに構造を把握して勉強を進めるということともなにか繋がりを感じる。 2026年03月19日（木）の日記 ▼</summary>
+    <content type="html"><![CDATA[<p>朝から食洗器が壊れて、少し落ち込むが、皿をどう洗って、どの場所で乾かすかという見通しが立ってくると、気持ちが落ち着いた。
+見通しさえ立てられれば気持ちは落ち着きやすいのかもしれない</p>
+
+<p>サイトの名前を少し変更。
+とりあえずでつけていた「自分のサイト」という適当すぎるタイトルから「未明郵便局」を経て、「夜ふかし郵便局」となった。</p>
+
+<p>自分が気に入ったのでとりあえず良しとする。</p>
+
+<p>この見通しを立たせるということも、なんだろう、正解・納得・ベストを求める傾向とつながっているような気もする。
+正解を求めたほうがいい領域と、求めない方がいい領域があるのではないだろうか。</p>
+
+<p>それはいつかの日記で書いた『勉強の哲学』の中の、無理に納得せずに構造を把握して勉強を進めるということともなにか繋がりを感じる。</p>
+
+<p><a href="https://do-mailman.github.io/test-site/2026-03-19_diary.html">2026年03月19日（木）の日記</a></p>
+
+<p>▼</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月19日（木）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-19_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-19_diary.html</id>
+    <published>2026-03-19T00:00:00+09:00</published>
+    <updated>2026-03-19T00:00:00+09:00</updated>
+    <summary type="text">この日記はハイパーパーソナルなブログ記事であり、ハイパーオープンな日記でもあるなぁと思う。 日記としてはネットにさらしているので、オープンなわけだけど、ブログ記事として考えると単に日々の思考の切れ端を流しているともいえる。 そもそもブログが役に立つ記事を書かなければいけないわけではないので、パーソナルなブログ記事として日記を書いてもいいのではないかと思う。 昨日読み返したメモの中に以下のようなことが書いてあった。 「先ほど、入門書のところで少し説明しましたが、読書において大事なのは、自分の実感に引きつけて理解しようとしないことです。あるいは、 　難しい本を読むのが難しいのは、無理に納得しようと思って読むからである。 　僕の感覚で言うと、読書というのは、知らない部屋にパッと入って、物の位置関係を把握するようなイメージです。そのときに、なぜそこにそれが置いてあるのかという意味はすぐには理解できない。そうだとしても、たとえば、奥にコピー機がある、その手前にテーブルがあり、テーブルの上にはマグカップが二つあって、というような把握はできる。この喩えで言いたいのは、納得よりも先に、使われている言葉の種類や、論理的なつながりなどを把握してほしいということです。それは、テクストの骨組み、「構造」を分析することです。」 『勉強の哲学　来たるべきバカのために (文春e-book)』千葉雅也著 https://a.co/3r171hQ 難しい本について無理に納得しようとしない、まずは把握するということ。 ここについても実況メモ式感想法は使えるのかもなと思ったり。実況するとは一種のスケッチともいえる。把握のためにスケッチをする。その一種の手法なのかもしれない。</summary>
+    <content type="html"><![CDATA[<p>この日記はハイパーパーソナルなブログ記事であり、ハイパーオープンな日記でもあるなぁと思う。</p>
+
+<p>日記としてはネットにさらしているので、オープンなわけだけど、ブログ記事として考えると単に日々の思考の切れ端を流しているともいえる。</p>
+
+<p>そもそもブログが役に立つ記事を書かなければいけないわけではないので、パーソナルなブログ記事として日記を書いてもいいのではないかと思う。</p>
+
+<p>昨日読み返したメモの中に以下のようなことが書いてあった。</p>
+
+<blockquote>
+  <p>「先ほど、入門書のところで少し説明しましたが、読書において大事なのは、自分の実感に引きつけて理解しようとしないことです。あるいは、 　難しい本を読むのが難しいのは、無理に納得しようと思って読むからである。 　僕の感覚で言うと、読書というのは、知らない部屋にパッと入って、物の位置関係を把握するようなイメージです。そのときに、なぜそこにそれが置いてあるのかという意味はすぐには理解できない。そうだとしても、たとえば、奥にコピー機がある、その手前にテーブルがあり、テーブルの上にはマグカップが二つあって、というような把握はできる。この喩えで言いたいのは、納得よりも先に、使われている言葉の種類や、論理的なつながりなどを把握してほしいということです。それは、テクストの骨組み、「構造」を分析することです。」
+『勉強の哲学　来たるべきバカのために (文春e-book)』千葉雅也著 https://a.co/3r171hQ</p>
+</blockquote>
+
+<p>難しい本について無理に納得しようとしない、まずは把握するということ。</p>
+
+<p>ここについても実況メモ式感想法は使えるのかもなと思ったり。実況するとは一種のスケッチともいえる。把握のためにスケッチをする。その一種の手法なのかもしれない。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月18日（水）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-18_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-18_diary.html</id>
+    <published>2026-03-18T00:00:00+09:00</published>
+    <updated>2026-03-18T00:00:00+09:00</updated>
+    <summary type="text">最近睡眠時間を取れていて、体力が残るようになった。何回か記事にも書いている。 それはとてもよいことで、例えば夕方に前は難しかった本も読める。 でも、これは逆に体力を残すことによって、理性と本能のバランスでいうと、理性側がずっと優位になることを意味しているともいえる。 それは基本的には良いことなんだけど、たぶんずっと続きすぎるのもよくないのかなという気持ちもあって、たまにこう本能側を出すというのも大事だと思っている。 ここで思い出したのが、宮部みゆきの以下の一説。 「真ん中がないんだよ。空っぽか、みっしりか。そうでないと、あんなふうに人を騙すなんてできないような気がする」 言い換えるならそれは、〈自分がない〉か、〈自分しかない〉ということではないか。 『ペテロの葬列』下巻 222p 理性だけというのは、＜自分がない＞というところにも何となく通じるところがある気がするのだ。 ただじゃあ単純に本能的に動けばいいのかというのも、なにか違う気もするので、バランスをどうとるかという話なのだろうと思う。</summary>
+    <content type="html"><![CDATA[<p>最近睡眠時間を取れていて、体力が残るようになった。何回か記事にも書いている。
+それはとてもよいことで、例えば夕方に前は難しかった本も読める。</p>
+
+<p>でも、これは逆に体力を残すことによって、理性と本能のバランスでいうと、理性側がずっと優位になることを意味しているともいえる。
+それは基本的には良いことなんだけど、たぶんずっと続きすぎるのもよくないのかなという気持ちもあって、たまにこう本能側を出すというのも大事だと思っている。</p>
+
+<p>ここで思い出したのが、宮部みゆきの以下の一説。</p>
+
+<blockquote>
+  <p>「真ん中がないんだよ。空っぽか、みっしりか。そうでないと、あんなふうに人を騙すなんてできないような気がする」
+言い換えるならそれは、〈自分がない〉か、〈自分しかない〉ということではないか。
+『ペテロの葬列』下巻 222p</p>
+</blockquote>
+
+<p>理性だけというのは、＜自分がない＞というところにも何となく通じるところがある気がするのだ。
+ただじゃあ単純に本能的に動けばいいのかというのも、なにか違う気もするので、バランスをどうとるかという話なのだろうと思う。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月17日（火）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-17_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-17_diary.html</id>
+    <published>2026-03-17T00:00:00+09:00</published>
+    <updated>2026-03-17T00:00:00+09:00</updated>
+    <summary type="text">『暇と退屈の倫理学』を再読中。 不幸へのあこがれを作る幸福論は間違っているといった点について改めて思いをはせる。 好きなものであれば、ランダム刺激でもいいのかどうかという自分の中のひとつの問いにもつながるだろう。 ひとまずRoam Researchを見ながら書いているが、あまりにRoam Researchの内容からできるだけ書こうとするのはやめよう。ひとまず継続できるような負荷がでやれるようにする。 先日の映画をベストな環境で見たいことがハードルになっているという話ともつながるのかな。 ここで先日の日記のリンクが張れるといいわけだが。これでいいのかな？ 2026年03月15日（日）の日記 完璧への欲求という熱意的なエンジンと、熱意によるエンジンだからこそ、一種純粋な燃料が必要になるのかといったことを思う。</summary>
+    <content type="html"><![CDATA[<p>『暇と退屈の倫理学』を再読中。
+不幸へのあこがれを作る幸福論は間違っているといった点について改めて思いをはせる。
+好きなものであれば、ランダム刺激でもいいのかどうかという自分の中のひとつの問いにもつながるだろう。</p>
+
+<p>ひとまずRoam Researchを見ながら書いているが、あまりにRoam Researchの内容からできるだけ書こうとするのはやめよう。ひとまず継続できるような負荷がでやれるようにする。</p>
+
+<p>先日の映画をベストな環境で見たいことがハードルになっているという話ともつながるのかな。</p>
+
+<p>ここで先日の日記のリンクが張れるといいわけだが。これでいいのかな？</p>
+
+<p><a href="https://do-mailman.github.io/test-site/2026-03-15_diary.html">2026年03月15日（日）の日記</a></p>
+
+<p>完璧への欲求という熱意的なエンジンと、熱意によるエンジンだからこそ、一種純粋な燃料が必要になるのかといったことを思う。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月16日（月）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-16_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-16_diary.html</id>
+    <published>2026-03-16T00:00:00+09:00</published>
+    <updated>2026-03-16T00:00:00+09:00</updated>
+    <summary type="text">最近映画というものを観られていない。 どうしても2時間まるまるとるというのができないのが自分の中でハードルになっている。 もちろん小分けにしたり、スマホで見ればいいというのは分かってはいるが、大画面でまとめてみたほうがベストだよねという思考が働いている。 このベストを求める志向はエンジンにもなり、ブレーキにもなり得る。 こうした記録はRoam Researchに書いてもいるが、別の媒体に書くと、また違った思考が働く。 特に日記はまとまった何かを提供するコンテンツというわけではないので、書きやすい。 今後も少しだけでもいいので書こうと思う。</summary>
+    <content type="html"><![CDATA[<p>最近映画というものを観られていない。
+どうしても2時間まるまるとるというのができないのが自分の中でハードルになっている。</p>
+
+<p>もちろん小分けにしたり、スマホで見ればいいというのは分かってはいるが、大画面でまとめてみたほうがベストだよねという思考が働いている。</p>
+
+<p>このベストを求める志向はエンジンにもなり、ブレーキにもなり得る。</p>
+
+<p>こうした記録はRoam Researchに書いてもいるが、別の媒体に書くと、また違った思考が働く。
+特に日記はまとまった何かを提供するコンテンツというわけではないので、書きやすい。</p>
+
+<p>今後も少しだけでもいいので書こうと思う。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月15日（日）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-15_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-15_diary.html</id>
+    <published>2026-03-15T00:00:00+09:00</published>
+    <updated>2026-03-15T00:00:00+09:00</updated>
+    <summary type="text">次の日だが、前日の日記を。 というか、思考を記録するのであれば、翌日に記録したほうがよさそうな気がする。 Roam Researchにメモ自体はある。 昨日は家族で美術展に行く前に、自分の記録の中から関連する記述があるかどうかを探してもらった。 検索するのもできるだろうが、まずあるかどうかが分からないというのがある。 実際に出てきた記述を検索で探せたか、探せたとしても同じ速度で見つけられたかどうかは怪しいところ。 他にもその美術展の予習らしきものをChatGPTでしてみたり。 数年前には考えられなかったことである。</summary>
+    <content type="html"><![CDATA[<p>次の日だが、前日の日記を。
+というか、思考を記録するのであれば、翌日に記録したほうがよさそうな気がする。</p>
+
+<p>Roam Researchにメモ自体はある。</p>
+
+<p>昨日は家族で美術展に行く前に、自分の記録の中から関連する記述があるかどうかを探してもらった。
+検索するのもできるだろうが、まずあるかどうかが分からないというのがある。</p>
+
+<p>実際に出てきた記述を検索で探せたか、探せたとしても同じ速度で見つけられたかどうかは怪しいところ。</p>
+
+<p>他にもその美術展の予習らしきものをChatGPTでしてみたり。</p>
+
+<p>数年前には考えられなかったことである。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年03月14日（土）の日記</title>
+    <link href="https://github.com/pages/do-mailman/Cursor/Diary/2026-03-14_diary.html" rel="alternate" type="text/html"/>
+    <id>https://github.com/pages/do-mailman/Cursor/Diary/2026-03-14_diary.html</id>
+    <published>2026-03-14T00:00:00+09:00</published>
+    <updated>2026-03-14T00:00:00+09:00</updated>
+    <summary type="text">とりあえず手始めにこのサイトに日記をつけてみようと思う。 書くのは何をやったかというよりは、何を考えたかということだ。 多分こうしたことを書くことが、思考を進めていくのに有効だと思う。 まぁフリーライティング的なものか。 とりあえず書く。 こういうときに生成AIは後から手直ししてくれるのだからありがたいものである。 このファイル自体はCursorで作ってもらった。書いているのは自分自身だ。 だが、それをあなたは信じられるのか？というのは『NEXUS』の中にあった問いである。 今読んでいる『CHANGE』の中に社会的なコミュニティはプリズムであるといった言葉があった。 所属しているコミュニティが物事に対する見方を決めるとある。 そして、生成AIがそのコミュニティの一員というか、存在感や役割は増してきており、生成AIの見方がコミュニティの中の意見を左右するということにもなってくるのではないだろうか。 そんなことを考える。 ここで考えたりしたことを、このサイト内の別ページでまとめていけるといいのではないかと思う。</summary>
+    <content type="html"><![CDATA[<p>とりあえず手始めにこのサイトに日記をつけてみようと思う。</p>
+
+<p>書くのは何をやったかというよりは、何を考えたかということだ。
+多分こうしたことを書くことが、思考を進めていくのに有効だと思う。</p>
+
+<p>まぁフリーライティング的なものか。</p>
+
+<p>とりあえず書く。
+こういうときに生成AIは後から手直ししてくれるのだからありがたいものである。</p>
+
+<p>このファイル自体はCursorで作ってもらった。書いているのは自分自身だ。
+だが、それをあなたは信じられるのか？というのは『NEXUS』の中にあった問いである。</p>
+
+<p>今読んでいる『CHANGE』の中に社会的なコミュニティはプリズムであるといった言葉があった。
+所属しているコミュニティが物事に対する見方を決めるとある。</p>
+
+<p>そして、生成AIがそのコミュニティの一員というか、存在感や役割は増してきており、生成AIの見方がコミュニティの中の意見を左右するということにもなってくるのではないだろうか。</p>
+
+<p>そんなことを考える。</p>
+
+<p>ここで考えたりしたことを、このサイト内の別ページでまとめていけるといいのではないかと思う。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  
+  
+  
+  
+  
+</feed>

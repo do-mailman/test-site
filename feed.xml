@@ -1,0 +1,32 @@
+---
+layout: null
+permalink: /feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="https://jekyllrb.com/">Jekyll</generator>
+  <link href="{{ '/feed.xml' | absolute_url }}" rel="self" type="application/atom+xml"/>
+  <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ '/feed.xml' | absolute_url }}</id>
+  <title type="text">{{ site.title | xml_escape }}</title>
+  <subtitle type="text">{{ site.description | xml_escape }}</subtitle>
+
+  {% assign feed_posts = site.posts | where_exp: "item", "item.rss == true" %}
+  {% assign feed_pages = site.pages | where_exp: "item", "item.rss == true" %}
+  {% assign feed_entries = feed_posts | concat: feed_pages | sort: "date" | reverse %}
+
+  {% for p in feed_entries limit: 50 %}
+  {% if p.title and p.date %}
+  <entry>
+    <title type="text">{{ p.title | xml_escape }}</title>
+    <link href="{{ p.url | absolute_url }}" rel="alternate" type="text/html"/>
+    <id>{{ p.url | absolute_url }}</id>
+    <published>{{ p.date | date_to_xmlschema }}</published>
+    <updated>{{ p.date | date_to_xmlschema }}</updated>
+    <summary type="text">{{ p.excerpt | default: p.content | strip_html | normalize_whitespace | xml_escape }}</summary>
+    <content type="html"><![CDATA[{{ p.content | markdownify | replace: ']]>', ']]]]><![CDATA[>' }}]]></content>
+  </entry>
+  {% endif %}
+  {% endfor %}
+</feed>
