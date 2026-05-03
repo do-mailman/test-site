@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-  <updated>2026-05-01T13:04:03+09:00</updated>
+  <updated>2026-05-03T11:10:34+09:00</updated>
   <id>http://localhost:4000/feed.xml</id>
   <title type="text">夜ふかし郵便局(仮)</title>
   <subtitle type="text">思考とか日記とかについて考える</subtitle>
@@ -12,6 +12,24 @@
   
   
 
+  
+  
+  <entry>
+    <title type="text">2026年05月02日（土）の日記</title>
+    <link href="http://localhost:4000/Diary/2026-05-02_diary.html" rel="alternate" type="text/html"/>
+    <id>http://localhost:4000/Diary/2026-05-02_diary.html</id>
+    <published>2026-05-02T00:00:00+09:00</published>
+    <updated>2026-05-02T00:00:00+09:00</updated>
+    <summary type="text">バードウォッチングをしに行った。 映画『入国審査』をU-NEXTで観た。 サスペンスという先入観があったけど、どちらかというと、体験型といえる感じだった。 主人公夫婦は、アメリカに移住をしようとするも、入国審査で別室に連れて行かれてしまう。 そこからどうなるのか？ みたいなストーリーである。少し感想は別のページでまとめたいな。</summary>
+    <content type="html"><![CDATA[<p>バードウォッチングをしに行った。</p>
+<p>映画『入国審査』をU-NEXTで観た。
+サスペンスという先入観があったけど、どちらかというと、体験型といえる感じだった。</p>
+<p>主人公夫婦は、アメリカに移住をしようとするも、入国審査で別室に連れて行かれてしまう。</p>
+<p>そこからどうなるのか？</p>
+<p>みたいなストーリーである。少し感想は別のページでまとめたいな。</p>
+]]></content>
+  </entry>
+  
   
   
   <entry>
@@ -60,6 +78,30 @@
 </li>
 </ol>
 </section>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年05月01日（金）の日記</title>
+    <link href="http://localhost:4000/Diary/2026-05-01_diary.html" rel="alternate" type="text/html"/>
+    <id>http://localhost:4000/Diary/2026-05-01_diary.html</id>
+    <published>2026-05-01T00:00:00+09:00</published>
+    <updated>2026-05-01T00:00:00+09:00</updated>
+    <summary type="text">サイトに記事を追加。 書籍についての記事だけでなく、書籍のページを作って、書籍などから考えたことの記事をリンクで書籍のページにまとめておくと良さそう。 他にもRSSでタイトルだけでなく本文も見られるように修正した。 押入れも整理。 乱雑だった工具たちを工具箱を買って整理。スッキリした。 関連リンク AIというプリズムの向こう側 『CHANGE 変化を起こす7つの戦略』（書籍ページ） 『NEXUS 情報の人類史』（書籍ページ） RSS（全文）</summary>
+    <content type="html"><![CDATA[<p>サイトに記事を追加。</p>
+<p>書籍についての記事だけでなく、書籍のページを作って、書籍などから考えたことの記事をリンクで書籍のページにまとめておくと良さそう。</p>
+<p>他にもRSSでタイトルだけでなく本文も見られるように修正した。</p>
+<p>押入れも整理。
+乱雑だった工具たちを工具箱を買って整理。スッキリした。</p>
+<h2 id="section">関連リンク</h2>
+<ul>
+<li><a href="https://log-is-fun.com/nexus-change-prism/">AIというプリズムの向こう側</a></li>
+<li><a href="https://log-is-fun.com/books/change/">『CHANGE 変化を起こす7つの戦略』（書籍ページ）</a></li>
+<li><a href="https://log-is-fun.com/books/nexus/">『NEXUS 情報の人類史』（書籍ページ）</a></li>
+<li><a href="https://log-is-fun.com/rss.xml">RSS（全文）</a></li>
+</ul>
 ]]></content>
   </entry>
   
@@ -826,33 +868,6 @@
 <p>数年前には考えられなかったことである。</p>
 ]]></content>
   </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年03月14日（土）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-03-14_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-03-14_diary.html</id>
-    <published>2026-03-14T00:00:00+09:00</published>
-    <updated>2026-03-14T00:00:00+09:00</updated>
-    <summary type="text">とりあえず手始めにこのサイトに日記をつけてみようと思う。 書くのは何をやったかというよりは、何を考えたかということだ。 多分こうしたことを書くことが、思考を進めていくのに有効だと思う。 まぁフリーライティング的なものか。 とりあえず書く。 こういうときに生成AIは後から手直ししてくれるのだからありがたいものである。 このファイル自体はCursorで作ってもらった。書いているのは自分自身だ。 だが、それをあなたは信じられるのか？というのは『NEXUS』の中にあった問いである。 今読んでいる『CHANGE』の中に社会的なコミュニティはプリズムであるといった言葉があった。 所属しているコミュニティが物事に対する見方を決めるとある。 そして、生成AIがそのコミュニティの一員というか、存在感や役割は増してきており、生成AIの見方がコミュニティの中の意見を左右するということにもなってくるのではないだろうか。 そんなことを考える。 ここで考えたりしたことを、このサイト内の別ページでまとめていけるといいのではないかと思う。</summary>
-    <content type="html"><![CDATA[<p>とりあえず手始めにこのサイトに日記をつけてみようと思う。</p>
-<p>書くのは何をやったかというよりは、何を考えたかということだ。
-多分こうしたことを書くことが、思考を進めていくのに有効だと思う。</p>
-<p>まぁフリーライティング的なものか。</p>
-<p>とりあえず書く。
-こういうときに生成AIは後から手直ししてくれるのだからありがたいものである。</p>
-<p>このファイル自体はCursorで作ってもらった。書いているのは自分自身だ。
-だが、それをあなたは信じられるのか？というのは『NEXUS』の中にあった問いである。</p>
-<p>今読んでいる『CHANGE』の中に社会的なコミュニティはプリズムであるといった言葉があった。
-所属しているコミュニティが物事に対する見方を決めるとある。</p>
-<p>そして、生成AIがそのコミュニティの一員というか、存在感や役割は増してきており、生成AIの見方がコミュニティの中の意見を左右するということにもなってくるのではないだろうか。</p>
-<p>そんなことを考える。</p>
-<p>ここで考えたりしたことを、このサイト内の別ページでまとめていけるといいのではないかと思う。</p>
-]]></content>
-  </entry>
-  
-  
   
   
 </feed>

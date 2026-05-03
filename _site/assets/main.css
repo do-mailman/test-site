@@ -195,4 +195,7 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
+.recent-posts { list-style-position: outside; margin: 0.35rem 0 0.75rem 30px; }
+.recent-posts li { margin: 0 0 0.2rem; line-height: 1.35; }
+
 .post-header .post-subtitle { margin-top: -0.35rem; margin-bottom: 0.75rem; color: #828282; font-size: 1.05rem; line-height: 1.45; font-weight: normal; }

@@ -4,6 +4,16 @@
 
 @import "minima";
 
+.recent-posts {
+  list-style-position: outside;
+  margin: 0.35rem 0 0.75rem 30px;
+
+  li {
+    margin: 0 0 0.2rem;
+    line-height: 1.35;
+  }
+}
+
 .post-header .post-subtitle {
   margin-top: -0.35rem;
   margin-bottom: 0.75rem;
