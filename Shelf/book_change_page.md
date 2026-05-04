@@ -28,9 +28,9 @@ description: 『CHANGE』の基本情報と関連ページをまとめるため�
 
 ## 関連日記
 
-- [2026年04月21日（火）の日記](/diary/2026-04-21_diary.html)
-- [2026年04月18日（土）の日記](/diary/2026-04-18_diary.html)
-- [2026年04月12日（日）の日記](/diary/2026-04-12_diary.html)
+- [2026年04月21日（火）の日記]({{ "/Diary/2026-04-21_diary.html" | relative_url }})
+- [2026年04月18日（土）の日記]({{ "/Diary/2026-04-18_diary.html" | relative_url }})
+- [2026年04月12日（日）の日記]({{ "/Diary/2026-04-12_diary.html" | relative_url }})
 
 ## 参考リンク
 

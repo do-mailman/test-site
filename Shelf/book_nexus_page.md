@@ -27,8 +27,8 @@ description: 『NEXUS 情報の人類史』の基本情報と関連ページを�
 
 ## 関連日記
 
-- [2026年04月21日（火）の日記](/diary/2026-04-21_diary.html)
-- [2026年03月14日（土）の日記](/diary/2026-03-14_diary.html)
+- [2026年04月21日（火）の日記]({{ "/Diary/2026-04-21_diary.html" | relative_url }})
+- [2026年03月14日（土）の日記]({{ "/Diary/2026-03-14_diary.html" | relative_url }})
 
 ## 参考リンク
 
