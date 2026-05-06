@@ -199,3 +199,17 @@ table td { border: 1px solid #e8e8e8; }
 .recent-posts li { margin: 0 0 0.2rem; line-height: 1.35; }
 
 .post-header .post-subtitle { margin-top: -0.35rem; margin-bottom: 0.75rem; color: #828282; font-size: 1.05rem; line-height: 1.45; font-weight: normal; }
+
+.diary-entry-nav { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.5rem 1rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e8e8e8; font-size: 0.95rem; }
+
+.diary-entry-nav-side { flex: 0 1 auto; min-width: 4rem; }
+
+.diary-entry-nav-prev { text-align: left; }
+
+.diary-entry-nav-next { text-align: right; }
+
+.diary-entry-nav-center { flex: 1 1 auto; text-align: center; }
+
+.diary-entry-nav-muted { color: #828282; }
+
+@media screen and (max-width: 500px) { .diary-entry-nav-center { order: -1; flex-basis: 100%; } }

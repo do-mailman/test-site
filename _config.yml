@@ -21,3 +21,4 @@ defaults:
       type: "pages"
     values:
       rss: true
+      layout: diary_entry

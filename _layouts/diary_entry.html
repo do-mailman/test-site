@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+{% assign diary_pages = site.pages | where: "category", "diary" | sort: "date" %}
+{% assign page_ts = page.date | date: "%s" | plus: 0 %}
+{% assign prev_ts = page_ts | minus: 86400 %}
+{% assign next_ts = page_ts | plus: 86400 %}
+{% assign prev_page = nil %}
+{% assign next_page = nil %}
+{% for p in diary_pages %}
+  {% assign pts = p.date | date: "%s" | plus: 0 %}
+  {% if prev_page == nil and pts == prev_ts %}
+    {% assign prev_page = p %}
+  {% endif %}
+  {% if next_page == nil and pts == next_ts %}
+    {% assign next_page = p %}
+  {% endif %}
+{% endfor %}
+{% assign day_of_month = page.date | date: "%d" %}
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    {%- if page.subtitle -%}
+    <p class="post-subtitle">{{ page.subtitle | escape }}</p>
+    {%- endif -%}
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <nav class="diary-entry-nav" aria-label="日記ページのリンク">
+    <div class="diary-entry-nav-side diary-entry-nav-prev">
+      {% if prev_page %}
+        <a href="{{ prev_page.url | relative_url }}">前の日</a>
+      {% else %}
+        <span class="diary-entry-nav-muted">前の日</span>
+      {% endif %}
+    </div>
+    <div class="diary-entry-nav-center">
+      <a href="{{ '/diary/day/' | append: day_of_month | append: '/' | relative_url }}#entry-{{ page.date | date: '%Y-%m-%d' }}">日付別（{{ page.date | date: "%-d" }}日）</a>
+    </div>
+    <div class="diary-entry-nav-side diary-entry-nav-next">
+      {% if next_page %}
+        <a href="{{ next_page.url | relative_url }}">次の日</a>
+      {% else %}
+        <span class="diary-entry-nav-muted">次の日</span>
+      {% endif %}
+    </div>
+  </nav>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
