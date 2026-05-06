@@ -2,6 +2,26 @@
 layout: default
 ---
 
+{% assign dom = page.day_of_month | plus: 0 %}
+{% assign prev_num = dom | minus: 1 %}
+{% if prev_num < 1 %}
+  {% assign prev_num = 31 %}
+{% endif %}
+{% assign next_num = dom | plus: 1 %}
+{% if next_num > 31 %}
+  {% assign next_num = 1 %}
+{% endif %}
+{% if prev_num < 10 %}
+  {% assign prev_slug = '0' | append: prev_num %}
+{% else %}
+  {% assign prev_slug = prev_num | append: '' %}
+{% endif %}
+{% if next_num < 10 %}
+  {% assign next_slug = '0' | append: next_num %}
+{% else %}
+  {% assign next_slug = next_num | append: '' %}
+{% endif %}
+
 <div class="diary-by-day">
   <p>
     <a href="{{ '/diary/by-day/' | relative_url }}">日付別一覧</a>
@@ -49,4 +69,16 @@ layout: default
     {% endfor %}
   </div>
   {% endif %}
+
+  <nav class="diary-entry-nav" aria-label="日付別ページのリンク">
+    <div class="diary-entry-nav-side diary-entry-nav-prev">
+      <a href="{{ '/diary/day/' | append: prev_slug | append: '/' | relative_url }}">{{ prev_num }}日の日記</a>
+    </div>
+    <div class="diary-entry-nav-center">
+      <a href="{{ '/diary/by-day/' | relative_url }}">日付別一覧</a>
+    </div>
+    <div class="diary-entry-nav-side diary-entry-nav-next">
+      <a href="{{ '/diary/day/' | append: next_slug | append: '/' | relative_url }}">{{ next_num }}日の日記</a>
+    </div>
+  </nav>
 </div>

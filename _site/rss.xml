@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>夜ふかし郵便局(仮)</title>
-    <link>/</link>
+    <link>http://localhost:4000/</link>
     <description>思考とか日記とかについて考える</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 May 2026 10:35:28 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:46:36 +0900</lastBuildDate>
 
     
     
@@ -15,8 +15,8 @@
     
     <item>
       <title>2026年05月05日（火）の日記</title>
-      <link>/Diary/2026-05-05_diary.html</link>
-      <guid>/Diary/2026-05-05_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-05-05_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-05-05_diary.html</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0900</pubDate>
       <description>今日は陽射しがすごい。 陽射しと日差しの差は何だろう。昨日のあのギラギラした感じだと射すと入っている陽射しの方がピンとくるような気もする。 後で辞書で調べてみよう。 去年買ったタオルマフラーを首につけると少し楽になった。 首にマフラーがあることより、陽射しを直接受ける方がつらいということだろう。 この時期の必需品になるかもしれない。</description>
       <content:encoded><![CDATA[<p>今日は陽射しがすごい。
@@ -32,8 +32,8 @@
     
     <item>
       <title>2026年05月04日（月）の日記</title>
-      <link>/Diary/2026-05-04_diary.html</link>
-      <guid>/Diary/2026-05-04_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-05-04_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-05-04_diary.html</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0900</pubDate>
       <description>風がとても強い一日だった。 映画「ワン・バトル・アフター・アナザー」を観た。 最初はちょっとついていけなくなりそうだったが、途中からは引き込まれて一気に見ることができた。 服を買いに出かけた。 最近は登山系というかアウトドア系のブランドの店を多く見かける。 増えてきているのか、興味が出てきたから気づくようになったのか。</description>
       <content:encoded><![CDATA[<p>風がとても強い一日だった。</p>
@@ -49,8 +49,8 @@
     
     <item>
       <title>2026年05月03日（日）の日記</title>
-      <link>/Diary/2026-05-03_diary.html</link>
-      <guid>/Diary/2026-05-03_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-05-03_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-05-03_diary.html</guid>
       <pubDate>Sun, 03 May 2026 00:00:00 +0900</pubDate>
       <description>井田千秋さんの『おさまる家』を読む。 家の中を片付けるというか、自分好みにしたいと思える。 とりあえず少し雑然としていた部屋の一部を片付けて、ずっと設置しようと思っていた飾り棚をつけた。 なんというか、こういうのも贅沢なのかなと思う。 『暇と退屈の倫理学』を読んでから、贅沢という言葉へのイメージが変わった。 清貧という言葉があるように、どこか贅沢はあまり良くないものといったイメージがどこかにあったように思う。 もちろん無駄にお金を使うとかは良くないと思うし、どちらかというと、贅沢の必要条件と思われる余裕がより大事に思えるようになってきたのだと思う。 そう考えると、スマホをいじるのはあまり贅沢ではない感じがするが、なぜだろう。</description>
       <content:encoded><![CDATA[<p>井田千秋さんの『おさまる家』を読む。
@@ -68,8 +68,8 @@
     
     <item>
       <title>2026年05月02日（土）の日記</title>
-      <link>/Diary/2026-05-02_diary.html</link>
-      <guid>/Diary/2026-05-02_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-05-02_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-05-02_diary.html</guid>
       <pubDate>Sat, 02 May 2026 00:00:00 +0900</pubDate>
       <description>バードウォッチングをしに行った。 映画『入国審査』をU-NEXTで観た。 サスペンスという先入観があったけど、どちらかというと、体験型といえる感じだった。 主人公夫婦は、アメリカに移住をしようとするも、入国審査で別室に連れて行かれてしまう。 そこからどうなるのか？ みたいなストーリーである。少し感想は別のページでまとめたいな。</description>
       <content:encoded><![CDATA[<p>バードウォッチングをしに行った。</p>
@@ -85,8 +85,8 @@
     
     <item>
       <title>AIというプリズムの向こう側</title>
-      <link>/nexus-change-prism/</link>
-      <guid>/nexus-change-prism/</guid>
+      <link>http://localhost:4000/nexus-change-prism/</link>
+      <guid>http://localhost:4000/nexus-change-prism/</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0900</pubDate>
       <description>『NEXUS 情報の人類史』にある「NEXUS」とは何か？ 辞書を引いてみると以下のような定義である a complicated series of connections between different things 何か違うものの間の複雑なつながり。その繋がりを作るのが情報であるとしている。1 本書内では第1部では人間のネットワークが情報によってどう変わっていったか。第2部以降ではそこにアルゴリズム、AIといったネットワークへの新たな参加者が加わることでどう変わりうるのかといったことが語られていく。 詳しくはぜひ本書を読んでほしい。 『CHANGE』との重なり ここで語りたいのは今読んでいる『CHANGE』とのつながりだ2 並行して読んでいた『CHANGE』は社会的ネットワークや行動変容についての話である。 『CHANGE』（デイモン・セントラ著、副題「新しいアイデアやイノベーションはこうして広まる」）は、新しい考えや行動が、だれか一人の知名度や「バズ」だけでは広がらないことを実証研究を踏まえて論じる本だ。 この中で「社会的ネットワークとはプリズムである」3と出てくる。 最初はプリズムという単語に馴染みがなくて、ピンとこなかったが、いうなれば社会的ネットワークとは情報をただただ運んでくるパイプではなく、その情報自体の見方を決める役割を持っているということだ。 少し考えてみると、会社で何か問題が起こったときに、所属部署の常識が「それを問題とするか」という判断に影響を与えることは間違いない。 常識に従うことも、逆らうこともできたとしても、そこに常識という判断基準がすでに紛れ込んでいる。 同じ出来事でも、自分がどのネットワークを通して見ているかで、出来事に対する意味づけが変わるのだ。 ここで、ネットワークに参加する新しい主体（アルゴリズム・AI）についての影響力は甚大だろうと分かる。 これからAIは人間の相談相手として、ネットワークの参加者として大きな役割を果たしていくだろう。 そのときAIというプリズムがどのような光景を私たちに見せるのか。その影響は計り知れないのではないだろうか。 書籍ページ 『NEXUS 情報の人類史』書籍ページ 『CHANGE』書籍ページ 本書内では言及されてはいないと思うが、その情報自体もなにかとなにかの繋がりではないかと思う。入れ子構造的になっているのではないか。 ↩ このページで『CHANGE』と結び付けて書いていること自体も、本書が言うところの「情報がつながりを生む」一例だと思う。メモ同士、読書同士のNEXUSである。 ↩ プリズムとは、光を屈折させて成分ごとに分ける光学の道具のたとえ。ここでは、社会的ネットワークが情報を運ぶだけの「パイプ」ではなく、通したあとに何が強調され、何がすり抜けるかを形作る装置という意味で使われていると考えられる。 ↩</description>
       <content:encoded><![CDATA[<p>『NEXUS 情報の人類史』にある「NEXUS」とは何か？</p>
@@ -135,8 +135,8 @@
     
     <item>
       <title>2026年05月01日（金）の日記</title>
-      <link>/Diary/2026-05-01_diary.html</link>
-      <guid>/Diary/2026-05-01_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-05-01_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-05-01_diary.html</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0900</pubDate>
       <description>サイトに記事を追加。 書籍についての記事だけでなく、書籍のページを作って、書籍などから考えたことの記事をリンクで書籍のページにまとめておくと良さそう。 他にもRSSでタイトルだけでなく本文も見られるように修正した。 押入れも整理。 乱雑だった工具たちを工具箱を買って整理。スッキリした。 関連リンク AIというプリズムの向こう側 『CHANGE 変化を起こす7つの戦略』（書籍ページ） 『NEXUS 情報の人類史』（書籍ページ） RSS（全文）</description>
       <content:encoded><![CDATA[<p>サイトに記事を追加。</p>
@@ -158,8 +158,8 @@
     
     <item>
       <title>2026年04月30日（木）の日記</title>
-      <link>/Diary/2026-04-30_diary.html</link>
-      <guid>/Diary/2026-04-30_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-30_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-30_diary.html</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0900</pubDate>
       <description>『中動態の世界』を読む。 文法のところがなかなか難しい。馴染みがないというか、足りないというか。 『「学び」がわからなくなったときに読む本』も読む。 晩餐のような勉強、時間がかかることを贅沢と考えるかどうか。 『暇と退屈の倫理学』にもつながりそうだ。贅沢を受け取る余裕というものが、足りないのではないか。 そもそも余裕は状況的にないこともあるだろうが、ないことはないはず。 日々ライオンに追われているわけではないのだ。 選択肢の多さは余裕を生み出すと思っているが、逆に余裕を削ることもあるのかもしれない。 それは自分自身が選択したという責任を背負う余裕を持てるかどうかなのだろうか。 贅沢には選択を受け取る器量が必要なのかも。</description>
       <content:encoded><![CDATA[<p>『中動態の世界』を読む。
@@ -179,8 +179,8 @@
     
     <item>
       <title>2026年04月29日（水）の日記</title>
-      <link>/Diary/2026-04-29_diary.html</link>
-      <guid>/Diary/2026-04-29_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-29_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-29_diary.html</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0900</pubDate>
       <description>ツバメが巣の回りを忙しく飛び回っている。 『中動態の世界』を読み進める。文法のところはなじみがなさ過ぎて理解というより、位置を把握するというか、こういうのもあるのかぐらいの感覚で読み進める。 図書館で『新版 「幸せをお金で買う」５つの授業』を読んでいると、最近は当たり前の言説となってきている「物よりも経験を買う方が幸福度が高い」という内容が眼に入ってくる。 経験はそもそも自分に直接かかわることなわけなので、物よりは人生に対する近接度は高いと思う。 ただ、モノだって何かを体験するためとか、それがあってこそできることとかもあるから、それも含めたらモノを買うことによる幸せだって当然あると思う - ソファーで家族で座れるようになった - 双眼鏡でバードウォッチング などなど。『新版 「幸せをお金で買う」５つの授業』中にもあったように、実際にモノに使ったのか、経験に使ったのかは簡単に分けられるものでもないと思う。 あと考えたいのは『暇と退屈の倫理学』に出てくる「浪費」はそこにどうかかわってくるだろうか。 「浪費」において「モノをモノとして受け取る」というのに、経験にはどう当てはまるのかなといったことを少し考える。 このサイトにも少しずつ慣れてきたので、内容のバリエーションを増やしていきたいな。</description>
       <content:encoded><![CDATA[<p>ツバメが巣の回りを忙しく飛び回っている。</p>
@@ -203,8 +203,8 @@
     
     <item>
       <title>2026年04月28日（火）の日記</title>
-      <link>/Diary/2026-04-28_diary.html</link>
-      <guid>/Diary/2026-04-28_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-28_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-28_diary.html</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0900</pubDate>
       <description>GW前最終日。 簡単な打ち合わせでも議事メモを書いておくのは大事。 特に連休後の自分への申し送りは大事になる。 実況メモ式感想法は、絵を描く練習のなかのスケッチに似ているのかもしれない。自分が見たものを再出力して、確認できる。</description>
       <content:encoded><![CDATA[<p>GW前最終日。
@@ -218,8 +218,8 @@
     
     <item>
       <title>2026年04月27日（月）の日記</title>
-      <link>/Diary/2026-04-27_diary.html</link>
-      <guid>/Diary/2026-04-27_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-27_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-27_diary.html</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0900</pubDate>
       <description>職場の近くできれいに鳴いている鳥はイソヒヨドリみたいだと分かる。 ずっときれい鳴き声だけ聞いて何かわからなかったので、仕事中にそわそわしてしまった。 『暇と退屈の倫理学』の再読が終わって、『生産性が高い人の8つの原則』を読んでいる。 心理的安全性など、個人だけでなく、組織としての生産性も視野に入れているのは良いと思う。</description>
       <content:encoded><![CDATA[<p>職場の近くできれいに鳴いている鳥はイソヒヨドリみたいだと分かる。
@@ -233,8 +233,8 @@
     
     <item>
       <title>2026年04月26日（日）の日記</title>
-      <link>/Diary/2026-04-26_diary.html</link>
-      <guid>/Diary/2026-04-26_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-26_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-26_diary.html</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0900</pubDate>
       <description>バードウォッチングをしにいったが、初の新緑の時期で見つけるのにとても苦戦した。 修業が必要。</description>
       <content:encoded><![CDATA[<p>バードウォッチングをしにいったが、初の新緑の時期で見つけるのにとても苦戦した。
@@ -246,8 +246,8 @@
     
     <item>
       <title>2026年04月25日（土）の日記</title>
-      <link>/Diary/2026-04-25_diary.html</link>
-      <guid>/Diary/2026-04-25_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-25_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-25_diary.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0900</pubDate>
       <description>こちらの「夜ふかし郵便局(仮)」に過去書いてたブログ「ログハピ！」を持ってきてみた。 サイトのURLも独自ドメインに変更する。</description>
       <content:encoded><![CDATA[<p>こちらの「夜ふかし郵便局(仮)」に過去書いてたブログ「ログハピ！」を持ってきてみた。
@@ -259,8 +259,8 @@
     
     <item>
       <title>2026年04月24日（金）の日記</title>
-      <link>/Diary/2026-04-24_diary.html</link>
-      <guid>/Diary/2026-04-24_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-24_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-24_diary.html</guid>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0900</pubDate>
       <description>『暇と退屈の倫理学』が再読し終わったので、次は『生産性が高い人の8つの原則』を読もうと思う。</description>
       <content:encoded><![CDATA[<p>『暇と退屈の倫理学』が再読し終わったので、次は『生産性が高い人の8つの原則』を読もうと思う。</p>
@@ -271,8 +271,8 @@
     
     <item>
       <title>2026年04月23日（木）の日記</title>
-      <link>/Diary/2026-04-23_diary.html</link>
-      <guid>/Diary/2026-04-23_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-23_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-23_diary.html</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0900</pubDate>
       <description>仕事で久しぶりに力仕事をしたので疲れた。 ただデスクワークにはない充実感があるのも事実。</description>
       <content:encoded><![CDATA[<p>仕事で久しぶりに力仕事をしたので疲れた。
@@ -284,8 +284,8 @@
     
     <item>
       <title>2026年04月22日（水）の日記</title>
-      <link>/Diary/2026-04-22_diary.html</link>
-      <guid>/Diary/2026-04-22_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-22_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-22_diary.html</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0900</pubDate>
       <description>NBAのプレイオフが熱い</description>
       <content:encoded><![CDATA[<p>NBAのプレイオフが熱い</p>
@@ -296,8 +296,8 @@
     
     <item>
       <title>2026年04月21日（火）の日記</title>
-      <link>/Diary/2026-04-21_diary.html</link>
-      <guid>/Diary/2026-04-21_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-21_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-21_diary.html</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0900</pubDate>
       <description>『CHANGE』を読み終わった。これはまとめておきたい、と言いつつ『NEXUS』もまだまとめられていないので、どうなるか。</description>
       <content:encoded><![CDATA[<p>『CHANGE』を読み終わった。これはまとめておきたい、と言いつつ『NEXUS』もまだまとめられていないので、どうなるか。</p>
@@ -308,8 +308,8 @@
     
     <item>
       <title>2026年04月20日（月）の日記</title>
-      <link>/Diary/2026-04-20_diary.html</link>
-      <guid>/Diary/2026-04-20_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-20_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-20_diary.html</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0900</pubDate>
       <description>以下の記事を読んだ。 ソフトウェアや知能が安くなったときに起きること - 🐴 (馬) 光源が安価で普及することと、知能に関することがそのまま当てはまるかどうかは置いておいて、自分もブックマークレットを作ってみたりとかはできている。そういうすそ野は広がるだろうな。 以下上記記事から引用 このアナロジーをそのままソフトウェアに当てはめることはできませんが、それでもおそらく似たような構造的な変化は起こっていくでしょう。価格が下がると、人は同じものを安く使うだけでなく、これまでコスト的に見合わなかった場所で使い始める、ということです。 だから問うべきなのは、AIで何を自動化できるかではなく、安いソフトウェアや知能によって、どの問題が新たにソフトウェアで解決可能になり、そのとき何が起きて、何が新しい希少性になるのか、です。 短期的には、AIそのものや、AIを活用したソフトウェアの需要は高まるでしょう。しかしその先を見たとき、おそらくそれら以上に、もっと他の場所から価値が生まれてくるのではないかと思います。</description>
       <content:encoded><![CDATA[<p>以下の記事を読んだ。</p>
@@ -330,8 +330,8 @@
     
     <item>
       <title>2026年04月19日（日）の日記</title>
-      <link>/Diary/2026-04-19_diary.html</link>
-      <guid>/Diary/2026-04-19_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-19_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-19_diary.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0900</pubDate>
       <description>ニュースレターをアップ。 英語で作業記録をつけると、一石二鳥になる 独学同好会通信 サイトとニュースレターとかnoteとか、アウトプット量が多くない中で、どうその先を振り分けていくのか。 とりあえず書く量をもう少し増やしたいところだ。</description>
       <content:encoded><![CDATA[<p>ニュースレターをアップ。</p>
@@ -345,8 +345,8 @@
     
     <item>
       <title>2026年04月18日（土）の日記</title>
-      <link>/Diary/2026-04-18_diary.html</link>
-      <guid>/Diary/2026-04-18_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-18_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-18_diary.html</guid>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0900</pubDate>
       <description>『暇と退屈の倫理学』と『CHANGE』を読み進める。あともう少しで両方とも読み終わりそうだ。 出かけた時に長時間おなかに何もいれないと、頭がぼんやりするということが何となくわかってきたので、出かけるときのうまい栄養補給方法を考えたい。できれば歯に悪影響がないものが良い。 いい天気だったので、散歩をした。</description>
       <content:encoded><![CDATA[<p>『暇と退屈の倫理学』と『CHANGE』を読み進める。あともう少しで両方とも読み終わりそうだ。</p>
@@ -359,8 +359,8 @@
     
     <item>
       <title>2026年04月17日（金）の日記</title>
-      <link>/Diary/2026-04-17_diary.html</link>
-      <guid>/Diary/2026-04-17_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-17_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-17_diary.html</guid>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0900</pubDate>
       <description>初めてブックマークレットを作ってもらった。一度作って、ブックマークレットによる改良が選択肢に入ってくると、色々思いつく。 このブックマークレットについては別のページで書いておく。 サイト上にCraftみたいなカテゴリをつくってもいいかもしれない</description>
       <content:encoded><![CDATA[<p>初めてブックマークレットを作ってもらった。一度作って、ブックマークレットによる改良が選択肢に入ってくると、色々思いつく。</p>
@@ -373,8 +373,8 @@
     
     <item>
       <title>2026年04月16日（木）の日記</title>
-      <link>/Diary/2026-04-16_diary.html</link>
-      <guid>/Diary/2026-04-16_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-16_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-16_diary.html</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0900</pubDate>
       <description>『暇と退屈の倫理学』の最終章に来た。明日には読み終わるだろう。 『マネジメントは嫌いですけど』を読む。組織として学習などに配分できなければマネジメントとしての失敗というのは確かにそうだと思う。</description>
       <content:encoded><![CDATA[<p>『暇と退屈の倫理学』の最終章に来た。明日には読み終わるだろう。</p>
@@ -386,8 +386,8 @@
     
     <item>
       <title>2026年04月15日（水）の日記</title>
-      <link>/Diary/2026-04-15_diary.html</link>
-      <guid>/Diary/2026-04-15_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-15_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-15_diary.html</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0900</pubDate>
       <description>今日はいつもポイントとしているルーティンが業務の都合上できずに、いつもより満足感が低い気がする。 『暇と退屈の倫理学』において、習慣とはダイナミックなものであるとあったが、いつものルーティンと外れることは変化を促すので、ひとまず良いことなのだと考えよう。</description>
       <content:encoded><![CDATA[<p>今日はいつもポイントとしているルーティンが業務の都合上できずに、いつもより満足感が低い気がする。</p>
@@ -399,8 +399,8 @@
     
     <item>
       <title>2026年04月14日（火）の日記</title>
-      <link>/Diary/2026-04-14_diary.html</link>
-      <guid>/Diary/2026-04-14_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-14_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-14_diary.html</guid>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0900</pubDate>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
@@ -410,8 +410,8 @@
     
     <item>
       <title>2026年04月13日（月）の日記</title>
-      <link>/Diary/2026-04-13_diary.html</link>
-      <guid>/Diary/2026-04-13_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-13_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-13_diary.html</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0900</pubDate>
       <description>スギよりもヒノキ花粉の方が自分にはきついかもしれない。</description>
       <content:encoded><![CDATA[<p>スギよりもヒノキ花粉の方が自分にはきついかもしれない。</p>
@@ -422,8 +422,8 @@
     
     <item>
       <title>2026年04月12日（日）の日記</title>
-      <link>/Diary/2026-04-12_diary.html</link>
-      <guid>/Diary/2026-04-12_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-12_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-12_diary.html</guid>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0900</pubDate>
       <description>『CHANGE』を読む。 組織内での多様性を保つクラスタとクラスタ間をつなぐ広い橋が必要。クラスタ間の伝播は抑制されつつ、遅く伝わってくる。これがイノベーションへとつながる？ これは個人についても似たようなことが言えるのかもしれない。 多様性を保つとは、仕事と家庭とそれ以外の領域を持つことともいえるかもしれないし、他の領域での考え方を他の領域に持ってくるのを遅らせる必要がある。 他の領域での正解を、安易に適用しないともいえるかもしれない</description>
       <content:encoded><![CDATA[<p>『CHANGE』を読む。
@@ -438,8 +438,8 @@
     
     <item>
       <title>2026年04月11日（土）の日記</title>
-      <link>/Diary/2026-04-11_diary.html</link>
-      <guid>/Diary/2026-04-11_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-11_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-11_diary.html</guid>
       <pubDate>Sat, 11 Apr 2026 00:00:00 +0900</pubDate>
       <description>いきなり最高気温27℃はやめてほしい。27℃で花粉飛んでいるのはつらい。 今日は料理担当日なのでハンバーグを作った。料理はあまり得意ではないが、何回も作っているとさすがに手順は覚えてくる。 Microsoft PowerToysでAIの画面を常に最前面に配置して、記録をとるのを忘れないようにしてみた。</description>
       <content:encoded><![CDATA[<p>いきなり最高気温27℃はやめてほしい。27℃で花粉飛んでいるのはつらい。
@@ -453,8 +453,8 @@
     
     <item>
       <title>2026年04月10日（金）の日記</title>
-      <link>/Diary/2026-04-10_diary.html</link>
-      <guid>/Diary/2026-04-10_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-10_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-10_diary.html</guid>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0900</pubDate>
       <description>Copilotで作業ログをとっているので、作業ログをとっている画面を常に最前面に出せないか調べてみる。 Microsoft PowerToysでできそうなので、試してみよう。</description>
       <content:encoded><![CDATA[<p>Copilotで作業ログをとっているので、作業ログをとっている画面を常に最前面に出せないか調べてみる。</p>
@@ -466,8 +466,8 @@
     
     <item>
       <title>2026年04月09日（木）の日記</title>
-      <link>/Diary/2026-04-09_diary.html</link>
-      <guid>/Diary/2026-04-09_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-09_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-09_diary.html</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
       <description>Copilotに作業記録と同時に英語での表現を教えてもらったりするのはなかなかいい感じ。 業務終了の宣言と同時に英語の改善点をAnkiに追加できるよう形式でアウトプットしてもらえるようにもした。</description>
       <content:encoded><![CDATA[<p>Copilotに作業記録と同時に英語での表現を教えてもらったりするのはなかなかいい感じ。
@@ -479,8 +479,8 @@
     
     <item>
       <title>2026年04月08日（水）の日記</title>
-      <link>/Diary/2026-04-08_diary.html</link>
-      <guid>/Diary/2026-04-08_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-08_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-08_diary.html</guid>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
       <description>『暇と退屈の倫理学』の再読を進める。ユクスキュルの環世界が出て来た。</description>
       <content:encoded><![CDATA[<p>『暇と退屈の倫理学』の再読を進める。ユクスキュルの環世界が出て来た。</p>
@@ -491,8 +491,8 @@
     
     <item>
       <title>2026年04月07日（火）の日記</title>
-      <link>/Diary/2026-04-07_diary.html</link>
-      <guid>/Diary/2026-04-07_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-07_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-07_diary.html</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0900</pubDate>
       <description>役職が少し上に上がると、実務が減って達成感というのが減る気がする。 短期的に達成するようなことが減ってくるのだと思う。 ということは、意識的に1週間のテーマという短期のテーマを設定するのはありかもしれない。</description>
       <content:encoded><![CDATA[<p>役職が少し上に上がると、実務が減って達成感というのが減る気がする。
@@ -505,8 +505,8 @@
     
     <item>
       <title>2026年04月06日（月）の日記</title>
-      <link>/Diary/2026-04-06_diary.html</link>
-      <guid>/Diary/2026-04-06_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-06_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-06_diary.html</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0900</pubDate>
       <description>土日の旅行で今日は体が重い。この日の日記は自分のものには書いたので、このサイト上ではひとまず省こうと思う。 マイペースに仕事ができれば良しとする。</description>
       <content:encoded><![CDATA[<p>土日の旅行で今日は体が重い。この日の日記は自分のものには書いたので、このサイト上ではひとまず省こうと思う。</p>
@@ -518,8 +518,8 @@
     
     <item>
       <title>2026年04月05日（日）の日記</title>
-      <link>/Diary/2026-04-05_diary.html</link>
-      <guid>/Diary/2026-04-05_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-05_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-05_diary.html</guid>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0900</pubDate>
       <description>（追記予定）</description>
       <content:encoded><![CDATA[<p>（追記予定）</p>
@@ -530,8 +530,8 @@
     
     <item>
       <title>2026年04月04日（土）の日記</title>
-      <link>/Diary/2026-04-04_diary.html</link>
-      <guid>/Diary/2026-04-04_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-04_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-04_diary.html</guid>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0900</pubDate>
       <description>（追記予定）</description>
       <content:encoded><![CDATA[<p>（追記予定）</p>
@@ -542,8 +542,8 @@
     
     <item>
       <title>2026年04月03日（金）の日記</title>
-      <link>/Diary/2026-04-03_diary.html</link>
-      <guid>/Diary/2026-04-03_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-03_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-03_diary.html</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0900</pubDate>
       <description>（追記予定）</description>
       <content:encoded><![CDATA[<p>（追記予定）</p>
@@ -554,8 +554,8 @@
     
     <item>
       <title>2026年04月02日（木）の日記</title>
-      <link>/Diary/2026-04-02_diary.html</link>
-      <guid>/Diary/2026-04-02_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-02_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-02_diary.html</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0900</pubDate>
       <description>正解と間違いのマトリクスについて最近少し考えている。 正解とは価値基準や優先度、意味の判断とも言い換えられるとすると、意味や価値から人間は逃れることはできないので、自然正解という価値からも逃れられないことになる。 しかし、正解というもの自体は設定しなおせるという視点は重要だと思う。 書いているうちに当たり前のことを書いているような気がしてきたが、再確認することは大事だと思う。 自分の指針の一つに「うれしい」という感情を原動力にしないというものがある。うれしいとは思いがけないことが起きた時に感じるものという前提があると思うからだ。 それはつまり、うれしいというアンコントローラブルな対象を正解の要素として加えないようにするということでもある。 この指針ももちろんグラデーションがあり、変えられるわけだが、そうした相対化が行き過ぎるのも問題だよなぁとは思う。</description>
       <content:encoded><![CDATA[<p>正解と間違いのマトリクスについて最近少し考えている。</p>
@@ -572,8 +572,8 @@
     
     <item>
       <title>2026年04月01日（水）の日記</title>
-      <link>/Diary/2026-04-01_diary.html</link>
-      <guid>/Diary/2026-04-01_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-04-01_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-04-01_diary.html</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
       <description>4月になる。年度が変わる。 『バーナード嬢曰く』を読んで紙の本が読みたくなったので、紙でしか読めない『十二国記』を読むことにした。 電子書籍とは違う何かがあるので、本当に読むという体験だけを重視するなら全部紙の本がいいと思う。 ただ私のような小市民にはスペースの問題というのがいつも付きまとうし、気に入った文章などをRoam Researchに移すには電子書籍がいい。 Kindleを使うのが結局はいいバランスになるのかもしれない。</description>
       <content:encoded><![CDATA[<p>4月になる。年度が変わる。</p>
@@ -588,8 +588,8 @@
     
     <item>
       <title>2026年03月31日（火）の日記</title>
-      <link>/Diary/2026-03-31_diary.html</link>
-      <guid>/Diary/2026-03-31_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-31_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-31_diary.html</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate>
       <description>『暇と退屈の倫理学』において、「本来性なき疎外」という言葉が出てくる。 疎外されているということを考えるとき、そこには疎外されていない本来の状態や環境があると考えてしまうが、本来というものを考えることなく、疎外というものを考えることもできるということだと理解している。 ここでいう本来という言葉は正解とも言い換えられないかと思っていて、間違いだと感じても、正解がない場合だってあるのではないかということだ。 「間違いなく正解」はあるが、「正解なく間違い」だってあるのではないだろうか。</description>
       <content:encoded><![CDATA[<p>『暇と退屈の倫理学』において、「本来性なき疎外」という言葉が出てくる。
@@ -603,8 +603,8 @@
     
     <item>
       <title>2026年03月30日（月）の日記</title>
-      <link>/Diary/2026-03-30_diary.html</link>
-      <guid>/Diary/2026-03-30_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-30_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-30_diary.html</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
       <description>久しぶりに映画を観終わることができた。 『世界一キライなあなたへ』 どこかの日記にも書いた通り、映画をしっかり見たいという気持ちがどこかにあるのだが、そこはひとつ妥協というか折り合いというか、観ないより観られた方がましだろうという考え方で映画を小分けでもいいので、スマホでもいいので見るようにした。 小分けで観られる時と、観られないときがあるので、なにかタイミングとか調子とかも関係しているのかもしれない。 この映画はポッドキャストで紹介されていて、それでなかったら見なかっただろうなという映画。 タイトルの通り、ジャンルとしては恋愛映画なのだが、障害を負った人物の話でもあり、 再読している『暇と退屈の倫理学』の中にちょうど出て来た「本来性なき疎外」とかともつながるのかなと思う。 何を本来だと思うのか、そもそも本来というものはあるのか。 観られてよかった映画。</description>
       <content:encoded><![CDATA[<p>久しぶりに映画を観終わることができた。</p>
@@ -623,8 +623,8 @@
     
     <item>
       <title>2026年03月29日（日)の日記</title>
-      <link>/Diary/2026-03-29_diary.html</link>
-      <guid>/Diary/2026-03-29_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-29_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-29_diary.html</guid>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0900</pubDate>
       <description>始めて早朝のバードウォッチングをしてみた。 時間帯が違うだけで、こんなに鳥の活発度が違うのかとびっくりする。</description>
       <content:encoded><![CDATA[<p>始めて早朝のバードウォッチングをしてみた。
@@ -636,8 +636,8 @@
     
     <item>
       <title>2026年03月28日（土）の日記</title>
-      <link>/Diary/2026-03-28_diary.html</link>
-      <guid>/Diary/2026-03-28_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-28_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-28_diary.html</guid>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0900</pubDate>
       <description>桜が咲いたので、散歩がてら花見をする。 図書館で雑誌を眺めてみた。『日経TRENDY』とか『日経エンタテイメント』など普段手に取らない雑誌を手に取ってみる。 雑誌は、何かを始めるきっかけになることが多い。文房具とか手帳特集は結構好きで、特集をきっかけにして、試してみた方法とかもある。 今回は何か始めたわけではないが、Geminiをもう少し試してみようと思った。</description>
       <content:encoded><![CDATA[<p>桜が咲いたので、散歩がてら花見をする。
@@ -651,8 +651,8 @@
     
     <item>
       <title>2026年03月27日（金）の日記</title>
-      <link>/Diary/2026-03-27_diary.html</link>
-      <guid>/Diary/2026-03-27_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-27_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-27_diary.html</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0900</pubDate>
       <description>『暇と退屈の倫理学』を読み進めている。 「浪費」と「消費」という概念が出てくる。簡単にまとめると以下のようなイメージ。 浪費:必要を超えてものをうけとること、吸収すること。そして受け取ることには限界があるので、どこかで満足する 消費:ものではなく、付与された観念や意味を消費している。満足できない。 何かを購入したとき、そこには消費と浪費が組み合わさっているだろうし、最初は浪費だったものが消費になるということもあるだろうな。 人間は意味から逃れられないので、何か買うときにそこに意味も付随してくるだろう。 職場で生成AIを使って個人の業務記録をとっているのだが、英語で書くようにすると英語の勉強ができそうだと思いつく。試してみるとなかなかいい感じ。</description>
       <content:encoded><![CDATA[<p>『暇と退屈の倫理学』を読み進めている。
@@ -672,8 +672,8 @@
     
     <item>
       <title>2026年03月26日（木）の日記</title>
-      <link>/Diary/2026-03-26_diary.html</link>
-      <guid>/Diary/2026-03-26_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-26_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-26_diary.html</guid>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0900</pubDate>
       <description>久しぶりにマンガを無心に読む時間が取れた。良い気分転換になった。</description>
       <content:encoded><![CDATA[<p>久しぶりにマンガを無心に読む時間が取れた。良い気分転換になった。</p>
@@ -684,8 +684,8 @@
     
     <item>
       <title>2026年03月25日（水）の日記</title>
-      <link>/Diary/2026-03-25_diary.html</link>
-      <guid>/Diary/2026-03-25_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-25_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-25_diary.html</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0900</pubDate>
       <description>食洗機が壊れたので新しいのを買い替える。 以前自分でセッティングできたのを記録で確認したので、設置依頼はしなくていいと判断できた。 こういうのも、記録が背中を後押しすることなんだろう。 今ある食洗機がどうやって設置されたのかが、ものすごい曖昧な状態でしか、覚えてなかったので、記録がなかったら設置できる自信は出なかったかもしれない</description>
       <content:encoded><![CDATA[<p>食洗機が壊れたので新しいのを買い替える。</p>
@@ -699,8 +699,8 @@
     
     <item>
       <title>2026年03月24日（火）の日記</title>
-      <link>/Diary/2026-03-24_diary.html</link>
-      <guid>/Diary/2026-03-24_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-24_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-24_diary.html</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
       <description>春のせいか、花粉のせいか、はたまた腰痛のせいなのかわからないけど、眠い。 『一度読んだら絶対に忘れない世界史の教科書』がやっと半分まで来た。だいぶ用語を把握できて来たので、歴史の動画などを見ていると知っている単語が出てくるのが地味にうれしい。 こういうのが、勉強の駆動力になったりするのだろう。</description>
       <content:encoded><![CDATA[<p>春のせいか、花粉のせいか、はたまた腰痛のせいなのかわからないけど、眠い。</p>
@@ -713,8 +713,8 @@
     
     <item>
       <title>2026年03月23日（月）の日記</title>
-      <link>/Diary/2026-03-23_diary.html</link>
-      <guid>/Diary/2026-03-23_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-23_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-23_diary.html</guid>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0900</pubDate>
       <description>最近正解のある領域とない領域、ないというよりは必要ない領域というものも持っていた方がいいのかなと思う。 例えば、旅行中のトラブルとかは正解ではないと思うけど、長期的にみればいい思い出になることはよくあるわけで。 そうすると正解というものは何を基準にするかによって変わるし、基準を複数持った時に正解というものはなくなるのかもしれない。 それはそうと、今日負傷したぎっくり腰は正解ではないと思う</description>
       <content:encoded><![CDATA[<p>最近正解のある領域とない領域、ないというよりは必要ない領域というものも持っていた方がいいのかなと思う。</p>
@@ -728,8 +728,8 @@
     
     <item>
       <title>2026年03月22日（日）の日記</title>
-      <link>/Diary/2026-03-22_diary.html</link>
-      <guid>/Diary/2026-03-22_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-22_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-22_diary.html</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0900</pubDate>
       <description>休日。博物館へ行く。</description>
       <content:encoded><![CDATA[<p>休日。博物館へ行く。</p>
@@ -740,8 +740,8 @@
     
     <item>
       <title>2026年03月21日（土）の日記</title>
-      <link>/Diary/2026-03-21_diary.html</link>
-      <guid>/Diary/2026-03-21_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-21_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-21_diary.html</guid>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0900</pubDate>
       <description>『僕には鳥の言葉がわかる』を読了。『魚にも自分がわかる』とか、『ダーウィン事変』にダイレクトにつながる話だと思う。 動物たちを自分の世界観の中のどこに位置付けるのか？かなりバリエーションがあるのではないだろうか。 自分の研究心というのが刺激される中で、ふと日記の研究を論文にしてみたいというようなことを思いつく</description>
       <content:encoded><![CDATA[<p>『僕には鳥の言葉がわかる』を読了。『魚にも自分がわかる』とか、『ダーウィン事変』にダイレクトにつながる話だと思う。</p>
@@ -754,8 +754,8 @@
     
     <item>
       <title>2026年03月20日（金）の日記</title>
-      <link>/Diary/2026-03-20_diary.html</link>
-      <guid>/Diary/2026-03-20_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-20_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-20_diary.html</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0900</pubDate>
       <description>朝から食洗器が壊れて、少し落ち込むが、皿をどう洗って、どの場所で乾かすかという見通しが立ってくると、気持ちが落ち着いた。 見通しさえ立てられれば気持ちは落ち着きやすいのかもしれない サイトの名前を少し変更。 とりあえずでつけていた「自分のサイト」という適当すぎるタイトルから「未明郵便局」を経て、「夜ふかし郵便局」となった。 自分が気に入ったのでとりあえず良しとする。 この見通しを立たせるということも、なんだろう、正解・納得・ベストを求める傾向とつながっているような気もする。 正解を求めたほうがいい領域と、求めない方がいい領域があるのではないだろうか。 それはいつかの日記で書いた『勉強の哲学』の中の、無理に納得せずに構造を把握して勉強を進めるということともなにか繋がりを感じる。 2026年03月19日（木）の日記 ▼</description>
       <content:encoded><![CDATA[<p>朝から食洗器が壊れて、少し落ち込むが、皿をどう洗って、どの場所で乾かすかという見通しが立ってくると、気持ちが落ち着いた。
@@ -775,8 +775,8 @@
     
     <item>
       <title>2026年03月19日（木）の日記</title>
-      <link>/Diary/2026-03-19_diary.html</link>
-      <guid>/Diary/2026-03-19_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-19_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-19_diary.html</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0900</pubDate>
       <description>この日記はハイパーパーソナルなブログ記事であり、ハイパーオープンな日記でもあるなぁと思う。 日記としてはネットにさらしているので、オープンなわけだけど、ブログ記事として考えると単に日々の思考の切れ端を流しているともいえる。 そもそもブログが役に立つ記事を書かなければいけないわけではないので、パーソナルなブログ記事として日記を書いてもいいのではないかと思う。 昨日読み返したメモの中に以下のようなことが書いてあった。 「先ほど、入門書のところで少し説明しましたが、読書において大事なのは、自分の実感に引きつけて理解しようとしないことです。あるいは、 　難しい本を読むのが難しいのは、無理に納得しようと思って読むからである。 　僕の感覚で言うと、読書というのは、知らない部屋にパッと入って、物の位置関係を把握するようなイメージです。そのときに、なぜそこにそれが置いてあるのかという意味はすぐには理解できない。そうだとしても、たとえば、奥にコピー機がある、その手前にテーブルがあり、テーブルの上にはマグカップが二つあって、というような把握はできる。この喩えで言いたいのは、納得よりも先に、使われている言葉の種類や、論理的なつながりなどを把握してほしいということです。それは、テクストの骨組み、「構造」を分析することです。」 『勉強の哲学　来たるべきバカのために (文春e-book)』千葉雅也著 https://a.co/3r171hQ 難しい本について無理に納得しようとしない、まずは把握するということ。 ここについても実況メモ式感想法は使えるのかもなと思ったり。実況するとは一種のスケッチともいえる。把握のためにスケッチをする。その一種の手法なのかもしれない。</description>
       <content:encoded><![CDATA[<p>この日記はハイパーパーソナルなブログ記事であり、ハイパーオープンな日記でもあるなぁと思う。</p>
@@ -796,8 +796,8 @@
     
     <item>
       <title>2026年03月18日（水）の日記</title>
-      <link>/Diary/2026-03-18_diary.html</link>
-      <guid>/Diary/2026-03-18_diary.html</guid>
+      <link>http://localhost:4000/Diary/2026-03-18_diary.html</link>
+      <guid>http://localhost:4000/Diary/2026-03-18_diary.html</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0900</pubDate>
       <description>最近睡眠時間を取れていて、体力が残るようになった。何回か記事にも書いている。 それはとてもよいことで、例えば夕方に前は難しかった本も読める。 でも、これは逆に体力を残すことによって、理性と本能のバランスでいうと、理性側がずっと優位になることを意味しているともいえる。 それは基本的には良いことなんだけど、たぶんずっと続きすぎるのもよくないのかなという気持ちもあって、たまにこう本能側を出すというのも大事だと思っている。 ここで思い出したのが、宮部みゆきの以下の一説。 「真ん中がないんだよ。空っぽか、みっしりか。そうでないと、あんなふうに人を騙すなんてできないような気がする」 言い換えるならそれは、〈自分がない〉か、〈自分しかない〉ということではないか。 『ペテロの葬列』下巻 222p 理性だけというのは、＜自分がない＞というところにも何となく通じるところがある気がするのだ。 ただじゃあ単純に本能的に動けばいいのかというのも、なにか違う気もするので、バランスをどうとるかという話なのだろうと思う。</description>
       <content:encoded><![CDATA[<p>最近睡眠時間を取れていて、体力が残るようになった。何回か記事にも書いている。
