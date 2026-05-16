@@ -8,10 +8,11 @@ title: ホーム
 #### カテゴリ一覧
 - [日記](diary/)
     - [連用日記（毎月版）](diary/by-day/)
+- [思考](thought/)
 - [ログハピ！アーカイブ](loghapi-archive/)
 - [本・マンガ・映画の棚(仮)](shelf/)
 
-#### 最新記事
+#### 更新情報
 
 <ul class="recent-posts">
 {% assign recent_diary = site.pages | where_exp: "p", "p.date" | where: "category", "diary" %}

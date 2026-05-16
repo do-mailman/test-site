@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 『ババヤガの夜』
-date: 2026-04-15
+date: 2026-05-16
 category: shelf
 permalink: /books/babayaga-no-yoru/
 description: 『ババヤガの夜』の基本情報と関連ページをまとめるためのページ。
