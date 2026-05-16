@@ -8,9 +8,9 @@ title: ホーム
 #### カテゴリ一覧
 - [日記](diary/)
     - [連用日記（毎月版）](diary/by-day/)
-- [思考](thought/)
-- [ログハピ！アーカイブ](loghapi-archive/)
+- [考えたこと](thought/)
 - [本・マンガ・映画の棚(仮)](shelf/)
+- [ログハピ！アーカイブ](loghapi-archive/)
 
 #### 更新情報
 
