@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 『NEXUS 情報の人類史』
+date: 2026-04-28
+category: shelf
 permalink: /books/nexus/
 description: 『NEXUS 情報の人類史』の基本情報と関連ページをまとめるためのページ。
 ---

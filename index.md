@@ -14,7 +14,10 @@ title: ホーム
 #### 最新記事
 
 <ul class="recent-posts">
-{% assign recent_pages = site.pages | where_exp: "p", "p.date" | sort: "date" | reverse %}
+{% assign recent_diary = site.pages | where_exp: "p", "p.date" | where: "category", "diary" %}
+{% assign recent_thought = site.pages | where_exp: "p", "p.date" | where: "category", "thought" %}
+{% assign recent_shelf = site.pages | where_exp: "p", "p.date" | where: "category", "shelf" %}
+{% assign recent_pages = recent_diary | concat: recent_thought | concat: recent_shelf | sort: "date" | reverse %}
 {% for p in recent_pages limit: 5 %}
 <li><a href="{{ p.url | relative_url }}">{{ p.title | xml_escape }}</a>{% if p.date %} — {{ p.date | date: "%Y-%m-%d" }}{% endif %}</li>
 {% endfor %}

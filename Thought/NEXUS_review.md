@@ -3,6 +3,7 @@ layout: post
 title: AIというプリズムの向こう側
 subtitle: 『NEXUS 情報の人類史』と『CHANGE』を読みながら考えたこと
 date: 2026-05-01
+category: thought
 permalink: /nexus-change-prism/
 rss: true
 description: 情報のネットワークとしてのNEXUSと、社会的ネットワークをプリズムとして論じる『CHANGE』の重なりについて。

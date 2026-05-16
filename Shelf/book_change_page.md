@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 『CHANGE 変化を起こす7つの戦略』
+date: 2026-05-03
+category: shelf
 permalink: /books/change/
 description: 『CHANGE』の基本情報と関連ページをまとめるためのページ。
 ---
@@ -27,6 +29,7 @@ description: 『CHANGE』の基本情報と関連ページをまとめるため�
 ## 関連記事
 
 - [AIというプリズムの向こう側](/nexus-change-prism/)
+- [連用日記でゆっくり変わっていく](/redundancy-change-diary/)
 
 
 ## 関連日記
