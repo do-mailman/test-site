@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 思考
+title: 考えたこと
 permalink: /thought/
 ---
 
-# 思考
+# 考えたこと
 
 {% assign thought_pages = site.pages | where: "category", "thought" | sort: "date" | reverse %}
 {% for p in thought_pages %}
