@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <generator uri="https://jekyllrb.com/">Jekyll</generator>
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
-  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-  <updated>2026-05-17T08:29:28+09:00</updated>
-  <id>http://localhost:4000/feed.xml</id>
+  <link href="/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="/" rel="alternate" type="text/html"/>
+  <updated>2026-05-17T14:55:21+09:00</updated>
+  <id>/feed.xml</id>
   <title type="text">夜ふかし郵便局(仮)</title>
   <subtitle type="text">思考とか日記とかについて考える</subtitle>
 
@@ -16,8 +16,8 @@
   
   <entry>
     <title type="text">連用日記でゆっくり変わっていく</title>
-    <link href="http://localhost:4000/redundancy-change-diary/" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/redundancy-change-diary/</id>
+    <link href="/redundancy-change-diary/" rel="alternate" type="text/html"/>
+    <id>/redundancy-change-diary/</id>
     <published>2026-05-16T00:00:00+09:00</published>
     <updated>2026-05-16T00:00:00+09:00</updated>
     <summary type="text">『CHANGE』において、イノベーションには独立した多様なクラスタと広い橋を必要としていた。 独立したクラスターは他のクラスターからの影響を受けにくい。多様性を保存する。 しかし、他のクラスターからの影響を全く受けないのであれば、それはタコツボ化に繋がり、イノベーションとは離れていく。 そこで必要なのが他のクラスターとの繋がりだ。 特にクラスターの一部だけではなく、クラスタ全体が他のクラスタと繋がりがある方が望ましい。 一部だけだと他のクラスターからの影響を打ち消してしまうからだ。 多様性を保存し、遅く適応する。だけど閉じこもらない。 『世界はシステムでできている』でもあったように早く適応しすぎることは変化を早くして、安定させない。 『CHANGE』の中では情報の伝播が早すぎると似たようなアイディアばかりになってしまうという事例がある。 これは組織の話だが、個人の話にも応用できるのではないだろうか。 影響の受け方を緩やかにするのだ。 自分の感想を深めるための時間を確保する。 本を読んですぐに感想を検索しない。 時間があれば、何か記事を書いてみる、日記に書いてみる そんな具合に他のクラスタからの影響を遅く受けていく。1 他にも、このサイトで書いた日記を読み返すことも有効そうだ。 この日記では、主に考えや感想などを中心に書いている。 それは12ヶ月連用日記、同じ日付の日記が並ぶようになっている。 連用日記（毎月版・日付別一覧） 1ヶ月経つだけで、自分と日記との距離や内容が変わる。 今の自分の考えが、昔の自分の考えから補強されたり、あるいは中和されたりする。 記事や連用日記を通して、Substackのこちらの記事でも書いたように、細切れの考えを育てる受け皿兼インキュベーターとしてこのサイトを機能させたい。 過去には書籍が受け皿になっていて、それが思考を育ててくれていた。 しかし、いまはその受け皿ができていないので、このサイトを受け皿にできるとよいなと思う。 本当はそこから書籍化できると、より考えが育てていけそうな気がするが、その種としての記事を撒いていくのがよいかもしれない。 あとはどんな影響を受けるかどうか、そこもカギになるのだろう。 このサイトはインキュベーターだが、逆に言えば育てるということは時間をかけるということでもあるのだ。 書籍ページ 『CHANGE』書籍ページ 関連記事 AIというプリズムの向こう側 サイトを使って、書く・考える環境を作っていく（外部リンク：Substack） [日記のすすめ(仮)]日記を読み返す期間の違いで何が変わるの？（ログハピ！アーカイブ） 日記を読み返すならやっぱり連用日記ですね（外部リンク：note） 記事などを書くことは、自分の考えをまとめることでクラスタ化させる効果と同時に、書くことによる自分自身の変化も誘発すると思う ↩</summary>
@@ -75,9 +75,30 @@
   
   
   <entry>
+    <title type="text">2026年05月16日（土）の日記</title>
+    <link href="/Diary/2026-05-16_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-16_diary.html</id>
+    <published>2026-05-16T00:00:00+09:00</published>
+    <updated>2026-05-16T00:00:00+09:00</updated>
+    <summary type="text">すこしこの夜ふかし郵便局のトップページカテゴリを追加したりした。 最近は読んだ本や、観た映画を簡単にまとめるためのページを作っている。もちろん全てのものについて感想を書いたり、記事としてまとめたりというのができればいいのだが、まぁ全ては無理なので。 ひとまず一言感想とか、好きなところを引用するとかするだけでもだいぶ違うと思う。 Roam Researchにもまとめてあるのだが、そこからひとつを選んだり、感想を一言にまとめるというのは、また記事にするのとは違った咀嚼方法だと思う。 少し話は変わって、Roam Researchでの記録フォーマットを少し変えた。 休日は午前と午後と夜といった区切りしかなかったところを、時間を入れてみた。あとは習慣の区切りとなるご飯や風呂なども入れておいた。 Roam Researchにはタスクとかアイディアを中心に記録を残していたが、その他の内容も記録することで休日、特にPCの前にいないときの記録頻度を上げることができるのかなと思っている。 区切りを入れることは、一種項目を増やすことともいえるので、その部分を埋めたいなという欲求が出てくる。 アンケート表の白紙部分は気にならないが、空欄部分は気になるといったイメージだろうか。</summary>
+    <content type="html"><![CDATA[<p>すこしこの夜ふかし郵便局のトップページカテゴリを追加したりした。
+最近は読んだ本や、観た映画を簡単にまとめるためのページを作っている。もちろん全てのものについて感想を書いたり、記事としてまとめたりというのができればいいのだが、まぁ全ては無理なので。</p>
+<p>ひとまず一言感想とか、好きなところを引用するとかするだけでもだいぶ違うと思う。
+Roam Researchにもまとめてあるのだが、そこからひとつを選んだり、感想を一言にまとめるというのは、また記事にするのとは違った咀嚼方法だと思う。</p>
+<p>少し話は変わって、Roam Researchでの記録フォーマットを少し変えた。
+休日は午前と午後と夜といった区切りしかなかったところを、時間を入れてみた。あとは習慣の区切りとなるご飯や風呂なども入れておいた。</p>
+<p>Roam Researchにはタスクとかアイディアを中心に記録を残していたが、その他の内容も記録することで休日、特にPCの前にいないときの記録頻度を上げることができるのかなと思っている。</p>
+<p>区切りを入れることは、一種項目を増やすことともいえるので、その部分を埋めたいなという欲求が出てくる。
+アンケート表の白紙部分は気にならないが、空欄部分は気になるといったイメージだろうか。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
     <title type="text">2026年05月15日（金）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-15_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-15_diary.html</id>
+    <link href="/Diary/2026-05-15_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-15_diary.html</id>
     <published>2026-05-15T00:00:00+09:00</published>
     <updated>2026-05-15T00:00:00+09:00</updated>
     <summary type="text">GW明け、一週間終わり。今週もがんばってしまった。 疲れているときに『スーパーの裏でヤニ吸うふたり』が癒しになったりする。 自分の体調によって、面白く感じ方とかが変わるので、再読とか積読も悪くないんじゃないかと思う。 あとはRoam Researchで細かく時間を入れてたりしたが、もうすこし大雑把に時間の区切りさえ入れておけばいいというか、その方が見やすいかもと思うようになる。 もしくは区切りになるようなイベント（ご飯とか、お風呂など）を入れる方が今の運用に合っていそうだ。</summary>
@@ -93,8 +114,8 @@
   
   <entry>
     <title type="text">2026年05月14日（木）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-14_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-14_diary.html</id>
+    <link href="/Diary/2026-05-14_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-14_diary.html</id>
     <published>2026-05-14T00:00:00+09:00</published>
     <updated>2026-05-14T00:00:00+09:00</updated>
     <summary type="text">Audibleで聞きだした『殺し屋の営業術』は、読むよりもAudibleで聞いた方がおもしろいかもしれない。</summary>
@@ -106,8 +127,8 @@
   
   <entry>
     <title type="text">2026年05月13日（水）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-13_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-13_diary.html</id>
+    <link href="/Diary/2026-05-13_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-13_diary.html</id>
     <published>2026-05-13T00:00:00+09:00</published>
     <updated>2026-05-13T00:00:00+09:00</updated>
     <summary type="text">最近少し仕事が忙しくて、昨日の振り返りが昼休みになってしまっている。 最近はエスカレーターでは立ち止まりましょうという呼びかけがされているし、実際エスカレーターの近くでも音声で流されていたりするけど、結局はいままでのままというのも『CHANGE』の中で書いてあったことを考えると、なかなか変わりにくいだろうなと思う。</summary>
@@ -120,8 +141,8 @@
   
   <entry>
     <title type="text">2026年05月12日（火）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-12_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-12_diary.html</id>
+    <link href="/Diary/2026-05-12_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-12_diary.html</id>
     <published>2026-05-12T00:00:00+09:00</published>
     <updated>2026-05-12T00:00:00+09:00</updated>
     <summary type="text">ずっと積読していた京極夏彦の『絡新婦の理』を読み始める。前4作は読了済み。 復習が必要になったら漫画版でも読もう。さすがにもう一度あの量を読むのはちょっと大変。 最近DayOneにもAIチャットで今日の内容をチャットで話すと、日記にしてくれる機能が追加された。 試してみたけど、確かに普通に書くよりは楽な気がする。 質問が呼び水になるし、チャットの短文で返信していくだけなのが良い。 ただ質問が繰り返されると負担になってくるので、ちょうどいいぐらいで中断して日記作成に進むのがよさそう。</summary>
@@ -138,8 +159,8 @@
   
   <entry>
     <title type="text">2026年05月11日（月）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-11_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-11_diary.html</id>
+    <link href="/Diary/2026-05-11_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-11_diary.html</id>
     <published>2026-05-11T00:00:00+09:00</published>
     <updated>2026-05-11T00:00:00+09:00</updated>
     <summary type="text">GW気分が明けて、本格的な仕事が始まった中でしっかり仕事できたのでヨシ！ 『ババヤガの夜』はテンポよく進む、いい感じのバイオレンス小説だった。バイオレンスで、内容はとても暴力的で血とかすごいんだけど、スカッとというか、カラッと表現されている気がする。 実際に起きていることはとてもバイオレンスなのだけどね。表現で湿度が下がっている。</summary>
@@ -153,8 +174,8 @@
   
   <entry>
     <title type="text">2026年05月10日（日）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-10_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-10_diary.html</id>
+    <link href="/Diary/2026-05-10_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-10_diary.html</id>
     <published>2026-05-10T00:00:00+09:00</published>
     <updated>2026-05-10T00:00:00+09:00</updated>
     <summary type="text">本を読んでいたら、やってこなかったことに目を向けると、今できることが貴重に思えるという内容が出てきた。 たとえば行っていない旅行先のリストを見た人と見ていない人では見た人の方が、同じ名所でもその場所を楽しめるといった具合だ。 最近読み終わった『イン・ザ・メガチャーチ』には40代後半ぐらいになると、やってきたことより、やってこなかったことが還ってくるといった意味合いのセリフがあった。 やったことがあるというのは、選択したということなので、やってこなかったことがあるというのは一種当たり前ではある。 この話の中では仕事を重視しすぎて、家族を顧みなかったことが還ってきているという認識になっているが、その分仕事をやっていたことについては還ってきているのだろう。 ただ、話の中では今仕事の方もあまりうまくいっていないというのが問題なだけで、仕事がうまくいっていたら、やってきたことが還ってきているともいえるのではないか。 多分、ここで強調されるのは人生の残り時間が減ってくるとやってこなかったことの方にフォーカスしてしまうということなのかもしれない。 仕事がたとえうまくいっていたとしても、もし家族の方に時間を使っていたらというifが頭をめぐるのかもしれない。</summary>
@@ -173,8 +194,8 @@
   
   <entry>
     <title type="text">2026年05月09日（土）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-09_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-09_diary.html</id>
+    <link href="/Diary/2026-05-09_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-09_diary.html</id>
     <published>2026-05-09T00:00:00+09:00</published>
     <updated>2026-05-09T00:00:00+09:00</updated>
     <summary type="text">このサイトのトップページにカテゴリなどを追加した。 書籍や映画のページは週次Reviewのときにひな形を作ってもらって下書きのところに入れておくようにしよう。 このページの一覧は他のカテゴリとは少し変えたいな。カードタイプのようなイメージ。 今日は料理担当なので久しぶりにココナッツカレーを作った。 作りすぎてフライパンからあふれそう。 積読していた『ババヤガの夜』を読み始める。テンポがいい感じ。</summary>
@@ -191,8 +212,8 @@
   
   <entry>
     <title type="text">2026年05月08日（金）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-08_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-08_diary.html</id>
+    <link href="/Diary/2026-05-08_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-08_diary.html</id>
     <published>2026-05-08T00:00:00+09:00</published>
     <updated>2026-05-08T00:00:00+09:00</updated>
     <summary type="text">『イン・ザ・メガチャーチ』を読み終えた。 体調悪い時に逆に熱中するのは、他のことを考える余裕が無くなるからだろうか。 実際これは『イン・ザ・メガチャーチ』に出てくる推し活に関しても言えることで、本書の中では「自分を使い切ったもん勝ち」といったような表現がされているが、他のことを考える余裕もなく、物語の中に没入することは、自分の中の惨めさや外からの批判に対しても絶対の抵抗力となりうる。 『暇と退屈の倫理学』にもあったように、それは決断の奴隷になるということでもあるのだろう。 自分を使い切るということが問題で、結局はバランスの問題だとは思う。 仕事に没頭して、私生活を疎かにするというのも、自分を仕事に使い切っていると言えるだろう。 だからまぁ考える余裕を持ちたいが、その余裕が惨めさや不安にも目が向くきっかけにもなるわけで。 そこら辺はうまく棚上げできるといいのだろうなというのが、前に書いた『「棚上げ」学習法』でも少し触れたところではある。</summary>
@@ -211,8 +232,8 @@
   
   <entry>
     <title type="text">2026年05月07日（木）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-07_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-07_diary.html</id>
+    <link href="/Diary/2026-05-07_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-07_diary.html</id>
     <published>2026-05-07T00:00:00+09:00</published>
     <updated>2026-05-07T00:00:00+09:00</updated>
     <summary type="text">寒暖差で少し風邪を引いてしまったかもしれない。 ひとまず葛根湯を飲んでおく。 ただ意外と風邪だけど体力はある時には小説を読むのが捗ったりする。でも捗るのが体にいいかっていうとどうなのかな。</summary>
@@ -226,8 +247,8 @@
   
   <entry>
     <title type="text">2026年05月06日（水）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-06_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-06_diary.html</id>
+    <link href="/Diary/2026-05-06_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-06_diary.html</id>
     <published>2026-05-06T00:00:00+09:00</published>
     <updated>2026-05-06T00:00:00+09:00</updated>
     <summary type="text">公園でバンの子育てを見た。この前見た時よりも少し子供が成長している。 このサイトに載せている日記のページに前の日と次の日へとべるリンクを追加。 CursorにnoteやSubstackからエクスポートした原稿を追加。 朝井リョウの『イン・ザ・メガチャーチ』を読む。</summary>
@@ -242,8 +263,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年05月05日（火）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-05_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-05_diary.html</id>
+    <link href="/Diary/2026-05-05_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-05_diary.html</id>
     <published>2026-05-05T00:00:00+09:00</published>
     <updated>2026-05-05T00:00:00+09:00</updated>
     <summary type="text">今日は陽射しがすごい。 陽射しと日差しの差は何だろう。昨日のあのギラギラした感じだと射すと入っている陽射しの方がピンとくるような気もする。 後で辞書で調べてみよう。 去年買ったタオルマフラーを首につけると少し楽になった。 首にマフラーがあることより、陽射しを直接受ける方がつらいということだろう。 この時期の必需品になるかもしれない。</summary>
@@ -260,8 +281,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年05月04日（月）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-04_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-04_diary.html</id>
+    <link href="/Diary/2026-05-04_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-04_diary.html</id>
     <published>2026-05-04T00:00:00+09:00</published>
     <updated>2026-05-04T00:00:00+09:00</updated>
     <summary type="text">風がとても強い一日だった。 映画「ワン・バトル・アフター・アナザー」を観た。 最初はちょっとついていけなくなりそうだったが、途中からは引き込まれて一気に見ることができた。 服を買いに出かけた。 最近は登山系というかアウトドア系のブランドの店を多く見かける。 増えてきているのか、興味が出てきたから気づくようになったのか。</summary>
@@ -278,8 +299,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年05月03日（日）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-03_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-03_diary.html</id>
+    <link href="/Diary/2026-05-03_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-03_diary.html</id>
     <published>2026-05-03T00:00:00+09:00</published>
     <updated>2026-05-03T00:00:00+09:00</updated>
     <summary type="text">井田千秋さんの『おさまる家』を読む。 家の中を片付けるというか、自分好みにしたいと思える。 とりあえず少し雑然としていた部屋の一部を片付けて、ずっと設置しようと思っていた飾り棚をつけた。 なんというか、こういうのも贅沢なのかなと思う。 『暇と退屈の倫理学』を読んでから、贅沢という言葉へのイメージが変わった。 清貧という言葉があるように、どこか贅沢はあまり良くないものといったイメージがどこかにあったように思う。 もちろん無駄にお金を使うとかは良くないと思うし、どちらかというと、贅沢の必要条件と思われる余裕がより大事に思えるようになってきたのだと思う。 そう考えると、スマホをいじるのはあまり贅沢ではない感じがするが、なぜだろう。</summary>
@@ -298,8 +319,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年05月02日（土）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-02_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-02_diary.html</id>
+    <link href="/Diary/2026-05-02_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-02_diary.html</id>
     <published>2026-05-02T00:00:00+09:00</published>
     <updated>2026-05-02T00:00:00+09:00</updated>
     <summary type="text">バードウォッチングをしに行った。 映画『入国審査』をU-NEXTで観た。 サスペンスという先入観があったけど、どちらかというと、体験型といえる感じだった。 主人公夫婦は、アメリカに移住をしようとするも、入国審査で別室に連れて行かれてしまう。 そこからどうなるのか？ みたいなストーリーである。少し感想は別のページでまとめたいな。</summary>
@@ -316,8 +337,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">AIというプリズムの向こう側</title>
-    <link href="http://localhost:4000/nexus-change-prism/" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/nexus-change-prism/</id>
+    <link href="/nexus-change-prism/" rel="alternate" type="text/html"/>
+    <id>/nexus-change-prism/</id>
     <published>2026-05-01T00:00:00+09:00</published>
     <updated>2026-05-01T00:00:00+09:00</updated>
     <summary type="text">『NEXUS 情報の人類史』にある「NEXUS」とは何か？ 辞書を引いてみると以下のような定義である a complicated series of connections between different things 何か違うものの間の複雑なつながり。その繋がりを作るのが情報であるとしている。1 本書内では第1部では人間のネットワークが情報によってどう変わっていったか。第2部以降ではそこにアルゴリズム、AIといったネットワークへの新たな参加者が加わることでどう変わりうるのかといったことが語られていく。 詳しくはぜひ本書を読んでほしい。 『CHANGE』との重なり ここで語りたいのは今読んでいる『CHANGE』とのつながりだ2 並行して読んでいた『CHANGE』は社会的ネットワークや行動変容についての話である。 『CHANGE』（デイモン・セントラ著、副題「新しいアイデアやイノベーションはこうして広まる」）は、新しい考えや行動が、だれか一人の知名度や「バズ」だけでは広がらないことを実証研究を踏まえて論じる本だ。 この中で「社会的ネットワークとはプリズムである」3と出てくる。 最初はプリズムという単語に馴染みがなくて、ピンとこなかったが、いうなれば社会的ネットワークとは情報をただただ運んでくるパイプではなく、その情報自体の見方を決める役割を持っているということだ。 少し考えてみると、会社で何か問題が起こったときに、所属部署の常識が「それを問題とするか」という判断に影響を与えることは間違いない。 常識に従うことも、逆らうこともできたとしても、そこに常識という判断基準がすでに紛れ込んでいる。 同じ出来事でも、自分がどのネットワークを通して見ているかで、出来事に対する意味づけが変わるのだ。 ここで、ネットワークに参加する新しい主体（アルゴリズム・AI）についての影響力は甚大だろうと分かる。 これからAIは人間の相談相手として、ネットワークの参加者として大きな役割を果たしていくだろう。 そのときAIというプリズムがどのような光景を私たちに見せるのか。その影響は計り知れないのではないだろうか。 書籍ページ 『NEXUS 情報の人類史』書籍ページ 『CHANGE』書籍ページ 関連記事 自分の選択にはたくさんの情報が含まれている（外部リンク：Substack） 本書内では言及されてはいないと思うが、その情報自体もなにかとなにかの繋がりではないかと思う。入れ子構造的になっているのではないか。 ↩ このページで『CHANGE』と結び付けて書いていること自体も、本書が言うところの「情報がつながりを生む」一例だと思う。メモ同士、読書同士のNEXUSである。 ↩ プリズムとは、光を屈折させて成分ごとに分ける光学の道具のたとえ。ここでは、社会的ネットワークが情報を運ぶだけの「パイプ」ではなく、通したあとに何が強調され、何がすり抜けるかを形作る装置という意味で使われていると考えられる。 ↩</summary>
@@ -371,8 +392,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年05月01日（金）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-05-01_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-05-01_diary.html</id>
+    <link href="/Diary/2026-05-01_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-01_diary.html</id>
     <published>2026-05-01T00:00:00+09:00</published>
     <updated>2026-05-01T00:00:00+09:00</updated>
     <summary type="text">サイトに記事を追加。 書籍についての記事だけでなく、書籍のページを作って、書籍などから考えたことの記事をリンクで書籍のページにまとめておくと良さそう。 他にもRSSでタイトルだけでなく本文も見られるように修正した。 押入れも整理。 乱雑だった工具たちを工具箱を買って整理。スッキリした。 関連リンク AIというプリズムの向こう側 『CHANGE 変化を起こす7つの戦略』（書籍ページ） 『NEXUS 情報の人類史』（書籍ページ） RSS（全文）</summary>
@@ -395,8 +416,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月30日（木）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-30_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-30_diary.html</id>
+    <link href="/Diary/2026-04-30_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-30_diary.html</id>
     <published>2026-04-30T00:00:00+09:00</published>
     <updated>2026-04-30T00:00:00+09:00</updated>
     <summary type="text">『中動態の世界』を読む。 文法のところがなかなか難しい。馴染みがないというか、足りないというか。 『「学び」がわからなくなったときに読む本』も読む。 晩餐のような勉強、時間がかかることを贅沢と考えるかどうか。 『暇と退屈の倫理学』にもつながりそうだ。贅沢を受け取る余裕というものが、足りないのではないか。 そもそも余裕は状況的にないこともあるだろうが、ないことはないはず。 日々ライオンに追われているわけではないのだ。 選択肢の多さは余裕を生み出すと思っているが、逆に余裕を削ることもあるのかもしれない。 それは自分自身が選択したという責任を背負う余裕を持てるかどうかなのだろうか。 贅沢には選択を受け取る器量が必要なのかも。</summary>
@@ -417,8 +438,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月29日（水）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-29_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-29_diary.html</id>
+    <link href="/Diary/2026-04-29_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-29_diary.html</id>
     <published>2026-04-29T00:00:00+09:00</published>
     <updated>2026-04-29T00:00:00+09:00</updated>
     <summary type="text">ツバメが巣の回りを忙しく飛び回っている。 『中動態の世界』を読み進める。文法のところはなじみがなさ過ぎて理解というより、位置を把握するというか、こういうのもあるのかぐらいの感覚で読み進める。 図書館で『新版 「幸せをお金で買う」５つの授業』を読んでいると、最近は当たり前の言説となってきている「物よりも経験を買う方が幸福度が高い」という内容が眼に入ってくる。 経験はそもそも自分に直接かかわることなわけなので、物よりは人生に対する近接度は高いと思う。 ただ、モノだって何かを体験するためとか、それがあってこそできることとかもあるから、それも含めたらモノを買うことによる幸せだって当然あると思う - ソファーで家族で座れるようになった - 双眼鏡でバードウォッチング などなど。『新版 「幸せをお金で買う」５つの授業』中にもあったように、実際にモノに使ったのか、経験に使ったのかは簡単に分けられるものでもないと思う。 あと考えたいのは『暇と退屈の倫理学』に出てくる「浪費」はそこにどうかかわってくるだろうか。 「浪費」において「モノをモノとして受け取る」というのに、経験にはどう当てはまるのかなといったことを少し考える。 このサイトにも少しずつ慣れてきたので、内容のバリエーションを増やしていきたいな。</summary>
@@ -442,8 +463,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月28日（火）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-28_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-28_diary.html</id>
+    <link href="/Diary/2026-04-28_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-28_diary.html</id>
     <published>2026-04-28T00:00:00+09:00</published>
     <updated>2026-04-28T00:00:00+09:00</updated>
     <summary type="text">GW前最終日。 簡単な打ち合わせでも議事メモを書いておくのは大事。 特に連休後の自分への申し送りは大事になる。 実況メモ式感想法は、絵を描く練習のなかのスケッチに似ているのかもしれない。自分が見たものを再出力して、確認できる。</summary>
@@ -458,8 +479,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月27日（月）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-27_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-27_diary.html</id>
+    <link href="/Diary/2026-04-27_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-27_diary.html</id>
     <published>2026-04-27T00:00:00+09:00</published>
     <updated>2026-04-27T00:00:00+09:00</updated>
     <summary type="text">職場の近くできれいに鳴いている鳥はイソヒヨドリみたいだと分かる。 ずっときれい鳴き声だけ聞いて何かわからなかったので、仕事中にそわそわしてしまった。 『暇と退屈の倫理学』の再読が終わって、『生産性が高い人の8つの原則』を読んでいる。 心理的安全性など、個人だけでなく、組織としての生産性も視野に入れているのは良いと思う。</summary>
@@ -474,8 +495,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月26日（日）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-26_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-26_diary.html</id>
+    <link href="/Diary/2026-04-26_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-26_diary.html</id>
     <published>2026-04-26T00:00:00+09:00</published>
     <updated>2026-04-26T00:00:00+09:00</updated>
     <summary type="text">バードウォッチングをしにいったが、初の新緑の時期で見つけるのにとても苦戦した。 修業が必要。</summary>
@@ -488,8 +509,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月25日（土）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-25_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-25_diary.html</id>
+    <link href="/Diary/2026-04-25_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-25_diary.html</id>
     <published>2026-04-25T00:00:00+09:00</published>
     <updated>2026-04-25T00:00:00+09:00</updated>
     <summary type="text">こちらの「夜ふかし郵便局(仮)」に過去書いてたブログ「ログハピ！」を持ってきてみた。 サイトのURLも独自ドメインに変更する。</summary>
@@ -502,8 +523,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月24日（金）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-24_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-24_diary.html</id>
+    <link href="/Diary/2026-04-24_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-24_diary.html</id>
     <published>2026-04-24T00:00:00+09:00</published>
     <updated>2026-04-24T00:00:00+09:00</updated>
     <summary type="text">『暇と退屈の倫理学』が再読し終わったので、次は『生産性が高い人の8つの原則』を読もうと思う。</summary>
@@ -515,8 +536,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月23日（木）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-23_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-23_diary.html</id>
+    <link href="/Diary/2026-04-23_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-23_diary.html</id>
     <published>2026-04-23T00:00:00+09:00</published>
     <updated>2026-04-23T00:00:00+09:00</updated>
     <summary type="text">仕事で久しぶりに力仕事をしたので疲れた。 ただデスクワークにはない充実感があるのも事実。</summary>
@@ -529,8 +550,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月22日（水）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-22_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-22_diary.html</id>
+    <link href="/Diary/2026-04-22_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-22_diary.html</id>
     <published>2026-04-22T00:00:00+09:00</published>
     <updated>2026-04-22T00:00:00+09:00</updated>
     <summary type="text">NBAのプレイオフが熱い</summary>
@@ -542,8 +563,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月21日（火）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-21_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-21_diary.html</id>
+    <link href="/Diary/2026-04-21_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-21_diary.html</id>
     <published>2026-04-21T00:00:00+09:00</published>
     <updated>2026-04-21T00:00:00+09:00</updated>
     <summary type="text">『CHANGE』を読み終わった。これはまとめておきたい、と言いつつ『NEXUS』もまだまとめられていないので、どうなるか。</summary>
@@ -555,8 +576,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月20日（月）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-20_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-20_diary.html</id>
+    <link href="/Diary/2026-04-20_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-20_diary.html</id>
     <published>2026-04-20T00:00:00+09:00</published>
     <updated>2026-04-20T00:00:00+09:00</updated>
     <summary type="text">以下の記事を読んだ。 ソフトウェアや知能が安くなったときに起きること - 🐴 (馬) 光源が安価で普及することと、知能に関することがそのまま当てはまるかどうかは置いておいて、自分もブックマークレットを作ってみたりとかはできている。そういうすそ野は広がるだろうな。 以下上記記事から引用 このアナロジーをそのままソフトウェアに当てはめることはできませんが、それでもおそらく似たような構造的な変化は起こっていくでしょう。価格が下がると、人は同じものを安く使うだけでなく、これまでコスト的に見合わなかった場所で使い始める、ということです。 だから問うべきなのは、AIで何を自動化できるかではなく、安いソフトウェアや知能によって、どの問題が新たにソフトウェアで解決可能になり、そのとき何が起きて、何が新しい希少性になるのか、です。 短期的には、AIそのものや、AIを活用したソフトウェアの需要は高まるでしょう。しかしその先を見たとき、おそらくそれら以上に、もっと他の場所から価値が生まれてくるのではないかと思います。</summary>
@@ -578,8 +599,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月19日（日）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-19_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-19_diary.html</id>
+    <link href="/Diary/2026-04-19_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-19_diary.html</id>
     <published>2026-04-19T00:00:00+09:00</published>
     <updated>2026-04-19T00:00:00+09:00</updated>
     <summary type="text">ニュースレターをアップ。 英語で作業記録をつけると、一石二鳥になる 独学同好会通信 サイトとニュースレターとかnoteとか、アウトプット量が多くない中で、どうその先を振り分けていくのか。 とりあえず書く量をもう少し増やしたいところだ。</summary>
@@ -594,8 +615,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月18日（土）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-18_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-18_diary.html</id>
+    <link href="/Diary/2026-04-18_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-18_diary.html</id>
     <published>2026-04-18T00:00:00+09:00</published>
     <updated>2026-04-18T00:00:00+09:00</updated>
     <summary type="text">『暇と退屈の倫理学』と『CHANGE』を読み進める。あともう少しで両方とも読み終わりそうだ。 出かけた時に長時間おなかに何もいれないと、頭がぼんやりするということが何となくわかってきたので、出かけるときのうまい栄養補給方法を考えたい。できれば歯に悪影響がないものが良い。 いい天気だったので、散歩をした。</summary>
@@ -609,8 +630,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月17日（金）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-17_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-17_diary.html</id>
+    <link href="/Diary/2026-04-17_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-17_diary.html</id>
     <published>2026-04-17T00:00:00+09:00</published>
     <updated>2026-04-17T00:00:00+09:00</updated>
     <summary type="text">初めてブックマークレットを作ってもらった。一度作って、ブックマークレットによる改良が選択肢に入ってくると、色々思いつく。 このブックマークレットについては別のページで書いておく。 サイト上にCraftみたいなカテゴリをつくってもいいかもしれない</summary>
@@ -624,8 +645,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月16日（木）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-16_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-16_diary.html</id>
+    <link href="/Diary/2026-04-16_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-16_diary.html</id>
     <published>2026-04-16T00:00:00+09:00</published>
     <updated>2026-04-16T00:00:00+09:00</updated>
     <summary type="text">『暇と退屈の倫理学』の最終章に来た。明日には読み終わるだろう。 『マネジメントは嫌いですけど』を読む。組織として学習などに配分できなければマネジメントとしての失敗というのは確かにそうだと思う。</summary>
@@ -638,8 +659,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月15日（水）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-15_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-15_diary.html</id>
+    <link href="/Diary/2026-04-15_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-15_diary.html</id>
     <published>2026-04-15T00:00:00+09:00</published>
     <updated>2026-04-15T00:00:00+09:00</updated>
     <summary type="text">今日はいつもポイントとしているルーティンが業務の都合上できずに、いつもより満足感が低い気がする。 『暇と退屈の倫理学』において、習慣とはダイナミックなものであるとあったが、いつものルーティンと外れることは変化を促すので、ひとまず良いことなのだと考えよう。</summary>
@@ -652,8 +673,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月14日（火）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-14_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-14_diary.html</id>
+    <link href="/Diary/2026-04-14_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-14_diary.html</id>
     <published>2026-04-14T00:00:00+09:00</published>
     <updated>2026-04-14T00:00:00+09:00</updated>
     <summary type="text"></summary>
@@ -664,8 +685,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月13日（月）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-13_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-13_diary.html</id>
+    <link href="/Diary/2026-04-13_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-13_diary.html</id>
     <published>2026-04-13T00:00:00+09:00</published>
     <updated>2026-04-13T00:00:00+09:00</updated>
     <summary type="text">スギよりもヒノキ花粉の方が自分にはきついかもしれない。</summary>
@@ -677,8 +698,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月12日（日）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-12_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-12_diary.html</id>
+    <link href="/Diary/2026-04-12_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-12_diary.html</id>
     <published>2026-04-12T00:00:00+09:00</published>
     <updated>2026-04-12T00:00:00+09:00</updated>
     <summary type="text">『CHANGE』を読む。 組織内での多様性を保つクラスタとクラスタ間をつなぐ広い橋が必要。クラスタ間の伝播は抑制されつつ、遅く伝わってくる。これがイノベーションへとつながる？ これは個人についても似たようなことが言えるのかもしれない。 多様性を保つとは、仕事と家庭とそれ以外の領域を持つことともいえるかもしれないし、他の領域での考え方を他の領域に持ってくるのを遅らせる必要がある。 他の領域での正解を、安易に適用しないともいえるかもしれない</summary>
@@ -694,8 +715,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月11日（土）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-11_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-11_diary.html</id>
+    <link href="/Diary/2026-04-11_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-11_diary.html</id>
     <published>2026-04-11T00:00:00+09:00</published>
     <updated>2026-04-11T00:00:00+09:00</updated>
     <summary type="text">いきなり最高気温27℃はやめてほしい。27℃で花粉飛んでいるのはつらい。 今日は料理担当日なのでハンバーグを作った。料理はあまり得意ではないが、何回も作っているとさすがに手順は覚えてくる。 Microsoft PowerToysでAIの画面を常に最前面に配置して、記録をとるのを忘れないようにしてみた。</summary>
@@ -710,8 +731,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月10日（金）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-10_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-10_diary.html</id>
+    <link href="/Diary/2026-04-10_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-10_diary.html</id>
     <published>2026-04-10T00:00:00+09:00</published>
     <updated>2026-04-10T00:00:00+09:00</updated>
     <summary type="text">Copilotで作業ログをとっているので、作業ログをとっている画面を常に最前面に出せないか調べてみる。 Microsoft PowerToysでできそうなので、試してみよう。</summary>
@@ -724,8 +745,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月09日（木）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-09_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-09_diary.html</id>
+    <link href="/Diary/2026-04-09_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-09_diary.html</id>
     <published>2026-04-09T00:00:00+09:00</published>
     <updated>2026-04-09T00:00:00+09:00</updated>
     <summary type="text">Copilotに作業記録と同時に英語での表現を教えてもらったりするのはなかなかいい感じ。 業務終了の宣言と同時に英語の改善点をAnkiに追加できるよう形式でアウトプットしてもらえるようにもした。</summary>
@@ -738,8 +759,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月08日（水）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-08_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-08_diary.html</id>
+    <link href="/Diary/2026-04-08_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-08_diary.html</id>
     <published>2026-04-08T00:00:00+09:00</published>
     <updated>2026-04-08T00:00:00+09:00</updated>
     <summary type="text">『暇と退屈の倫理学』の再読を進める。ユクスキュルの環世界が出て来た。</summary>
@@ -751,8 +772,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月07日（火）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-07_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-07_diary.html</id>
+    <link href="/Diary/2026-04-07_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-07_diary.html</id>
     <published>2026-04-07T00:00:00+09:00</published>
     <updated>2026-04-07T00:00:00+09:00</updated>
     <summary type="text">役職が少し上に上がると、実務が減って達成感というのが減る気がする。 短期的に達成するようなことが減ってくるのだと思う。 ということは、意識的に1週間のテーマという短期のテーマを設定するのはありかもしれない。</summary>
@@ -766,8 +787,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月06日（月）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-06_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-06_diary.html</id>
+    <link href="/Diary/2026-04-06_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-06_diary.html</id>
     <published>2026-04-06T00:00:00+09:00</published>
     <updated>2026-04-06T00:00:00+09:00</updated>
     <summary type="text">土日の旅行で今日は体が重い。この日の日記は自分のものには書いたので、このサイト上ではひとまず省こうと思う。 マイペースに仕事ができれば良しとする。</summary>
@@ -780,8 +801,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月05日（日）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-05_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-05_diary.html</id>
+    <link href="/Diary/2026-04-05_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-05_diary.html</id>
     <published>2026-04-05T00:00:00+09:00</published>
     <updated>2026-04-05T00:00:00+09:00</updated>
     <summary type="text">（追記予定）</summary>
@@ -793,8 +814,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月04日（土）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-04_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-04_diary.html</id>
+    <link href="/Diary/2026-04-04_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-04_diary.html</id>
     <published>2026-04-04T00:00:00+09:00</published>
     <updated>2026-04-04T00:00:00+09:00</updated>
     <summary type="text">（追記予定）</summary>
@@ -806,8 +827,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月03日（金）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-03_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-03_diary.html</id>
+    <link href="/Diary/2026-04-03_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-03_diary.html</id>
     <published>2026-04-03T00:00:00+09:00</published>
     <updated>2026-04-03T00:00:00+09:00</updated>
     <summary type="text">（追記予定）</summary>
@@ -819,8 +840,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月02日（木）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-02_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-02_diary.html</id>
+    <link href="/Diary/2026-04-02_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-02_diary.html</id>
     <published>2026-04-02T00:00:00+09:00</published>
     <updated>2026-04-02T00:00:00+09:00</updated>
     <summary type="text">正解と間違いのマトリクスについて最近少し考えている。 正解とは価値基準や優先度、意味の判断とも言い換えられるとすると、意味や価値から人間は逃れることはできないので、自然正解という価値からも逃れられないことになる。 しかし、正解というもの自体は設定しなおせるという視点は重要だと思う。 書いているうちに当たり前のことを書いているような気がしてきたが、再確認することは大事だと思う。 自分の指針の一つに「うれしい」という感情を原動力にしないというものがある。うれしいとは思いがけないことが起きた時に感じるものという前提があると思うからだ。 それはつまり、うれしいというアンコントローラブルな対象を正解の要素として加えないようにするということでもある。 この指針ももちろんグラデーションがあり、変えられるわけだが、そうした相対化が行き過ぎるのも問題だよなぁとは思う。</summary>
@@ -838,8 +859,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年04月01日（水）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-04-01_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-04-01_diary.html</id>
+    <link href="/Diary/2026-04-01_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-04-01_diary.html</id>
     <published>2026-04-01T00:00:00+09:00</published>
     <updated>2026-04-01T00:00:00+09:00</updated>
     <summary type="text">4月になる。年度が変わる。 『バーナード嬢曰く』を読んで紙の本が読みたくなったので、紙でしか読めない『十二国記』を読むことにした。 電子書籍とは違う何かがあるので、本当に読むという体験だけを重視するなら全部紙の本がいいと思う。 ただ私のような小市民にはスペースの問題というのがいつも付きまとうし、気に入った文章などをRoam Researchに移すには電子書籍がいい。 Kindleを使うのが結局はいいバランスになるのかもしれない。</summary>
@@ -855,8 +876,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年03月31日（火）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-03-31_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-03-31_diary.html</id>
+    <link href="/Diary/2026-03-31_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-03-31_diary.html</id>
     <published>2026-03-31T00:00:00+09:00</published>
     <updated>2026-03-31T00:00:00+09:00</updated>
     <summary type="text">『暇と退屈の倫理学』において、「本来性なき疎外」という言葉が出てくる。 疎外されているということを考えるとき、そこには疎外されていない本来の状態や環境があると考えてしまうが、本来というものを考えることなく、疎外というものを考えることもできるということだと理解している。 ここでいう本来という言葉は正解とも言い換えられないかと思っていて、間違いだと感じても、正解がない場合だってあるのではないかということだ。 「間違いなく正解」はあるが、「正解なく間違い」だってあるのではないだろうか。</summary>
@@ -871,8 +892,8 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   <entry>
     <title type="text">2026年03月30日（月）の日記</title>
-    <link href="http://localhost:4000/Diary/2026-03-30_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-03-30_diary.html</id>
+    <link href="/Diary/2026-03-30_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-03-30_diary.html</id>
     <published>2026-03-30T00:00:00+09:00</published>
     <updated>2026-03-30T00:00:00+09:00</updated>
     <summary type="text">久しぶりに映画を観終わることができた。 『世界一キライなあなたへ』 どこかの日記にも書いた通り、映画をしっかり見たいという気持ちがどこかにあるのだが、そこはひとつ妥協というか折り合いというか、観ないより観られた方がましだろうという考え方で映画を小分けでもいいので、スマホでもいいので見るようにした。 小分けで観られる時と、観られないときがあるので、なにかタイミングとか調子とかも関係しているのかもしれない。 この映画はポッドキャストで紹介されていて、それでなかったら見なかっただろうなという映画。 タイトルの通り、ジャンルとしては恋愛映画なのだが、障害を負った人物の話でもあり、 再読している『暇と退屈の倫理学』の中にちょうど出て来た「本来性なき疎外」とかともつながるのかなと思う。 何を本来だと思うのか、そもそも本来というものはあるのか。 観られてよかった映画。</summary>
@@ -885,20 +906,6 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
 再読している『暇と退屈の倫理学』の中にちょうど出て来た「本来性なき疎外」とかともつながるのかなと思う。</p>
 <p>何を本来だと思うのか、そもそも本来というものはあるのか。</p>
 <p>観られてよかった映画。</p>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年03月29日（日)の日記</title>
-    <link href="http://localhost:4000/Diary/2026-03-29_diary.html" rel="alternate" type="text/html"/>
-    <id>http://localhost:4000/Diary/2026-03-29_diary.html</id>
-    <published>2026-03-29T00:00:00+09:00</published>
-    <updated>2026-03-29T00:00:00+09:00</updated>
-    <summary type="text">始めて早朝のバードウォッチングをしてみた。 時間帯が違うだけで、こんなに鳥の活発度が違うのかとびっくりする。</summary>
-    <content type="html"><![CDATA[<p>始めて早朝のバードウォッチングをしてみた。
-時間帯が違うだけで、こんなに鳥の活発度が違うのかとびっくりする。</p>
 ]]></content>
   </entry>
   

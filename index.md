@@ -25,3 +25,23 @@ title: ホーム
 </ul>
 
 [日記の一覧を見る]({{ "/diary/" | relative_url }})
+
+#### Substack の更新
+
+<ul class="recent-posts recent-posts--external">
+{% for item in site.data.recent_substack limit: 5 %}
+<li><a href="{{ item.url }}" rel="noopener noreferrer" target="_blank">{{ item.title | xml_escape }}</a> — {{ item.date }}（外部リンク：Substack）</li>
+{% endfor %}
+</ul>
+
+[独学同好会通信（Substack）](https://diarist.substack.com)
+
+#### note の更新
+
+<ul class="recent-posts recent-posts--external">
+{% for item in site.data.recent_note limit: 5 %}
+<li><a href="{{ item.url }}" rel="noopener noreferrer" target="_blank">{{ item.title | xml_escape }}</a> — {{ item.date }}（外部リンク：note）</li>
+{% endfor %}
+</ul>
+
+[ゆうびんやの note](https://note.com/mailman)
