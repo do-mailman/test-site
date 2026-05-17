@@ -12,6 +12,8 @@ title: ホーム
 - [本・マンガ・映画の棚(仮)](shelf/)
 - [ログハピ！アーカイブ](loghapi-archive/)
 
+<p class="random-article-home"><a href="#" id="random-article-trigger">ランダムに記事を読む</a></p>
+
 #### 更新情報
 
 <ul class="recent-posts">
@@ -23,10 +25,6 @@ title: ホーム
 <li><a href="{{ p.url | relative_url }}">{{ p.title | xml_escape }}</a>{% if p.date %} — {{ p.date | date: "%Y-%m-%d" }}{% endif %}</li>
 {% endfor %}
 </ul>
-
-[日記の一覧を見る]({{ "/diary/" | relative_url }})
-
-<p class="random-article-home"><a href="#" id="random-article-trigger">ランダムに記事を読む</a></p>
 
 #### Substack の更新：[独学同好会通信（Substack）](https://diarist.substack.com)
 
