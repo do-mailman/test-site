@@ -26,6 +26,8 @@ title: ホーム
 
 [日記の一覧を見る]({{ "/diary/" | relative_url }})
 
+<p class="random-article-home"><a href="#" id="random-article-trigger">ランダムに記事を読む</a></p>
+
 #### Substack の更新：[独学同好会通信（Substack）](https://diarist.substack.com)
 
 <ul class="recent-posts recent-posts--external">

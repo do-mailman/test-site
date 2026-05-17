@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+        <p class="random-article-again" id="random-article-again" hidden>
+          <a href="#" id="random-article-again-link">もう一度ランダム</a>
+        </p>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+    {%- include random-article-pool.html -%}
+    <script src="{{ '/assets/random-article.js' | relative_url }}" defer></script>
+
+  </body>
+
+</html>

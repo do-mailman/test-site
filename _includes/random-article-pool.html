@@ -1,0 +1,27 @@
+{% comment %}
+  ランダム遷移の候補: 考えたこと・棚・ログハピ！アーカイブ各記事・連用日記（日付別）
+{% endcomment %}
+<script type="application/json" id="random-article-pool">
+[
+{%- assign random_first = true -%}
+{%- for p in site.pages -%}
+  {%- assign random_ok = false -%}
+  {%- if p.category == "thought" and p.url != "/thought/" -%}
+    {%- assign random_ok = true -%}
+  {%- elsif p.category == "shelf" -%}
+    {%- assign random_ok = true -%}
+  {%- elsif p.path contains "Shelf/" and p.name != "shelf.md" -%}
+    {%- assign random_ok = true -%}
+  {%- elsif p.layout == "diary_by_day" -%}
+    {%- assign random_ok = true -%}
+  {%- elsif p.path contains "loghapi-archive/" and p.path != "loghapi-archive/index.md" -%}
+    {%- assign random_ok = true -%}
+  {%- endif -%}
+  {%- if random_ok and p.url and p.title -%}
+    {%- unless random_first -%},{%- endunless -%}
+    {{ p.url | relative_url | jsonify }}
+    {%- assign random_first = false -%}
+  {%- endif -%}
+{%- endfor -%}
+]
+</script>

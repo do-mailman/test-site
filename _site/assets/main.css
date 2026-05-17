@@ -195,6 +195,10 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
+.random-article-home { margin: 0.75rem 0 1.25rem; }
+
+.random-article-again { margin: 1.5rem 0 0; padding-top: 1rem; border-top: 1px solid #e8e8e8; font-size: 0.95rem; }
+
 .recent-posts { list-style-position: outside; margin: 0.35rem 0 0.75rem 30px; }
 .recent-posts li { margin: 0 0 0.2rem; line-height: 1.35; }
 

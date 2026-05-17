@@ -4,6 +4,17 @@
 
 @import "minima";
 
+.random-article-home {
+  margin: 0.75rem 0 1.25rem;
+}
+
+.random-article-again {
+  margin: 1.5rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid $grey-color-light;
+  font-size: 0.95rem;
+}
+
 .recent-posts {
   list-style-position: outside;
   margin: 0.35rem 0 0.75rem 30px;
