@@ -34,9 +34,12 @@ description: 『CHANGE』の基本情報と関連ページをまとめるため�
 
 ## 関連日記
 
-- [2026年04月21日（火）の日記]({{ "/Diary/2026-04-21_diary.html" | relative_url }})
-- [2026年04月18日（土）の日記]({{ "/Diary/2026-04-18_diary.html" | relative_url }})
-- [2026年04月12日（日）の日記]({{ "/Diary/2026-04-12_diary.html" | relative_url }})
+※当該作品について書かれている `Site/Diary/` の日記のみ。
+
+- [2026年04月21日（火）の日記]({{ "/Diary/2026-04-21_diary.html" | relative_url }})（読了）
+- [2026年04月18日（土）の日記]({{ "/Diary/2026-04-18_diary.html" | relative_url }})（読み進める）
+- [2026年04月12日（日）の日記]({{ "/Diary/2026-04-12_diary.html" | relative_url }})（クラスタ・広い橋）
+- [2026年03月14日（土）の日記]({{ "/Diary/2026-03-14_diary.html" | relative_url }})（プリズム・生成AI）
 
 ## 参考リンク
 
