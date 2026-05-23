@@ -32,8 +32,6 @@ description: 『NEXUS 情報の人類史』の基本情報と関連ページを�
 
 ## 関連日記
 
-※当該作品について書かれている `Site/Diary/` の日記のみ。
-
 - [2026年04月21日（火）の日記]({{ "/Diary/2026-04-21_diary.html" | relative_url }})（まとめたい・NEXUS 未整理）
 - [2026年03月14日（土）の日記]({{ "/Diary/2026-03-14_diary.html" | relative_url }})（信頼できるか、という問い）
 
