@@ -1,0 +1,41 @@
+---
+layout: null
+permalink: /search.json
+---
+[
+{%- assign search_first = true -%}
+{%- for p in site.pages -%}
+  {%- assign search_ok = false -%}
+  {%- assign search_category = "" -%}
+  {%- if p.category == "diary" and p.url != "/diary/" -%}
+    {%- assign search_ok = true -%}
+    {%- assign search_category = "日記" -%}
+  {%- elsif p.category == "thought" and p.url != "/thought/" -%}
+    {%- assign search_ok = true -%}
+    {%- assign search_category = "考えたこと" -%}
+  {%- elsif p.category == "shelf" -%}
+    {%- assign search_ok = true -%}
+    {%- assign search_category = "棚" -%}
+  {%- elsif p.path contains "Shelf/" and p.name != "shelf.md" -%}
+    {%- assign search_ok = true -%}
+    {%- assign search_category = "棚" -%}
+  {%- elsif p.layout == "diary_by_day" -%}
+    {%- assign search_ok = true -%}
+    {%- assign search_category = "連用日記" -%}
+  {%- elsif p.path contains "loghapi-archive/" and p.path != "loghapi-archive/index.md" and p.name == "index.md" -%}
+    {%- assign search_ok = true -%}
+    {%- assign search_category = "ログハピ！" -%}
+  {%- endif -%}
+  {%- if search_ok and p.url and p.title -%}
+    {%- unless search_first -%},{%- endunless -%}
+    {
+      "title": {{ p.title | jsonify }},
+      "url": {{ p.url | relative_url | jsonify }},
+      "category": {{ search_category | jsonify }},
+      "date": {{ p.date | date: "%Y-%m-%d" | default: "" | jsonify }},
+      "content": {{ p.content | strip_html | strip_newlines | jsonify }}
+    }
+    {%- assign search_first = false -%}
+  {%- endif -%}
+{%- endfor -%}
+]

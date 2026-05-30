@@ -11,10 +11,6 @@ commonmark:
     - autolink
     - table
     - tagfilter
-header_pages:
-  - index.md
-  - diary.md
-  - loghapi-archive/index.md
 defaults:
   - scope:
       path: "Diary"

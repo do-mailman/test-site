@@ -19,6 +19,9 @@
     {%- include footer.html -%}
     {%- include random-article-pool.html -%}
     <script src="{{ '/assets/random-article.js' | relative_url }}" defer></script>
+    {%- if page.search_page -%}
+    <script src="{{ '/assets/search.js' | relative_url }}" defer></script>
+    {%- endif -%}
 
   </body>
 

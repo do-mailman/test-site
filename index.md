@@ -5,6 +5,8 @@ title: ホーム
 
 ### 夜ふかし郵便局(仮)のトップページです
 
+<p class="site-search-more"><a href="{{ '/search/' | relative_url }}">検索ページを開く</a></p>
+
 #### カテゴリ一覧
 - [日記](diary/)
     - [連用日記（毎月版）](diary/by-day/)

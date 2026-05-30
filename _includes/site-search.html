@@ -1,0 +1,15 @@
+{% assign search_limit = include.limit | default: 20 %}
+<div class="site-search" id="site-search" data-results-limit="{{ search_limit }}">
+  <label class="site-search-label" for="site-search-input">キーワード</label>
+  <input
+    class="site-search-input"
+    id="site-search-input"
+    type="search"
+    name="q"
+    placeholder="タイトル・本文から検索"
+    autocomplete="off"
+    spellcheck="false"
+  >
+  <p class="site-search-status" id="site-search-status" hidden></p>
+  <ol class="site-search-results" id="site-search-results"></ol>
+</div>
