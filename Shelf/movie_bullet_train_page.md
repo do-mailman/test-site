@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 映画「ブレット・トレイン」（Bullet Train）
+date: 2026-05-15
+category: shelf
 permalink: /movies/bullet-train/
 description: 映画「ブレット・トレイン」の基本情報と関連ページをまとめるためのページ。
 ---

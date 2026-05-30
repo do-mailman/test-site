@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 『殺し屋の営業術』
+date: 2026-05-18
+category: shelf
 permalink: /books/hitman-sales/
 description: 『殺し屋の営業術』の基本情報と関連ページをまとめるためのページ。
 ---
