@@ -1,5 +1,5 @@
 ---
-permalink: /honpop/
+permalink: /honpop-site-start/
 title: "Honkureとめほり書店にインスパイアされて新サイトを始める"
 date: 2019-06-29
 categories: 

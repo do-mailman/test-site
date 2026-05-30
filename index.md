@@ -13,6 +13,7 @@ title: ホーム
 - [考えたこと](thought/)
 - [本・マンガ・映画の棚(仮)](shelf/)
 - [ログハピ！アーカイブ](loghapi-archive/)
+- [ほんぽっぷアーカイブ]({{ '/honpop/' | relative_url }})
 
 <p class="random-article-home"><a href="#" id="random-article-trigger">ランダムに記事を読む</a></p>
 

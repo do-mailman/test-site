@@ -16,6 +16,8 @@
     {%- assign random_ok = true -%}
   {%- elsif p.path contains "loghapi-archive/" and p.path != "loghapi-archive/index.md" -%}
     {%- assign random_ok = true -%}
+  {%- elsif p.archive == "honpop" and p.url != "/honpop/" -%}
+    {%- assign random_ok = true -%}
   {%- endif -%}
   {%- if random_ok and p.url and p.title -%}
     {%- unless random_first -%},{%- endunless -%}

@@ -25,6 +25,9 @@ permalink: /search.json
   {%- elsif p.path contains "loghapi-archive/" and p.path != "loghapi-archive/index.md" and p.name == "index.md" -%}
     {%- assign search_ok = true -%}
     {%- assign search_category = "ログハピ！" -%}
+  {%- elsif p.archive == "honpop" and p.url != "/honpop/" -%}
+    {%- assign search_ok = true -%}
+    {%- assign search_category = "ほんぽっぷ" -%}
   {%- endif -%}
   {%- if search_ok and p.url and p.title -%}
     {%- unless search_first -%},{%- endunless -%}
