@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 図書館ランダム分類
+title: 図書館分類ランダム表示
 permalink: /library/random/
 ndc_random_page: true
 description: 日本十進分類法（NDC第9版）の分類から1つランダムに選び、図書館で読む本を迷ったときの棚のヒントにするページ。
 ---
 
-# 図書館ランダム分類
+# 図書館分類ランダム表示
 
-図書館で何を読もうか迷ったとき、**日本十進分類法（NDC）** の「類」（3桁の分類）を1つランダムに引きます。分類記号と棚の場所の目安を、下に表示します。
+下のボタンを押すと**日本十進分類法（NDC）** の「類」（3桁の分類）の中から1つランダムで表示します。図書館で何を読もうか迷ったとき、本屋でいつもとはちがう本を読みたくなったときなどにお使いください。
 
 <p class="ndc-random-actions">
   <button type="button" class="ndc-random-button" id="ndc-random-trigger">ランダムに引く</button>
