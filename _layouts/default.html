@@ -18,9 +18,15 @@
 
     {%- include footer.html -%}
     {%- include random-article-pool.html -%}
+    {%- if page.ndc_random_page -%}
+    {%- include ndc-random-pool.html -%}
+    {%- endif -%}
     <script src="{{ '/assets/random-article.js' | relative_url }}" defer></script>
     {%- if page.search_page -%}
     <script src="{{ '/assets/search.js' | relative_url }}" defer></script>
+    {%- endif -%}
+    {%- if page.ndc_random_page -%}
+    <script src="{{ '/assets/random-ndc.js' | relative_url }}" defer></script>
     {%- endif -%}
 
   </body>
