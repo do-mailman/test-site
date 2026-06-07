@@ -11,6 +11,7 @@ title: ホーム
 - [日記](diary/)
     - [連用日記（毎月版）](diary/by-day/)
 - [考えたこと](thought/)
+- [Craft & Method](craft/)
 - [本・マンガ・映画の棚(仮)](shelf/)
 - [ログハピ！アーカイブ](loghapi-archive/)
 - [ほんぽっぷアーカイブ]({{ '/honpop/' | relative_url }})
