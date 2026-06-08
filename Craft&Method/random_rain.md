@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Random Rain
+title: ブックマークレット Random Rain
 subtitle: ページ内のリンクをランダムに開くブックマークレット
 date: 2026-06-07
 category: craft & method

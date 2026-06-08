@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roam Random
+title: ブックマークレット Roam Random
 subtitle: Roam Research のバレットをランダムに選ぶブックマークレット
 date: 2026-06-07
 category: craft & method
