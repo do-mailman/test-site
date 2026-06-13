@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/">Jekyll</generator>
   <link href="/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2026-06-07T18:19:03+09:00</updated>
+  <updated>2026-06-13T17:06:36+09:00</updated>
   <id>/feed.xml</id>
   <title type="text">夜ふかし郵便局(仮)</title>
   <subtitle type="text">思考とか日記とかについて考える</subtitle>
@@ -15,13 +15,157 @@
   
   
   <entry>
-    <title type="text">Random Rain</title>
+    <title type="text">iPhone ショートカット Random App</title>
+    <link href="/craft/random-app/" rel="alternate" type="text/html"/>
+    <id>/craft/random-app/</id>
+    <published>2026-06-13T00:00:00+09:00</published>
+    <updated>2026-06-13T00:00:00+09:00</updated>
+    <summary type="text">選択肢が多すぎて選べない、結局いつもの SNS を開いてしまう——そんなときに使える iPhone ショートカットです。**リストに入れたアプリからランダムに 1 つ選んで開く** だけの仕組みです。SNSのアルゴリズムに夜ランダム刺激より、自分が開きたいアプリ側のランダムのほうがまだマシ、という発想から作りました。 ### 使い方 1. 下記 note 記事の手順でショートカットを作成する 2. ホーム画面などからショートカットを実行する 3. リストの中からランダムに選ばれたアプリが開く 疲れているときなど、意志力が残っていない時間帯に向いています。リストは好きなアプリで揃えたり、勉強用・時間帯ごとに分けたりできます。 ## 設定手順 [note「意志力がなくなっていてもSNSに流れたくないので、iPhoneショートカットでアプリをランダムで開けるようにした」](https://note.com/mailman/n/n5c36f2d467fb) の **①〜④**（新規作成 → リスト → ランダム取得 → App を開く）を参照。結構簡単に作れます。 ### 何をしているか 1. 起動したいアプリ名を「リスト」に 1 行ずつ入れる 2. 「リストからランダムな項目を取得」で 1 つ選ぶ 3. 「App を開く」で選ばれたアプリを起動する ### メモ - リストの **アプリ名は正確に** 書く必要があります - 私のリスト例：Roam Research、Kindle、BOOK WALKER、Books、Bluesky、Discord、日経電子版、Spotify、Pocket Casts、Wikipedia、Raindrop.io - SNSの使用時間を減らす別のやり方は [iPhone オートメーション SNS Shortcuts](/craft/sns-shortcuts/)</summary>
+    <content type="html"><![CDATA[<p>選択肢が多すぎて選べない、結局いつもの SNS を開いてしまう——そんなときに使える iPhone ショートカットです。<strong>リストに入れたアプリからランダムに 1 つ選んで開く</strong> だけの仕組みです。SNSのアルゴリズムに夜ランダム刺激より、自分が開きたいアプリ側のランダムのほうがまだマシ、という発想から作りました。</p>
+<h3 id="section">使い方</h3>
+<ol>
+<li>下記 note 記事の手順でショートカットを作成する</li>
+<li>ホーム画面などからショートカットを実行する</li>
+<li>リストの中からランダムに選ばれたアプリが開く</li>
+</ol>
+<p>疲れているときなど、意志力が残っていない時間帯に向いています。リストは好きなアプリで揃えたり、勉強用・時間帯ごとに分けたりできます。</p>
+<h2 id="section-1">設定手順</h2>
+<p><a href="https://note.com/mailman/n/n5c36f2d467fb">note「意志力がなくなっていてもSNSに流れたくないので、iPhoneショートカットでアプリをランダムで開けるようにした」</a> の <strong>①〜④</strong>（新規作成 → リスト → ランダム取得 → App を開く）を参照。結構簡単に作れます。</p>
+<h3 id="section-2">何をしているか</h3>
+<ol>
+<li>起動したいアプリ名を「リスト」に 1 行ずつ入れる</li>
+<li>「リストからランダムな項目を取得」で 1 つ選ぶ</li>
+<li>「App を開く」で選ばれたアプリを起動する</li>
+</ol>
+<h3 id="section-3">メモ</h3>
+<ul>
+<li>リストの <strong>アプリ名は正確に</strong> 書く必要があります</li>
+<li>私のリスト例：Roam Research、Kindle、BOOK WALKER、Books、Bluesky、Discord、日経電子版、Spotify、Pocket Casts、Wikipedia、Raindrop.io</li>
+<li>SNSの使用時間を減らす別のやり方は <a href="/craft/sns-shortcuts/">iPhone オートメーション SNS Shortcuts</a></li>
+</ul>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">iPhone オートメーション SNS Shortcuts</title>
+    <link href="/craft/sns-shortcuts/" rel="alternate" type="text/html"/>
+    <id>/craft/sns-shortcuts/</id>
+    <published>2026-06-13T00:00:00+09:00</published>
+    <updated>2026-06-13T00:00:00+09:00</updated>
+    <summary type="text">見たいわけでもないのに X を開いてしまう——そんなときに使っている iPhone ショートカットのオートメーションです。 ①X を開いたら画面を白黒にする ②30 秒後に Kindle へ切り替える この2 つを組み合わせています。SNSの刺激と快適さを意図的に下げる方針で、スクリーンタイムでは X の使用時間が約 4 分の 1 になりました（3 時間 54 分 → 57 分）。 ### 使い方 1. 下記 note 記事の手順で、2 つのオートメーションを設定する 2. いつもどおり X を開く 3. 白黒表示になり、30 秒後に Kindle（現在の本）へ切り替わる ホーム画面の配置やスクリーンタイム制限は試しましたが効果が薄かったです。意志ではなくシステムでレバーを重くする方向が合いました。 ## 設定手順 [note「SNSを使う時間がPhoneのショートカット機能を使って4分の1になった」](https://note.com/mailman/n/n0c4b8e155fd2) の **「X を開いたら白黒にするオートメーション」** と **「X を開いたら 30 秒後にアプリを開く」** を参照。2 分ほどで設定できます。 ### 何をしているか 1. X が開いたらカラーフィルター（グレースケール）をオンにする 2. 30 秒待機する（秒数は任意） 3. Kindle の「現在の本を読む」を開く ### メモ - **X 専用** の例です。他の SNS にも同じ考え方で応用できます - 読みたい投稿があるときは、オートメーションを一時的にオフにすればよい - 減った時間の行き先や意志力の話は [SNSの時間を減らしたら、意志力が戻ってきた](https://diarist.substack.com/p/sns)</summary>
+    <content type="html"><![CDATA[<p>見たいわけでもないのに X を開いてしまう——そんなときに使っている iPhone ショートカットのオートメーションです。</p>
+<p>①X を開いたら画面を白黒にする
+②30 秒後に Kindle へ切り替える</p>
+<p>この2 つを組み合わせています。SNSの刺激と快適さを意図的に下げる方針で、スクリーンタイムでは X の使用時間が約 4 分の 1 になりました（3 時間 54 分 → 57 分）。</p>
+<h3 id="section">使い方</h3>
+<ol>
+<li>下記 note 記事の手順で、2 つのオートメーションを設定する</li>
+<li>いつもどおり X を開く</li>
+<li>白黒表示になり、30 秒後に Kindle（現在の本）へ切り替わる</li>
+</ol>
+<p>ホーム画面の配置やスクリーンタイム制限は試しましたが効果が薄かったです。意志ではなくシステムでレバーを重くする方向が合いました。</p>
+<h2 id="section-1">設定手順</h2>
+<p><a href="https://note.com/mailman/n/n0c4b8e155fd2">note「SNSを使う時間がPhoneのショートカット機能を使って4分の1になった」</a> の <strong>「X を開いたら白黒にするオートメーション」</strong> と <strong>「X を開いたら 30 秒後にアプリを開く」</strong> を参照。2 分ほどで設定できます。</p>
+<h3 id="section-2">何をしているか</h3>
+<ol>
+<li>X が開いたらカラーフィルター（グレースケール）をオンにする</li>
+<li>30 秒待機する（秒数は任意）</li>
+<li>Kindle の「現在の本を読む」を開く</li>
+</ol>
+<h3 id="section-3">メモ</h3>
+<ul>
+<li><strong>X 専用</strong> の例です。他の SNS にも同じ考え方で応用できます</li>
+<li>読みたい投稿があるときは、オートメーションを一時的にオフにすればよい</li>
+<li>減った時間の行き先や意志力の話は <a href="https://diarist.substack.com/p/sns">SNSの時間を減らしたら、意志力が戻ってきた</a></li>
+</ul>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年06月12日（金）の日記</title>
+    <link href="/Diary/2026-06-12_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-06-12_diary.html</id>
+    <published>2026-06-12T00:00:00+09:00</published>
+    <updated>2026-06-12T00:00:00+09:00</updated>
+    <summary type="text">『一度読んだら絶対に忘れない世界史の教科書』を読み進めている。用語などは覚えたことも増えてきているんだけど、ちょっと流れとかが頭の中でごちゃごちゃになってきているので、図書館などによくある学習漫画みたいなもので一度おさらいしてみたほうがいいかもしれない。 頭の中が整理できそうだ。</summary>
+    <content type="html"><![CDATA[<p>『一度読んだら絶対に忘れない世界史の教科書』を読み進めている。用語などは覚えたことも増えてきているんだけど、ちょっと流れとかが頭の中でごちゃごちゃになってきているので、図書館などによくある学習漫画みたいなもので一度おさらいしてみたほうがいいかもしれない。</p>
+<p>頭の中が整理できそうだ。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年06月11日（木）の日記</title>
+    <link href="/Diary/2026-06-11_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-06-11_diary.html</id>
+    <published>2026-06-11T00:00:00+09:00</published>
+    <updated>2026-06-11T00:00:00+09:00</updated>
+    <summary type="text">『コード・ブレーカー』を読み進める。意外と伝記のような内容が多いのが想像と違った。 章がかなり短く区切られているので一章ずつ読んでいくのがちょうどよさそうだ。</summary>
+    <content type="html"><![CDATA[<p>『コード・ブレーカー』を読み進める。意外と伝記のような内容が多いのが想像と違った。
+章がかなり短く区切られているので一章ずつ読んでいくのがちょうどよさそうだ。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年06月10日（水）の日記</title>
+    <link href="/Diary/2026-06-10_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-06-10_diary.html</id>
+    <published>2026-06-10T00:00:00+09:00</published>
+    <updated>2026-06-10T00:00:00+09:00</updated>
+    <summary type="text">少し調子が戻ってきたのでうれしい。体を少し動かしたおかげかもしれないし、そうでないかもしれない。 梅雨で曇りが多いとかも、影響はありそう。 とりあえずアジャスト期間は何とか乗り越えただろうか。自分の場合は、とにかく第一として睡眠をしっかりとるに限る。</summary>
+    <content type="html"><![CDATA[<p>少し調子が戻ってきたのでうれしい。体を少し動かしたおかげかもしれないし、そうでないかもしれない。
+梅雨で曇りが多いとかも、影響はありそう。</p>
+<p>とりあえずアジャスト期間は何とか乗り越えただろうか。自分の場合は、とにかく第一として睡眠をしっかりとるに限る。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年06月09日（火）の日記</title>
+    <link href="/Diary/2026-06-09_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-06-09_diary.html</id>
+    <published>2026-06-09T00:00:00+09:00</published>
+    <updated>2026-06-09T00:00:00+09:00</updated>
+    <summary type="text">少し気分転換にゲームの『パラノマサイト file38伊勢人魚伝説』をやっている。 前作がおもしろかったので、今回も楽しみ。</summary>
+    <content type="html"><![CDATA[<p>少し気分転換にゲームの『パラノマサイト file38伊勢人魚伝説』をやっている。
+前作がおもしろかったので、今回も楽しみ。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年06月08日（月）の日記</title>
+    <link href="/Diary/2026-06-08_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-06-08_diary.html</id>
+    <published>2026-06-08T00:00:00+09:00</published>
+    <updated>2026-06-08T00:00:00+09:00</updated>
+    <summary type="text">週次Reviewのときの臨時のプロンプトとして🤖の絵文字が付いた文章は、週次Reviewの時に実施してもらうようにした。 たとえば、今日はこんな文章を書いた。 「進化論についてダーウィンとウォレスって論文を同じ日に出すように示し合わせていた。それでもダーウィンの方が有名になったのは『種の起源』の出版のおかげだろうか？🤖」 こう書いてみると、その時に検索してもいいのだけど、できないときもあるし、時間差をつけて興味があったところを復習できるのは良い気がする。</summary>
+    <content type="html"><![CDATA[<p>週次Reviewのときの臨時のプロンプトとして🤖の絵文字が付いた文章は、週次Reviewの時に実施してもらうようにした。
+たとえば、今日はこんな文章を書いた。</p>
+<p>「進化論についてダーウィンとウォレスって論文を同じ日に出すように示し合わせていた。それでもダーウィンの方が有名になったのは『種の起源』の出版のおかげだろうか？🤖」</p>
+<p>こう書いてみると、その時に検索してもいいのだけど、できないときもあるし、時間差をつけて興味があったところを復習できるのは良い気がする。</p>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">ブックマークレット Random Rain</title>
     <link href="/craft/random-rain/" rel="alternate" type="text/html"/>
     <id>/craft/random-rain/</id>
     <published>2026-06-07T00:00:00+09:00</published>
     <updated>2026-06-07T00:00:00+09:00</updated>
-    <summary type="text">初めて自分用に作ったブックマークレットです。名前は **Random Rain** —— 今開いているページに散らばったリンクのどれかを、ランダムにひとつ拾って開きます。リンクがひとつもなければ「リンクが見つかりません」と表示して終わります。 ### 使い方 1. 下のコードをブックマークレットとして登録する（ブックマークの URL に貼る、またはブックマークバーへドラッグ） 2. リンクがたくさんあるページを開く 3. ブックマークレットを実行する 保存記事一覧、まとめサイト、ニュースサイトなど、「どれを読もうか迷う」ときに向いています。 ## コード ブックマークレット用（1行・そのまま登録用）: ```text javascript:(function(){const links=Array.from(document.querySelectorAll(&apos;a&apos;)).map(a=&gt;a.href).filter(h=&gt;h&amp;&amp;h.startsWith(&apos;http&apos;));if(links.length===0){alert(&apos;リンクが見つかりません&apos;);return;}const url=links[Math.floor(Math.random()*links.length)];window.open(url,&apos;_blank&apos;);})(); ``` 読みやすくしたソース: ```javascript javascript:(function(){ const links = Array.from(document.querySelectorAll(&apos;a&apos;)) .map(a =&gt; a.href) .filter(h =&gt; h &amp;&amp; h.startsWith(&apos;http&apos;)); if (links.length === 0) { alert(&apos;リンクが見つかりません&apos;); return; } const url = links[Math.floor(Math.random() * links.length)]; window.open(url, &apos;_blank&apos;); })(); ``` ### 何をしているか 1. 表示中のページから `` 要素を集める 2. `http` で始まる URL だけに絞る 3. その中からひとつをランダムに選び、新しいタブで開く ### メモ - 同一ページ内のリンクだけが対象です（別ドメインへの外部リンクも含みます） - `javascript:` や `mailto:` などは `http` で始まらないため除外されます</summary>
-    <content type="html"><![CDATA[<p>初めて自分用に作ったブックマークレットです。名前は <strong>Random Rain</strong> —— 今開いているページに散らばったリンクのどれかを、ランダムにひとつ拾って開きます。リンクがひとつもなければ「リンクが見つかりません」と表示して終わります。</p>
+    <summary type="text">初めて自分用に作ったブックマークレットです。今開いているページに散らばったリンクのどれかを、ランダムにひとつ拾って開きます。リンクがひとつもなければ「リンクが見つかりません」と表示して終わります。名前は「**Random Rain**」です。 ### 使い方 1. 下のコードをブックマークレットとして登録する（ブックマークの URL に貼る、またはブックマークバーへドラッグ） 2. リンクがたくさんあるページを開く 3. ブックマークレットを実行する 保存記事一覧、まとめサイト、ニュースサイトなど、「どれを読もうか迷う」ときに向いています。 ## コード ブックマークレット用（1行・そのまま登録用）: ```text javascript:(function(){const links=Array.from(document.querySelectorAll(&apos;a&apos;)).map(a=&gt;a.href).filter(h=&gt;h&amp;&amp;h.startsWith(&apos;http&apos;));if(links.length===0){alert(&apos;リンクが見つかりません&apos;);return;}const url=links[Math.floor(Math.random()*links.length)];window.open(url,&apos;_blank&apos;);})(); ``` 読みやすくしたソース: ```javascript javascript:(function(){ const links = Array.from(document.querySelectorAll(&apos;a&apos;)) .map(a =&gt; a.href) .filter(h =&gt; h &amp;&amp; h.startsWith(&apos;http&apos;)); if (links.length === 0) { alert(&apos;リンクが見つかりません&apos;); return; } const url = links[Math.floor(Math.random() * links.length)]; window.open(url, &apos;_blank&apos;); })(); ``` ### 何をしているか 1. 表示中のページから `` 要素を集める 2. `http` で始まる URL だけに絞る 3. その中からひとつをランダムに選び、新しいタブで開く ### メモ - 同一ページ内のリンクだけが対象です（別ドメインへの外部リンクも含みます） - `javascript:` や `mailto:` などは `http` で始まらないため除外されます</summary>
+    <content type="html"><![CDATA[<p>初めて自分用に作ったブックマークレットです。今開いているページに散らばったリンクのどれかを、ランダムにひとつ拾って開きます。リンクがひとつもなければ「リンクが見つかりません」と表示して終わります。名前は「<strong>Random Rain</strong>」です。</p>
 <h3 id="section">使い方</h3>
 <ol>
 <li>下のコードをブックマークレットとして登録する（ブックマークの URL に貼る、またはブックマークバーへドラッグ）</li>
@@ -57,6 +201,78 @@
 <li>同一ページ内のリンクだけが対象です（別ドメインへの外部リンクも含みます）</li>
 <li><code>javascript:</code> や <code>mailto:</code> などは <code>http</code> で始まらないため除外されます</li>
 </ul>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">ブックマークレット Roam Random</title>
+    <link href="/craft/roam-random/" rel="alternate" type="text/html"/>
+    <id>/craft/roam-random/</id>
+    <published>2026-06-07T00:00:00+09:00</published>
+    <updated>2026-06-07T00:00:00+09:00</updated>
+    <summary type="text">Roam Research 用に作ったブックマークレット「**Roam Random**」です。今開いているページに表示されているバレットのどれかを、ランダムにひとつ選んでスクロールし、クリックして開きます。対象のブロックがひとつもなければ「ブロックが見つかりません」と表示して終わります。 積みタスクのどれから手をつけるか迷うとき、書くネタやアイデアを選ぶときなど、「悩むよりやってみる」モードへ切り替えるきっかけに使っています。ランダムで選んだら、ひとまず少しでもいいから触ってみる——それがポイントです。 ### 使い方 1. 下のコードをブックマークレットとして登録する（ブックマークの URL に貼る、またはブックマークバーへドラッグ） 2. Roam Research でバレットがたくさんあるページを開く 3. ブックマークレットを実行する ## コード ブックマークレット用（1行・そのまま登録用）: ```text javascript:(function(){const blocks=Array.from(document.querySelectorAll(&apos;.roam-article .rm-block-main&apos;)).filter(el=&gt;{return el.offsetParent!==null&amp;&amp;el.querySelector(&apos;.rm-bullet&apos;);});if(blocks.length===0){alert(&apos;ブロックが見つかりません&apos;);return;}const randomBlock=blocks[Math.floor(Math.random()*blocks.length)];const bullet=randomBlock.querySelector(&apos;.rm-bullet&apos;);if(bullet){bullet.scrollIntoView({behavior:&quot;smooth&quot;,block:&quot;center&quot;});setTimeout(()=&gt;bullet.click(),200);}})(); ``` 読みやすくしたソース: ```javascript javascript:(function(){ const blocks = Array.from( document.querySelectorAll(&apos;.roam-article .rm-block-main&apos;) ).filter(el =&gt; { return el.offsetParent !== null &amp;&amp; el.querySelector(&apos;.rm-bullet&apos;); }); if (blocks.length === 0) { alert(&apos;ブロックが見つかりません&apos;); return; } const randomBlock = blocks[Math.floor(Math.random() * blocks.length)]; const bullet = randomBlock.querySelector(&apos;.rm-bullet&apos;); if (bullet) { bullet.scrollIntoView({ behavior: &apos;smooth&apos;, block: &apos;center&apos; }); setTimeout(() =&gt; bullet.click(), 200); } })(); ``` ### 何をしているか 1. 表示中の Roam ページから `.rm-block-main` 要素を集める 2. 画面に表示されていて、バレット（`.rm-bullet`）を持つブロックだけに絞る 3. その中からひとつをランダムに選ぶ 4. 選んだバレットまでスムーズにスクロールし、少し待ってからクリックして開く ### メモ - **Roam Research 専用**です（`.roam-article` の DOM 構造を前提にしています） - 折りたたまれていて画面に見えていないブロックは対象外です - バレットをクリックするので、子ブロックがある場合は展開されます - Dynalist や Workflowy など、似たアウトライナーにも応用できそうですが、未検証です</summary>
+    <content type="html"><![CDATA[<p>Roam Research 用に作ったブックマークレット「<strong>Roam Random</strong>」です。今開いているページに表示されているバレットのどれかを、ランダムにひとつ選んでスクロールし、クリックして開きます。対象のブロックがひとつもなければ「ブロックが見つかりません」と表示して終わります。</p>
+<p>積みタスクのどれから手をつけるか迷うとき、書くネタやアイデアを選ぶときなど、「悩むよりやってみる」モードへ切り替えるきっかけに使っています。ランダムで選んだら、ひとまず少しでもいいから触ってみる——それがポイントです。</p>
+<h3 id="section">使い方</h3>
+<ol>
+<li>下のコードをブックマークレットとして登録する（ブックマークの URL に貼る、またはブックマークバーへドラッグ）</li>
+<li>Roam Research でバレットがたくさんあるページを開く</li>
+<li>ブックマークレットを実行する</li>
+</ol>
+<h2 id="section-1">コード</h2>
+<p>ブックマークレット用（1行・そのまま登録用）:</p>
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>javascript:(function(){const blocks=Array.from(document.querySelectorAll('.roam-article .rm-block-main')).filter(el=&gt;{return el.offsetParent!==null&amp;&amp;el.querySelector('.rm-bullet');});if(blocks.length===0){alert('ブロックが見つかりません');return;}const randomBlock=blocks[Math.floor(Math.random()*blocks.length)];const bullet=randomBlock.querySelector('.rm-bullet');if(bullet){bullet.scrollIntoView({behavior:"smooth",block:"center"});setTimeout(()=&gt;bullet.click(),200);}})();
+</code></pre></div></div>
+<p>読みやすくしたソース:</p>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">javascript</span><span class="p">:(</span><span class="kd">function</span><span class="p">(){</span>
+  <span class="kd">const</span> <span class="nx">blocks</span> <span class="o">=</span> <span class="nb">Array</span><span class="p">.</span><span class="k">from</span><span class="p">(</span>
+    <span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="dl">'</span><span class="s1">.roam-article .rm-block-main</span><span class="dl">'</span><span class="p">)</span>
+  <span class="p">).</span><span class="nx">filter</span><span class="p">(</span><span class="nx">el</span> <span class="o">=&gt;</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="nx">el</span><span class="p">.</span><span class="nx">offsetParent</span> <span class="o">!==</span> <span class="kc">null</span> <span class="o">&amp;&amp;</span> <span class="nx">el</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="dl">'</span><span class="s1">.rm-bullet</span><span class="dl">'</span><span class="p">);</span>
+  <span class="p">});</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">blocks</span><span class="p">.</span><span class="nx">length</span> <span class="o">===</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">alert</span><span class="p">(</span><span class="dl">'</span><span class="s1">ブロックが見つかりません</span><span class="dl">'</span><span class="p">);</span>
+    <span class="k">return</span><span class="p">;</span>
+  <span class="p">}</span>
+  <span class="kd">const</span> <span class="nx">randomBlock</span> <span class="o">=</span> <span class="nx">blocks</span><span class="p">[</span><span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span> <span class="o">*</span> <span class="nx">blocks</span><span class="p">.</span><span class="nx">length</span><span class="p">)];</span>
+  <span class="kd">const</span> <span class="nx">bullet</span> <span class="o">=</span> <span class="nx">randomBlock</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="dl">'</span><span class="s1">.rm-bullet</span><span class="dl">'</span><span class="p">);</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">bullet</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">bullet</span><span class="p">.</span><span class="nx">scrollIntoView</span><span class="p">({</span> <span class="na">behavior</span><span class="p">:</span> <span class="dl">'</span><span class="s1">smooth</span><span class="dl">'</span><span class="p">,</span> <span class="na">block</span><span class="p">:</span> <span class="dl">'</span><span class="s1">center</span><span class="dl">'</span> <span class="p">});</span>
+    <span class="nx">setTimeout</span><span class="p">(()</span> <span class="o">=&gt;</span> <span class="nx">bullet</span><span class="p">.</span><span class="nx">click</span><span class="p">(),</span> <span class="mi">200</span><span class="p">);</span>
+  <span class="p">}</span>
+<span class="p">})();</span>
+</code></pre></div></div>
+<h3 id="section-2">何をしているか</h3>
+<ol>
+<li>表示中の Roam ページから <code>.rm-block-main</code> 要素を集める</li>
+<li>画面に表示されていて、バレット（<code>.rm-bullet</code>）を持つブロックだけに絞る</li>
+<li>その中からひとつをランダムに選ぶ</li>
+<li>選んだバレットまでスムーズにスクロールし、少し待ってからクリックして開く</li>
+</ol>
+<h3 id="section-3">メモ</h3>
+<ul>
+<li><strong>Roam Research 専用</strong>です（<code>.roam-article</code> の DOM 構造を前提にしています）</li>
+<li>折りたたまれていて画面に見えていないブロックは対象外です</li>
+<li>バレットをクリックするので、子ブロックがある場合は展開されます</li>
+<li>Dynalist や Workflowy など、似たアウトライナーにも応用できそうですが、未検証です</li>
+</ul>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
+    <title type="text">2026年06月07日（日）の日記</title>
+    <link href="/Diary/2026-06-07_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-06-07_diary.html</id>
+    <published>2026-06-07T00:00:00+09:00</published>
+    <updated>2026-06-07T00:00:00+09:00</updated>
+    <summary type="text">自分が今までに作ったブックマークレットとかをまとめておこうと思い、ひとまずカテゴリ－として「Craft &amp;amp; Method」として作っておいた。 2つブックマークレット追加済み。 https://log-is-fun.com/craft/</summary>
+    <content type="html"><![CDATA[<p>自分が今までに作ったブックマークレットとかをまとめておこうと思い、ひとまずカテゴリ－として「Craft &amp; Method」として作っておいた。
+2つブックマークレット追加済み。</p>
+<p><a href="https://log-is-fun.com/craft/">https://log-is-fun.com/craft/</a></p>
 ]]></content>
   </entry>
   
@@ -697,6 +913,30 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   
   <entry>
+    <title type="text">2026年05月01日（金）の日記</title>
+    <link href="/Diary/2026-05-01_diary.html" rel="alternate" type="text/html"/>
+    <id>/Diary/2026-05-01_diary.html</id>
+    <published>2026-05-01T00:00:00+09:00</published>
+    <updated>2026-05-01T00:00:00+09:00</updated>
+    <summary type="text">サイトに記事を追加。 書籍についての記事だけでなく、書籍のページを作って、書籍などから考えたことの記事をリンクで書籍のページにまとめておくと良さそう。 他にもRSSでタイトルだけでなく本文も見られるように修正した。 押入れも整理。 乱雑だった工具たちを工具箱を買って整理。スッキリした。 関連リンク AIというプリズムの向こう側 『CHANGE 変化を起こす7つの戦略』（書籍ページ） 『NEXUS 情報の人類史』（書籍ページ） RSS（全文）</summary>
+    <content type="html"><![CDATA[<p>サイトに記事を追加。</p>
+<p>書籍についての記事だけでなく、書籍のページを作って、書籍などから考えたことの記事をリンクで書籍のページにまとめておくと良さそう。</p>
+<p>他にもRSSでタイトルだけでなく本文も見られるように修正した。</p>
+<p>押入れも整理。
+乱雑だった工具たちを工具箱を買って整理。スッキリした。</p>
+<h2 id="section">関連リンク</h2>
+<ul>
+<li><a href="https://log-is-fun.com/nexus-change-prism/">AIというプリズムの向こう側</a></li>
+<li><a href="https://log-is-fun.com/books/change/">『CHANGE 変化を起こす7つの戦略』（書籍ページ）</a></li>
+<li><a href="https://log-is-fun.com/books/nexus/">『NEXUS 情報の人類史』（書籍ページ）</a></li>
+<li><a href="https://log-is-fun.com/rss.xml">RSS（全文）</a></li>
+</ul>
+]]></content>
+  </entry>
+  
+  
+  
+  <entry>
     <title type="text">AIというプリズムの向こう側</title>
     <link href="/nexus-change-prism/" rel="alternate" type="text/html"/>
     <id>/nexus-change-prism/</id>
@@ -752,30 +992,6 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
   
   
   <entry>
-    <title type="text">2026年05月01日（金）の日記</title>
-    <link href="/Diary/2026-05-01_diary.html" rel="alternate" type="text/html"/>
-    <id>/Diary/2026-05-01_diary.html</id>
-    <published>2026-05-01T00:00:00+09:00</published>
-    <updated>2026-05-01T00:00:00+09:00</updated>
-    <summary type="text">サイトに記事を追加。 書籍についての記事だけでなく、書籍のページを作って、書籍などから考えたことの記事をリンクで書籍のページにまとめておくと良さそう。 他にもRSSでタイトルだけでなく本文も見られるように修正した。 押入れも整理。 乱雑だった工具たちを工具箱を買って整理。スッキリした。 関連リンク AIというプリズムの向こう側 『CHANGE 変化を起こす7つの戦略』（書籍ページ） 『NEXUS 情報の人類史』（書籍ページ） RSS（全文）</summary>
-    <content type="html"><![CDATA[<p>サイトに記事を追加。</p>
-<p>書籍についての記事だけでなく、書籍のページを作って、書籍などから考えたことの記事をリンクで書籍のページにまとめておくと良さそう。</p>
-<p>他にもRSSでタイトルだけでなく本文も見られるように修正した。</p>
-<p>押入れも整理。
-乱雑だった工具たちを工具箱を買って整理。スッキリした。</p>
-<h2 id="section">関連リンク</h2>
-<ul>
-<li><a href="https://log-is-fun.com/nexus-change-prism/">AIというプリズムの向こう側</a></li>
-<li><a href="https://log-is-fun.com/books/change/">『CHANGE 変化を起こす7つの戦略』（書籍ページ）</a></li>
-<li><a href="https://log-is-fun.com/books/nexus/">『NEXUS 情報の人類史』（書籍ページ）</a></li>
-<li><a href="https://log-is-fun.com/rss.xml">RSS（全文）</a></li>
-</ul>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
     <title type="text">2026年04月30日（木）の日記</title>
     <link href="/Diary/2026-04-30_diary.html" rel="alternate" type="text/html"/>
     <id>/Diary/2026-04-30_diary.html</id>
@@ -792,144 +1008,6 @@ CursorにnoteやSubstackからエクスポートした原稿を追加。</p>
 <p>選択肢の多さは余裕を生み出すと思っているが、逆に余裕を削ることもあるのかもしれない。
 それは自分自身が選択したという責任を背負う余裕を持てるかどうかなのだろうか。</p>
 <p>贅沢には選択を受け取る器量が必要なのかも。</p>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年04月29日（水）の日記</title>
-    <link href="/Diary/2026-04-29_diary.html" rel="alternate" type="text/html"/>
-    <id>/Diary/2026-04-29_diary.html</id>
-    <published>2026-04-29T00:00:00+09:00</published>
-    <updated>2026-04-29T00:00:00+09:00</updated>
-    <summary type="text">ツバメが巣の回りを忙しく飛び回っている。 『中動態の世界』を読み進める。文法のところはなじみがなさ過ぎて理解というより、位置を把握するというか、こういうのもあるのかぐらいの感覚で読み進める。 図書館で『新版 「幸せをお金で買う」５つの授業』を読んでいると、最近は当たり前の言説となってきている「物よりも経験を買う方が幸福度が高い」という内容が眼に入ってくる。 経験はそもそも自分に直接かかわることなわけなので、物よりは人生に対する近接度は高いと思う。 ただ、モノだって何かを体験するためとか、それがあってこそできることとかもあるから、それも含めたらモノを買うことによる幸せだって当然あると思う - ソファーで家族で座れるようになった - 双眼鏡でバードウォッチング などなど。『新版 「幸せをお金で買う」５つの授業』中にもあったように、実際にモノに使ったのか、経験に使ったのかは簡単に分けられるものでもないと思う。 あと考えたいのは『暇と退屈の倫理学』に出てくる「浪費」はそこにどうかかわってくるだろうか。 「浪費」において「モノをモノとして受け取る」というのに、経験にはどう当てはまるのかなといったことを少し考える。 このサイトにも少しずつ慣れてきたので、内容のバリエーションを増やしていきたいな。</summary>
-    <content type="html"><![CDATA[<p>ツバメが巣の回りを忙しく飛び回っている。</p>
-<p>『中動態の世界』を読み進める。文法のところはなじみがなさ過ぎて理解というより、位置を把握するというか、こういうのもあるのかぐらいの感覚で読み進める。</p>
-<p>図書館で『新版 「幸せをお金で買う」５つの授業』を読んでいると、最近は当たり前の言説となってきている「物よりも経験を買う方が幸福度が高い」という内容が眼に入ってくる。</p>
-<p>経験はそもそも自分に直接かかわることなわけなので、物よりは人生に対する近接度は高いと思う。
-ただ、モノだって何かを体験するためとか、それがあってこそできることとかもあるから、それも含めたらモノを買うことによる幸せだって当然あると思う</p>
-<ul>
-<li>ソファーで家族で座れるようになった</li>
-<li>双眼鏡でバードウォッチング</li>
-</ul>
-<p>などなど。『新版 「幸せをお金で買う」５つの授業』中にもあったように、実際にモノに使ったのか、経験に使ったのかは簡単に分けられるものでもないと思う。</p>
-<p>あと考えたいのは『暇と退屈の倫理学』に出てくる「浪費」はそこにどうかかわってくるだろうか。
-「浪費」において「モノをモノとして受け取る」というのに、経験にはどう当てはまるのかなといったことを少し考える。</p>
-<p>このサイトにも少しずつ慣れてきたので、内容のバリエーションを増やしていきたいな。</p>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年04月28日（火）の日記</title>
-    <link href="/Diary/2026-04-28_diary.html" rel="alternate" type="text/html"/>
-    <id>/Diary/2026-04-28_diary.html</id>
-    <published>2026-04-28T00:00:00+09:00</published>
-    <updated>2026-04-28T00:00:00+09:00</updated>
-    <summary type="text">GW前最終日。 簡単な打ち合わせでも議事メモを書いておくのは大事。 特に連休後の自分への申し送りは大事になる。 実況メモ式感想法は、絵を描く練習のなかのスケッチに似ているのかもしれない。自分が見たものを再出力して、確認できる。</summary>
-    <content type="html"><![CDATA[<p>GW前最終日。
-簡単な打ち合わせでも議事メモを書いておくのは大事。
-特に連休後の自分への申し送りは大事になる。</p>
-<p>実況メモ式感想法は、絵を描く練習のなかのスケッチに似ているのかもしれない。自分が見たものを再出力して、確認できる。</p>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年04月27日（月）の日記</title>
-    <link href="/Diary/2026-04-27_diary.html" rel="alternate" type="text/html"/>
-    <id>/Diary/2026-04-27_diary.html</id>
-    <published>2026-04-27T00:00:00+09:00</published>
-    <updated>2026-04-27T00:00:00+09:00</updated>
-    <summary type="text">職場の近くできれいに鳴いている鳥はイソヒヨドリみたいだと分かる。 ずっときれい鳴き声だけ聞いて何かわからなかったので、仕事中にそわそわしてしまった。 『暇と退屈の倫理学』の再読が終わって、『生産性が高い人の8つの原則』を読んでいる。 心理的安全性など、個人だけでなく、組織としての生産性も視野に入れているのは良いと思う。</summary>
-    <content type="html"><![CDATA[<p>職場の近くできれいに鳴いている鳥はイソヒヨドリみたいだと分かる。
-ずっときれい鳴き声だけ聞いて何かわからなかったので、仕事中にそわそわしてしまった。</p>
-<p>『暇と退屈の倫理学』の再読が終わって、『生産性が高い人の8つの原則』を読んでいる。
-心理的安全性など、個人だけでなく、組織としての生産性も視野に入れているのは良いと思う。</p>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年04月26日（日）の日記</title>
-    <link href="/Diary/2026-04-26_diary.html" rel="alternate" type="text/html"/>
-    <id>/Diary/2026-04-26_diary.html</id>
-    <published>2026-04-26T00:00:00+09:00</published>
-    <updated>2026-04-26T00:00:00+09:00</updated>
-    <summary type="text">バードウォッチングをしにいったが、初の新緑の時期で見つけるのにとても苦戦した。 修業が必要。</summary>
-    <content type="html"><![CDATA[<p>バードウォッチングをしにいったが、初の新緑の時期で見つけるのにとても苦戦した。
-修業が必要。</p>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年04月25日（土）の日記</title>
-    <link href="/Diary/2026-04-25_diary.html" rel="alternate" type="text/html"/>
-    <id>/Diary/2026-04-25_diary.html</id>
-    <published>2026-04-25T00:00:00+09:00</published>
-    <updated>2026-04-25T00:00:00+09:00</updated>
-    <summary type="text">こちらの「夜ふかし郵便局(仮)」に過去書いてたブログ「ログハピ！」を持ってきてみた。 サイトのURLも独自ドメインに変更する。</summary>
-    <content type="html"><![CDATA[<p>こちらの「夜ふかし郵便局(仮)」に過去書いてたブログ「ログハピ！」を持ってきてみた。
-サイトのURLも独自ドメインに変更する。</p>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年04月24日（金）の日記</title>
-    <link href="/Diary/2026-04-24_diary.html" rel="alternate" type="text/html"/>
-    <id>/Diary/2026-04-24_diary.html</id>
-    <published>2026-04-24T00:00:00+09:00</published>
-    <updated>2026-04-24T00:00:00+09:00</updated>
-    <summary type="text">『暇と退屈の倫理学』が再読し終わったので、次は『生産性が高い人の8つの原則』を読もうと思う。</summary>
-    <content type="html"><![CDATA[<p>『暇と退屈の倫理学』が再読し終わったので、次は『生産性が高い人の8つの原則』を読もうと思う。</p>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年04月23日（木）の日記</title>
-    <link href="/Diary/2026-04-23_diary.html" rel="alternate" type="text/html"/>
-    <id>/Diary/2026-04-23_diary.html</id>
-    <published>2026-04-23T00:00:00+09:00</published>
-    <updated>2026-04-23T00:00:00+09:00</updated>
-    <summary type="text">仕事で久しぶりに力仕事をしたので疲れた。 ただデスクワークにはない充実感があるのも事実。</summary>
-    <content type="html"><![CDATA[<p>仕事で久しぶりに力仕事をしたので疲れた。
-ただデスクワークにはない充実感があるのも事実。</p>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年04月22日（水）の日記</title>
-    <link href="/Diary/2026-04-22_diary.html" rel="alternate" type="text/html"/>
-    <id>/Diary/2026-04-22_diary.html</id>
-    <published>2026-04-22T00:00:00+09:00</published>
-    <updated>2026-04-22T00:00:00+09:00</updated>
-    <summary type="text">NBAのプレイオフが熱い</summary>
-    <content type="html"><![CDATA[<p>NBAのプレイオフが熱い</p>
-]]></content>
-  </entry>
-  
-  
-  
-  <entry>
-    <title type="text">2026年04月21日（火）の日記</title>
-    <link href="/Diary/2026-04-21_diary.html" rel="alternate" type="text/html"/>
-    <id>/Diary/2026-04-21_diary.html</id>
-    <published>2026-04-21T00:00:00+09:00</published>
-    <updated>2026-04-21T00:00:00+09:00</updated>
-    <summary type="text">『CHANGE』を読み終わった。これはまとめておきたい、と言いつつ『NEXUS』もまだまとめられていないので、どうなるか。</summary>
-    <content type="html"><![CDATA[<p>『CHANGE』を読み終わった。これはまとめておきたい、と言いつつ『NEXUS』もまだまとめられていないので、どうなるか。</p>
 ]]></content>
   </entry>
   
