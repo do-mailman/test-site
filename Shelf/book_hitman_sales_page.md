@@ -29,7 +29,7 @@ description: 『殺し屋の営業術』の基本情報と関連ページをま�
 
 ## 関連日記
 
-- [2026年05月14日（木）の日記]({{ "/Diary/2026-05-14_diary.html" | relative_url }})（Audible で聴く方が向いているか、など）
+- [2026年05月14日（木）の日記]({{ "/Diary/2026-05-14_diary.html" | relative_url }})
 
 ## 参考リンク
 
