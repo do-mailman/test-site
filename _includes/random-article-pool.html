@@ -1,5 +1,5 @@
 {% comment %}
-  ランダム遷移の候補: 考えたこと・棚・ログハピ！アーカイブ各記事・連用日記（日付別）
+  ランダム遷移の候補: 考えたこと・日記の研究・棚・ログハピ！アーカイブ各記事・連用日記（日付別）
 {% endcomment %}
 <script type="application/json" id="random-article-pool">
 [
@@ -7,6 +7,8 @@
 {%- for p in site.pages -%}
   {%- assign random_ok = false -%}
   {%- if p.category == "thought" and p.url != "/thought/" -%}
+    {%- assign random_ok = true -%}
+  {%- elsif p.category == "diary-research" and p.url != "/diary-research/" -%}
     {%- assign random_ok = true -%}
   {%- elsif p.category == "shelf" -%}
     {%- assign random_ok = true -%}
