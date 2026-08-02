@@ -33,4 +33,4 @@ description: 『父と息子のスキンケア』の基本情報と関連ペー�
 
 ## 参考リンク
 
-随時追記
+- [『父と息子のスキンケア』早川書房公式](https://www.hayakawa-online.co.jp/shop/g/g0000240045/)

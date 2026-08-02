@@ -37,4 +37,4 @@ description: 『さよならジャバウォック』の基本情報と関連ペ�
 
 ## 参考リンク
 
-随時追記
+- [伊坂幸太郎『さよならジャバウォック』特設サイト](https://fr.futabasha.co.jp/special/sayonara_Jabberwock/)

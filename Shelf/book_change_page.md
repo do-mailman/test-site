@@ -41,4 +41,4 @@ description: 『CHANGE』の基本情報と関連ページをまとめるため�
 
 ## 参考リンク
 
-随時追記
+- [『CHANGE 変化を起こす7つの戦略』公式サイト](http://www.intershift.jp/w_change.html)

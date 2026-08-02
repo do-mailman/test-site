@@ -37,4 +37,4 @@ description: 『NEXUS 情報の人類史』の基本情報と関連ページを�
 
 ## 参考リンク
 
-随時追記
+- [『NEXUS 情報の人類史』特設サイト](https://www.kawade.co.jp/nexus/)

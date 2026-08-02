@@ -38,4 +38,5 @@ description: 映画「ブレット・トレイン」の基本情報と関連ペ�
 
 ## 参考リンク
 
-[『ブレット・トレイン』紹介回┃東海道新幹線「ゆかり号」は秋葉原を通過しました 作成者：あれ観た？](https://creators.spotify.com/pod/profile/are-mita/episodes/ep-e28rm6j)
+- [映画『ブレット・トレイン』公式サイト](https://www.bullettrain-movie.jp/)
+- [『ブレット・トレイン』紹介回┃東海道新幹線「ゆかり号」は秋葉原を通過しました 作成者：あれ観た？](https://creators.spotify.com/pod/profile/are-mita/episodes/ep-e28rm6j)

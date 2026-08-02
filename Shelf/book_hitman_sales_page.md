@@ -33,4 +33,4 @@ description: 『殺し屋の営業術』の基本情報と関連ページをま�
 
 ## 参考リンク
 
-随時追記
+- [『殺し屋の営業術』講談社公式](https://www.kodansha.co.jp/book/products/0000416893)
