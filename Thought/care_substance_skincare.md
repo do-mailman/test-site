@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 「いる」と「する」のシーソーを漕いでいく
-subtitle: 『父と息子のスキンケア』と映画『サブスタンス』を並走して考えたこと
+subtitle: 『父と息子のスキンケア』と映画『サブスタンス』から考えたこと
 date: 2026-08-02
 category: thought
 permalink: /care-substance-skincare/
